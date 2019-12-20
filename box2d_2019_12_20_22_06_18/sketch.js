@@ -6,7 +6,12 @@ let boundaries = [];
 let boxes = [];
 
 function setup() {
-  createCanvas(640, 360);
+
+  var cnv = createCanvas(640, 360);
+//  var x = (windowWidth - width) / 2;
+//  var y = (windowHeight - height) / 2;
+ cnv.parent('sketch-holder');
+//  cnv.position(x, y);
 
   // Initialize box2d physics and create the world
   world = createWorld();
@@ -20,7 +25,7 @@ function setup() {
 }
 
 function draw() {
-  background(51);
+  background("#1d315f");
 
   // We must always step through time!
   let timeStep = 1.0 / 30;
