@@ -1,9 +1,9 @@
-let world;
+var world;
 
 // A list we'll use to track fixed objects
-let boundaries = [];
+var boundaries = [];
 // A list for all of our rectangles
-let boxes = [];
+var boxes = [];
 
 function setup() {
 
