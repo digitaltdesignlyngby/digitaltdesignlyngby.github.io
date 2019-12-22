@@ -24,7 +24,7 @@ img
 
 h1, h2, h3, h4, h5, h6
 { font: normal 175% 'century gothic', arial, sans-serif;
-  color: #FFF;
+  color: #10ff00;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
 
@@ -159,7 +159,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 0 24px 20px 20px;
-  background: #1d315f;}
+  background: #000000;}
 
 .sidebar
 { float: right;
@@ -178,6 +178,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 .sidebar li a, .sidebar li a:hover
 { padding: 0 0 0 40px;
   display: block;
+  color:#FFF;
   background: transparent url(link.png) no-repeat left center;}
 
 .sidebar li a.selected

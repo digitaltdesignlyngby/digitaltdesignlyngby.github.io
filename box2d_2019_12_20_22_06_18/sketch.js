@@ -7,7 +7,7 @@ var boxes = [];
 
 function setup() {
 
-  var cnv = createCanvas(640, 360);
+  var cnv = createCanvas(600, 360);
 //  var x = (windowWidth - width) / 2;
 //  var y = (windowHeight - height) / 2;
  cnv.parent('sketch-holder');
@@ -25,7 +25,7 @@ function setup() {
 }
 
 function draw() {
-  background("#1d315f");
+  background(0);
 
   // We must always step through time!
   let timeStep = 1.0 / 30;
