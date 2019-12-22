@@ -110,12 +110,12 @@ ol li
 
 #logo_text h1, #logo_text h1 a, #logo_text h1 a:hover
 { padding: 22px 0 0 0;
-  color: #FFF;
+  color: #10ff00;
   letter-spacing: -1px;
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #FFF;}
+{ color: #10ff00;}
 
 #logo_text h2
 { font-size: 100%;

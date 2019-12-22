@@ -7,7 +7,7 @@ var boxes = [];
 
 function setup() {
 
-  var cnv = createCanvas(600, 360);
+  var cnv = createCanvas(600, 200);
 //  var x = (windowWidth - width) / 2;
 //  var y = (windowHeight - height) / 2;
  cnv.parent('sketch-holder');
@@ -28,7 +28,7 @@ function draw() {
   background(0);
 
   // We must always step through time!
-  let timeStep = 1.0 / 30;
+  let timeStep = 1.0 / 100;
   // 2nd and 3rd arguments are velocity and position iterations
   world.Step(timeStep, 10, 10);
 
