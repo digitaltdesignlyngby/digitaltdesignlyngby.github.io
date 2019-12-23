@@ -66,9 +66,9 @@ class Box {
     push();
     translate(pos.x, pos.y);
     rotate(a);
-    fill(127);
+    fill(127,random(1,200),random(1,200));
     stroke(200);
-    strokeWeight(2);
+    strokeWeight(1);
     rect(0, 0, this.w, this.h);
     pop();
   }
