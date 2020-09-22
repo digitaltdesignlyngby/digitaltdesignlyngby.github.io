@@ -1,3 +1,9 @@
+//ASE-kryptering, hører til kategorien "symetrisk kryptering"
+//Data i en database bør kryteres, så indholdet ikke kan læses direkte
+//
+//Video om emnet:  "Symmetric and Asymmetric Encryption - MrBrownCS"
+//youtube-link:    https://youtu.be/-9rK3EZop_M
+
 //VIGTIGT:
 //javax.crypto pakken ligger ikke i processing... desværre
 //Men du kan hente den på f.eks.http://www.java2s.com/Code/Jar/j/Downloadjavaxcryptojar.htm
@@ -11,7 +17,7 @@ import java.util.Base64;
 
 try {
 
-  //Koden nedenfor har jeg mere eller mindre hugget fra: 
+  //Koden nedenfor har jeg hugget fra ;-): 
   //https://howtodoinjava.com/java/java-security/java-aes-encryption-example/
   
   String myKey   = "password";
