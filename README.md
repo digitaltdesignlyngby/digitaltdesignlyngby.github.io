@@ -1,4 +1,5 @@
-# Velkommen til Digitalt design og udvikling teknikfag </br> Lyngby - HCØ HTX
+# Velkommen til DDU
+*Digitalt design og udvikling teknikfag - Lyngby - HCØ HTX*
 
 ## Hvad er DDU
 Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwareudvikling i den størst mulige skala man kan møde på en dansk gymnasial uddannelse. Faget er hovedsageligt projektorienteret og problembaseret, men der forekommer kortere forløb med fokus på faglighed. Projekter laves i grupper fra 2 til 4 personer, hvis andet ikke er aftalt. Projekterne kan tidsmæssigt strække sig fra 10 undervisningstimer og helt op til 90 undervisningstimer. Viden og færdigheder tilegnes igennem selvstændigt studie og problemløsning. Underviserne giver feedback og rådgiver løbende med fokus på det udførte arbejde. God arbejdsdiciplin og studiekompetencer er derfor et must for at opnå et godt resultat.
@@ -72,7 +73,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 
 -------------------------------------
 
-# Værktøjer & Sprog
+## Værktøjer & Sprog
 Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan forekomme tilføjelser):
 - Download Processing
 - SignUp GitHub
@@ -80,7 +81,7 @@ Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan fore
 
 -------------------------------------
 
-# Karaktergivning
+## Karaktergivning
 Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspunkt i temaet "Professionel softwareudvikling". Vigtige kriterier i bedømmelse af både opgaveafleveringer og projekter er:
 
 - Deadline er overholdt, dvs. endelig afleveringstidspunkt
