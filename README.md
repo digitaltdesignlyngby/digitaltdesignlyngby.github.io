@@ -27,7 +27,7 @@ datasikkerhed, it-værktøjer, interaktionsdesign, prototyper, produkttestning o
 
 -------------------------------------
 
-## Projektstyring
+## Projektarbejde i DDU
 
 ### Før realisering
 
