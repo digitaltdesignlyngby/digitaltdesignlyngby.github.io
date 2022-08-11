@@ -51,3 +51,39 @@ Faget anvender følgende metoder og værktøjer:
 
 -------------------------------------
 
+## Projekter og forløb
+
+Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
+
+|Emne              |	Materiale                   |	Aflevering |
+|:------------------|:-----------------------------|:-----------|
+|Intro & Vectors	  |  Kapitel 1 i Nature of Code | ...|
+|Forces	          |  Kapitel 2 i Nature of Code.| ...|
+|Oscillations	    | Kapitel 3 i Nature of Code | ...|
+|Particle Systems	|  Kapitel 4 i Nature of Code | ...|
+|                                                    |||
+|Spiludviklingprojekt (SO6) | ... | ...|
+|Opgave i databaser & Sikkerhed | ... | ...|
+|Opgave i datavisualisering | ... | ...|
+|Mini eksamensprojekt, ca. 40 moduler | ... | ...|
+|Opgave i Den generiske algoritme | ... | ...|
+|Opgave i Neuroevolution | ... | ...|
+|Eksamensprojekt, ca. 100 moduler | ... | ...|
+
+-------------------------------------
+
+# Værktøjer & Sprog
+Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan forekomme tilføjelser):
+- Download Processing
+- SignUp GitHub
+- Download GitHub Desktop
+
+-------------------------------------
+
+# Karaktergivning
+Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspunkt i temaet "Professionel softwareudvikling". Vigtige kriterier i bedømmelse af både opgaveafleveringer og projekter er:
+
+- Deadline er overholdt, dvs. endelig afleveringstidspunkt
+- Produktet kan starte og anvendes direkte af brugeren, uden konsultation hos en ekspert
+- Produktet er veldesignet, intuitivt og nemt at bruge
+- Produktet virker efter hensigten
