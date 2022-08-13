@@ -1,10 +1,3 @@
----
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
----
-
-
 # Velkommen til DDU
 *Digitalt design og udvikling teknikfag - Lyngby - HCØ HTX*
 
