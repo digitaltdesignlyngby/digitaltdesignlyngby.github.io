@@ -2,6 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 markdown: GFM
 #Title
 title: DDU
+# Enable or disable heading anchors
+heading_anchors: false
 # External navigation links
 nav_external_links:
   - title: Temaer
