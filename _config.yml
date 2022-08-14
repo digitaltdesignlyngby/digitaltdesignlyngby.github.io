@@ -15,18 +15,9 @@ nav_external_links:
   - title: Projekter og forløb
     url: https://digitaltdesignlyngby.github.io/#projekter-og-forlb
     hide_icon: true
-
-###########################
-
-#related_resources_title: Other Resources
-
-#related_resources_list:
-
-#- title: Forums
-#  hurl: https://some.developer.forum.com/
-
-#- title: More Documentation
-#  hurl: https://more.documentation.company.com
-
-#- title: Documentation Portal
-#  hurl: https://my.documentation.portal
+  - title: Værktøjer og sprog
+    url: https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io#v%C3%A6rkt%C3%B8jer--sprog
+    hide_icon: true
+  - title: Karaktergivning
+    url: https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io#karaktergivning
+    hide_icon: true
