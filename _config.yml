@@ -7,7 +7,8 @@ heading_anchors: false
 # External navigation links
 nav_external_links:
   - title: Temaer
-    hurl: https://digitaltdesignlyngby.github.io/#temaer
+    url: https://digitaltdesignlyngby.github.io/#temaer
+    hide_icon: true
   - title: Projektarbejde
     url: https://digitaltdesignlyngby.github.io/#projektarbejde-i-ddu
   - title: Projekter og opgaver
