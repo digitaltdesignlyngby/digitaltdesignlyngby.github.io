@@ -11,8 +11,10 @@ nav_external_links:
     hide_icon: true
   - title: Projektarbejde
     url: https://digitaltdesignlyngby.github.io/#projektarbejde-i-ddu
-  - title: Projekter og opgaver
+    hide_icon: true
+  - title: Projekter og forløb
     url: https://digitaltdesignlyngby.github.io/#projekter-og-forlb
+    hide_icon: true
 
 ###########################
 
