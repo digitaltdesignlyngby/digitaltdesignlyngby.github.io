@@ -3,6 +3,5 @@ void setup(){
 }
 
 void draw(){
-  println("Hej fra mig lokalt!");
-  println("Hej fra mig på nettet!");
+  println("Hej - her er noget fra programmør B!");
 }
