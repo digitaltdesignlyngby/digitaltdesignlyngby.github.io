@@ -3,5 +3,5 @@ void setup(){
 }
 
 void draw(){
-  println("Hej - her er noget fra programmør B!");
+  println("Hej - her er noget fra programmør A!");
 }
