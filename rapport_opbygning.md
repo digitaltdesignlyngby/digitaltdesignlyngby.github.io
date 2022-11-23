@@ -1,3 +1,4 @@
+--------------------------------------
 Dette er et forslag til eksamensprojekt-rapportens opbygning
 --------------------------------------
 - Titelblad
