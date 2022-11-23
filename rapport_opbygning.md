@@ -1,7 +1,5 @@
-Dette er et forslag til eksmanesprojekt rapportens opbygning
-
+Dette er et forslag til eksamensprojekt-rapportens opbygning
 --------------------------------------
-
 - Titelblad
 - Indholdsfortegnelse
 - Projektbeskrivelse
@@ -11,10 +9,11 @@ Dette er et forslag til eksmanesprojekt rapportens opbygning
   - Produkforberedelse
 - Beskrivelse af endeligt produkt: user journey eller runtime
 - Projektstyring
-  - Overordnet udviklingsplan : burndown, userstories, tasks osv.
-  - Iteration 1 : analyse , ide , Koncept/Design, Produktion, Undersøgelse
+  - Udviklingsplan : burndown, userstories, tasks osv.
+  - Iteration 1 : analyse , ide, koncept/design, produktion, undersøgelse
   - Iteration 2 : ...
   - Iteration N : ...
   - Konklusion på projektstyring: endelig burndown osv.
 - Diskussion
 - Konklusion
+----------------------------------------
