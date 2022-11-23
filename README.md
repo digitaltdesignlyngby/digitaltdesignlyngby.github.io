@@ -36,15 +36,15 @@ datasikkerhed, it-værktøjer, interaktionsdesign, prototyper, produkttestning o
 ### Produktion - en del af realiseringsfasen
 
 I realiseringsfasen foregår produktionen, som er den egnetlige softwareudvikling.
-Indenfor professionel softwareudvikling er planlægning og test essentielt for at overholde både budget og deadlines. 
-I DDU på Lyngby HCØ anvendes de mest almindelige metoder indenfor software planlægning og test. 
-Hovedformålet er at få en grundlæggende forståelse for hvordan professionelle softwareudviklingsprojekter bliver gennemført. 
+Indenfor professionel softwareudvikling er planlægning og test essentielt for at overholde både budget og deadlines.
+I DDU på Lyngby HCØ anvendes de mest almindelige metoder indenfor software planlægning og test.
+Hovedformålet er at få en grundlæggende forståelse for hvordan professionelle softwareudviklingsprojekter bliver gennemført.
 Faget anvender følgende metoder og værktøjer:
 
 - Papir prototype, anvendes i projektopstart
 - User stories, en ikke-teknisk beskrivelse af produkt-krav
 - Objektorienteret analyse og design Inden user-stories opdeles i tasks bør man planlægge kodens struktur se: http://javabog.dk/OOP/kapitel22.jsp
-- Task, User stories opslittes i tasks, der tidsestimeres	
+- Task, User stories opslittes i tasks, der tidsestimeres
 - Iterationer en slags tidsbegrænsede underprojekter, der hver afsluttes med test og evaluering
 - Burndown chart, til kontrollere projektarbejdets progression
 - GitHub, anvendes til planlægning, versionsstyring
@@ -73,6 +73,17 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 |Eksamensprojekt, ca. 100 moduler | ... | ...|
 
 -------------------------------------
+
+# Rapporten
+Dokumentation er vigtigt når man laver projektarbejde - og til teknikfagseksamen spiller rapporten
+derfor en stor rolle.  
+Her er et forslag til opbygning af rapporten:
+
+ [rapport_opbygning.md](rapport_opbygning.md)
+
+
+-------------------------------------
+
 
 # Værktøjer & Sprog
 Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan forekomme tilføjelser):
