@@ -31,7 +31,21 @@ datasikkerhed, it-værktøjer, interaktionsdesign, prototyper, produkttestning o
 
 ### Før realisering
 
+Før-realisering er alt det, der skal laves inden man går i gang med selve udviklingen af produktet. Denne fase er meget vigtig og fylder op imod en tredjedel af projektets samlede tid.
+Når faserne er gennemløbet afleveres projektbeskrivelsen, der dokumenterer det arbejde der er udført i før-realiseringsfasen. Projektbeskrivelsen skal godkendes inden realiseringsfasen kan påbegyndes.  
+
+Underfaserne i før-relaliseringsfasen kender man fra faget teknologi, og består af følgende:
+
+- Problemidentifikation, indeholder problemafgrænsning og problemformulering
+- Problemanalyse, hvor problemet undersøges og man gør rede for vigtigste faktorer
+- Produktprincip, her opstilles krav og præsenteres forskellige løsningsforslag
+- Produktudformning, endelig løsning og opstilling af designspec.& kravspec.
+- Produkforberedelse, de valgte teknologier/tech stack og værktøjer
+
 ### Realisering
+
+Selve realiseringsfasen er den fase hvor produktet udvikles. I ddu arbejdes iterativt.
+Hver iteration består af følgende underfaser analyse , ide, koncept/design, produktion og undersøgelse. 
 
 ### Produktion - en del af realiseringsfasen
 

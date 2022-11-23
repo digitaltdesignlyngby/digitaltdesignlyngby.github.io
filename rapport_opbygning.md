@@ -9,6 +9,7 @@ Dette er et forslag til eksamensprojekt-rapportens opbygning
   - Problemidentifikation
   - Problemanalyse
   - Produktprincip
+  - Produktudformning
   - Produkforberedelse
 - Beskrivelse af endeligt produkt: user journey eller runtime
 - Projektstyring
