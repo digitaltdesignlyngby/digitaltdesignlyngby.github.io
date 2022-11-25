@@ -45,7 +45,13 @@ Underfaserne i før-relaliseringsfasen kender man fra faget teknologi, og bestå
 ### Realisering
 
 Selve realiseringsfasen er den fase hvor produktet udvikles. I ddu arbejdes iterativt.
-Hver iteration består af følgende underfaser analyse , ide, koncept/design, produktion og undersøgelse. 
+Hver iteration består af følgende underfaser:
+
+- analyse
+- ide
+- koncept/design
+- *produktion* (se afsnit nedenfor)  
+- undersøgelse.
 
 ### Produktion - en del af realiseringsfasen
 
