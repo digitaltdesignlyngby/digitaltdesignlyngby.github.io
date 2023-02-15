@@ -1,4 +1,6 @@
-### Rapporten   
+**Rapporten**   
+
+---------------------------------------------------------------------------------
 
 **4 gode råd til rapporten:**
 Overordnet kan er der fire forskellige punkter som i skal have med i jeres arbejde:
