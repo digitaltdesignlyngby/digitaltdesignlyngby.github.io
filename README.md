@@ -127,8 +127,10 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 Nedenfor ses eksamensprojektoplæg og generel eksamensinformation for skoleåret 2022/2023.   
 God fornøjelse ;-) :
 
-- Tidsfrister, deadlines og afleveringer
+- [Tidsfrister og afleveringer](eksamensprojekt/afleveringer.md)
+- Projekt forslag
 - Projektbeskrivelse
 - Rapport
 - Produkt
-- 
+- Statusmøder
+- Eksamen
