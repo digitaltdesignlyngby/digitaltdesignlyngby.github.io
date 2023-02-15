@@ -2,13 +2,12 @@
 
 ---------------------------------------------------------------------------------
 
-**4 gode råd til rapporten:**   
+**4 MEGET gode råd:**   
 
-Overordnet kan er der fire forskellige punkter som i skal have med i jeres arbejde:
-1. I skal arbejde problembaseret, ligesom i teknologi
-2. Alle valg skal begrundes med: kilder, dokumentation, teori eller empiri
-3. I skal lave og dokumentere projektstyring, både udgangspunktet men i særdeleshed processen
-4. Teknisk dokumentation: både kode stumper og diagrammer   
+1. HUSK at arbejde problembaseret, ligesom i teknologi
+2. HUSK at begrunde alle valg med: kilder, dokumentation, teori og/eller empiri
+3. HUSK at  dokumentere projektstyringen grundigt, i særdeleshed processen
+4. HSUK at lave teknisk dokumentation: både kode-stumper og diagrammer   
 
 **Kernestof - rapport:**     
 
