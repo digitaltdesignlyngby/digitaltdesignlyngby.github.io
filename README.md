@@ -125,3 +125,5 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 
 # Eksamensprojektet
 [Se info om eksamensprojektet her](eksamensprojekt/Eksamensprojektet.md)
+
+### [tidsfrister og afleveringer](eksamensprojektet/del1_afleveringer.md) 
