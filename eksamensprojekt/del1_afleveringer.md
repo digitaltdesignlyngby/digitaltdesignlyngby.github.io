@@ -1,4 +1,4 @@
-# Afleveringsfrister
+# Eksamensprojekt afleveringsfrister
 
 ---------------------------------------------------------------------------------
 
