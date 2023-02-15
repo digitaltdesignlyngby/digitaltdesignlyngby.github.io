@@ -27,4 +27,4 @@ Ifølge pkt. 2.1 Kernestof i læreplanen, bør rapporten indeholde følgende emn
 
 **Forslag til opbygning af rapporten:**    
 
-[Forslag til rapportens opbygning](rapport_opbygning.md)
+[Forslag til rapportens opbygning](../rapport_opbygning.md)
