@@ -8,6 +8,3 @@ Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper,
 Afleveringsdato vil fremgå på Lectio. Opgaven indeholder ca. 80 lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. 110 timer.  
 
 Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio – og måske kommer der også krav om at aflevere på netprøver.dk. Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.  
-
-Man kan anvende rapport-skabelon fra bogen Digitalt design og udvikling Systime.  
-Ifølge pkt. 2.1 Kernestof i læreplanen, bør rapporten indeholde følgende emner:
