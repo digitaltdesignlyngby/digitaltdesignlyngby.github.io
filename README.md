@@ -123,4 +123,5 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 
 -------------------------------------
 
-**[Eksamensprojektet](eksamensprojekt/Eksamensprojektet.md)**
+# Eksamensprojektet
+[Se info om eksamensprojektet her](eksamensprojekt/Eksamensprojektet.md)
