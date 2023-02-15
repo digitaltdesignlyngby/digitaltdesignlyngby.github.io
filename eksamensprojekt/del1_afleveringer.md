@@ -1,4 +1,4 @@
-# Eksamensprojekt afleveringsfrister
+*Eksamensprojekt afleveringsfrister*
 
 ---------------------------------------------------------------------------------
 
