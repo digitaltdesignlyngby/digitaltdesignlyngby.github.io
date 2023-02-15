@@ -1,6 +1,14 @@
 **Projekt forslag & Emner**
 
-I skal udvikle et stykke software, der imødekommer en konkret problemstilling inden for et af følgende emner: uddannelse, underholdning, grøn omstilling, sundhed, økonomi eller et valgfrit emne.   
+I skal udvikle et stykke software, der imødekommer en konkret problemstilling inden for et af følgende emner:
+
+- uddannelse
+- underholdning
+- grøn omstilling
+- sundhed
+- økonomi
+- valgfrit emne
+
 Formålet med denne eksamen er at teste jeres færdigheder inden for digital design og udvikling og jeres evne til at anvende jeres viden i praksis til at løse reelle problemer. I skal demonstrere, hvordan I kan anvende jeres tekniske færdigheder til at udvikle en softwareapplikation, der imødekommer de udfordringer, der er forbundet med jeres valgte emne.   
 Husk på, at de valgte emner kun er forslag, og I er velkomne til at vælge et emne, der er mere relevant for jeres interesser og ekspertise. Det vigtigste er, at I anvender den problembaserede tilgang til at udvikle en softwareapplikation, der løser en konkret problemstilling og demonstrerer jeres færdigheder inden for digital design og udvikling.   
 
