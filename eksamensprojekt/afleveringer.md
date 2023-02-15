@@ -1,7 +1,9 @@
 **Afleveringsfrister**
 
-*Aflevering af projektbeskrivelse:*   
-*tirsdag d.28/2 kl.23:00*  
+---------------------------------------------------------------------------------
+
+**_Aflevering af projektbeskrivelse:_**   
+**_tirsdag d.28/2 kl.23:00_**  
 
 Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper, ide-generere og lave projektstyringsdokumenter med udgangspunkt i en af de nævnte ’projekt forslag’.  
 
