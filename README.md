@@ -120,3 +120,12 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 - Produktet kan starte og anvendes direkte af brugeren, uden konsultation hos en ekspert
 - Produktet er veldesignet, intuitivt og nemt at bruge
 - Produktet virker efter hensigten
+
+-------------------------------------
+
+# Eksamensprojektet 2022/2023
+Nedenfor ses vores eksamensprojektoplæg og information for skoleåret 2022/2023.   
+God fornøjelse ;-) :
+
+- bla.
+- bla. 
