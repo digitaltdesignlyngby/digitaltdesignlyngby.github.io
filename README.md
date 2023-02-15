@@ -123,9 +123,9 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 
 -------------------------------------
 
-# Eksamensprojektet 2022/2023
-Nedenfor ses vores eksamensprojektoplæg og information for skoleåret 2022/2023.   
+# Eksamensprojektet
+Nedenfor ses eksamensprojektoplæg og generel eksamensinformation for skoleåret 2022/2023.   
 God fornøjelse ;-) :
 
 - bla.
-- bla. 
+- bla.
