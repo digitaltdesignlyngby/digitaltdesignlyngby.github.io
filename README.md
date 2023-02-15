@@ -129,8 +129,8 @@ God fornøjelse ;-) :
 
 - [Tidsfrister og afleveringer](eksamensprojekt/afleveringer.md)
 - [Projekt forslag](eksamensprojekt/cases.md)
-- Projektbeskrivelse
+- [Projektbeskrivelse](eksamensprojekt/projektbeskrivelsen.md)
 - [Rapport](eksamensprojekt/rapporten.md)
-- Produkt
+- [Produkt](eksamensprojekt/produktet.md)
 - Statusmøder
 - Eksamen
