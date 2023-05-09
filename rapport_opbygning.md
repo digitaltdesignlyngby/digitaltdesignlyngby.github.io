@@ -12,6 +12,8 @@ Dette er et forslag til eksamensprojekt-rapportens opbygning
   - Produktudformning
   - Produktionsforberedelse
 - Beskrivelse af endeligt produkt: user journey eller runtime
+- Realisering
+  - Teknsik beskrivelse af program-opbygning og med meningsfulde diagrammer
 - Projektstyring
   - Udviklingsplan : burndown, userstories, tasks osv.
   - Iteration 1 : analyse , ide, koncept/design, produktion, undersøgelse
