@@ -18,6 +18,9 @@ nav_external_links:
   - title: Materialer
     url: https://digitaltdesignlyngby.github.io/#materialer
     hide_icon: true
+  - title: Brugertest
+    url: https://digitaltdesignlyngby.github.io/#brugertest
+    hide_icon: true
   - title: Rapport
     url: https://digitaltdesignlyngby.github.io/#rapporten
     hide_icon: true
