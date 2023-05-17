@@ -92,14 +92,16 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 | 29/1  14m    | Opgave i Neuroevolution              | ...                     | program                                  1t       | tavle & gruppe & selvstudie |
 | 20/2  90m    | Eksamensprojekt                      | eksamens-site           | projektbesk.     program        rapport      30t       | projekt                     |
 
-materialer:
-- NOC : Bogen Nature of Code, af Daniel Shiffman
-- systime1 : Bogen digital design og udvikling fra Systime, kap. projektstyring
-- database-pp : Powerpoint om datatabasedesign
-- sharepoint : materialer og kode til databaser
-- cyber-doks : diverse dokumenter om cybersikkerhed
-- systime2 : Bogen digital design og udvikling fra Systime, kap. interaktionsdesign, rapport, proukttest og produktbeskrivelse
-- eksmanes-site : informations website om eksamensprojektet
+# Materialer:
+
+- ***NOC*** : Bogen Nature of Code, af Daniel Shiffman
+- ***systime1*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
+- ***spiludviklings-projektet*** : [spiludviklingsprojektet_opgaven.pdf](https://digitaltdesignlyngby.github.io/spiludviklingsprojektet2022/spiludviklingsprojektet_opgaven.pdf)
+- ***database-pp*** : [Powerpoint om datatabasedesign og andet materiale](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/database_22_23)
+- ***sharepoint*** : [materialer og kode til databaser](https://teccph-my.sharepoint.com/personal/kkm_tec_dk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkkm%5Ftec%5Fdk%2FDocuments%2FDDU&ga=1)
+- ***cyber-doks*** : [diverse dokumenter om cybersikkerhed](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/cybersikkerhed_22_23)
+- ***systime2*** : [Bogen digital design og udvikling fra Systime, kap. interaktionsdesign, rapport, proukttest og produktbeskrivelse](https://ddu.systime.dk/)
+- ***eksmanes-site*** : [informations website om eksamensprojektet](https://digitaltdesignlyngbyeksamen.github.io/)
 
 -------------------------------------
 

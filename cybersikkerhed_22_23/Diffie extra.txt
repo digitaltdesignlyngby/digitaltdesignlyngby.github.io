@@ -1,0 +1,9 @@
+Der fandtes på et tidspunkt en Diffie Hellman opgave på PicoCTF, men den er fjernet.
+
+De brugte n=13 g=5 alice secret=7  Bob secret=3
+
+Så skulle man beregne secret og så løse en Caesar decryption.
+
+Jeg regner med at den er fjernet fordi der er et problem i Diffie Helmann delen.
+
+Kan I finde ud af Hvad.

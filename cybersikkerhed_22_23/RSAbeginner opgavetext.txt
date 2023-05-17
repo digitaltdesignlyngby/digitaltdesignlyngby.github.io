@@ -1,0 +1,15 @@
+Unfortunately the developer published p and q and e 
+and not n and e which he should have done 
+as the company public key
+
+These were:
+
+p=111351602227707581067416344643048751626960926253551879945433066776126511936461
+q=67722700071961988029846370299408511833514117774646239226239805715004968536019
+e=65537
+
+The attacker sniffed the transmitted integer and that was:
+
+cipher=3180216847896822642607790534988843792574569579226923103980
+
+Can you decode this and find the flag?

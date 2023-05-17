@@ -1,0 +1,18 @@
+Alice wants to send a document secretely to Bob. This document contains a flag.
+They decide to use AES with keysize 128 in ECB mode and encode it as Base64
+They want to use Diffie Hellmann as key exchange.
+They have agreed on n=499 and g=113
+They have each chosen a private number less than 499 but this a secret
+In the process Alice sends public data 129 to Bob and Bob sends 121 to Alice
+They have now generated a secret key and Alice takes the binary value of that secret and puts 0's in front of the binary 
+number in order to get a 16 long AES key.
+This means if the found secret key is 7 which is 111 in binary the the key for AES will be 0000000000000111
+
+
+
+The transmitted text is:
+
+05ZUjCfnG4ML4kQG88PO2VEhSAy+W27T844ZL5fwFRQ2nsQ7wU/Ah+H+uLHfs0fu
+
+
+Can you break the Diffie Hellmann key exchange and decrypt the document and find the flag
