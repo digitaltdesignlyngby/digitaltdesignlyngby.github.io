@@ -94,7 +94,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 
 -------------------------------------
 
-# Materialer:
+# Materialer
 
 - ***NOC*** : [Bogen Nature of Code, af Daniel Shiffman](https://natureofcode.com/)
 - ***systime1*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
@@ -110,11 +110,12 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 
 -------------------------------------
 
-# Brugertest :
+# Brugertest
 
 Når vi ser det fra et matematisk synspunkt, kan det desværre være nødvendigt at udføre et stort antal brugertests for at kunne vurdere statistisk signifikans. Dette kan være både uoverkommeligt og uhensigtsmæssigt inden for et fag som "digitalt design og udvikling". Ikke desto mindre er vores holdning til brugertests, at det altid er bedre at teste end slet ikke at teste.
 
 Årsagen hertil er, at bare en enkelt dygtig testperson kan opdage mange ting, som produktudviklere måske ikke selv ser, da de kan være påvirket af bias.
+Som minumum bør man dog stræbe efter 5 testpersoner.
 
 En anden person, der deler vores synspunkt, er forfatteren Morten Münster, som du kan læse mere om i følgende blogindlæg:
 https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-dag-en-bog-om-adfaerdsdesign/
