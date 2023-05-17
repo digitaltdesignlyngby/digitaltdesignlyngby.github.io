@@ -76,21 +76,21 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
 
-|dato |moduler| emne                                 | materiale                                                                  | aflevering                                     | arbejdsformer               |
-|-----|-------|--------------------------------------|----------------------------------------------------------------------------|------------------------------------------------|-----------------------------|
-| 8/8 | 18    | Intro & Vectors                      | Kapitel 1 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
-|     |       | Forces                               | Kapitel 2 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
-|     |       | Oscillations                         | Kapitel 3 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
-|     |       | Particle Systems                     | Kapitel 4 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
-| 14/8|  14   | Projektforberedelse                  | ddu-systime1  projektstyringsvideoer                                       | projektbeskrivelse & prototype 5timer          | tavle & gruppe & selvstudie |
-| 29/8|  30   | Spiludviklingprojekt (SO6)           |                                                                            | github repo. & video-demo 10timer              | projekt                     |
-| 19/9|  20   | Opgave i databaser & Sikkerhed       | powerpointdatabase  diverse-sharepoint                                     | program & projektboard 3timer                  | tavle & gruppe & selvstudie |
-|31/10|  14   | Opgave i datavisualisering           |                                                                            | program 2timer                                 | tavle & gruppe & selvstudie |
-|11/11|  40   | Mini eksamensprojekt, ca. 40 moduler | ddu-systime2                                                               | projektbeskrivelse & program & rapport 6timer  | projekt                     |
-| 2/1 |  14   | Cybersikkerhed                       | cyber-doks.                                                                | ...                                            | tavle & gruppe & selvstudie |
-| 16/1|  13   | Opgave i Den generiske algoritme     | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
-| 29/1|  14   | Opgave i Neuroevolution              | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
-| 20/2|  90   | Eksamensprojekt                      | eksamens-website                                                           | projektbeskrivelse & program & rapport 30timer | projekt                     |
+|dato & moduler| emne                                 | materiale                                                                  | aflevering                                     | arbejdsformer               |
+|--------------|--------------------------------------|----------------------------------------------------------------------------|------------------------------------------------|-----------------------------|
+| 8/8  18m     | Intro & Vectors                      | Kapitel 1 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
+|              | Forces                               | Kapitel 2 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
+|              | Oscillations                         | Kapitel 3 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
+|              | Particle Systems                     | Kapitel 4 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
+| 14/8  14m    | Projektforberedelse                  | ddu-systime1  projektstyringsvideoer                                       | projektbeskrivelse & prototype 5timer          | tavle & gruppe & selvstudie |
+| 29/8  30m    | Spiludviklingprojekt (SO6)           |                                                                            | github repo. & video-demo 10timer              | projekt                     |
+| 19/9  20m    | Opgave i databaser & Sikkerhed       | powerpointdatabase  diverse-sharepoint                                     | program & projektboard 3timer                  | tavle & gruppe & selvstudie |
+|31/10  14m    | Opgave i datavisualisering           |                                                                            | program 2timer                                 | tavle & gruppe & selvstudie |
+|11/11  40m    | Mini eksamensprojekt, ca. 40 moduler | ddu-systime2                                                               | projektbeskrivelse & program & rapport 6timer  | projekt                     |
+| 2/1   14m    | Cybersikkerhed                       | cyber-doks.                                                                | ...                                            | tavle & gruppe & selvstudie |
+| 16/1  13m    | Opgave i Den generiske algoritme     | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
+| 29/1  14m    | Opgave i Neuroevolution              | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
+| 20/2  90m    | Eksamensprojekt                      | eksamens-website                                                           | projektbeskrivelse & program & rapport 30timer | projekt                     |
 
 -------------------------------------
 
