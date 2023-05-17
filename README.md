@@ -83,14 +83,16 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 |              | Oscillations                         | Kapitel 3 i NOC         | ...                                            | tavle & gruppe & selvstudie |
 |              | Particle Systems                     | Kapitel 4 i NOC         | ...                                            | tavle & gruppe & selvstudie |
 | 14/8  14m    | Projektforberedelse                  | systime-1  videoer      | projektbesk.     prototype               5t       | tavle & gruppe & selvstudie |
-| 29/8  30m    | Spiludviklingprojekt (SO6)           |                         | githubrepo.   videodemo                10t       | projekt                     |
+| 29/8  30m    | Spiludviklingprojekt (SO6)           | opgavetekst             | githubrepo.   videodemo                10t       | projekt                     |
 | 19/9  20m    | Opgave i databaser & Sikkerhed       | database-pp  sharepoint | program        kanbanboard              3t       | tavle & gruppe & selvstudie |
-|31/10  14m    | Opgave i datavisualisering           |                         | program                                 2t       | tavle & gruppe & selvstudie |
+|31/10  14m    | Opgave i datavisualisering           | opgavetekst             | program                                 2t       | tavle & gruppe & selvstudie |
 |11/11  40m    | Mini eksamensprojekt                 | systime-2               | projektbesk.   program        rapport     6t       | projekt                     |
 | 2/1   14m    | Cybersikkerhed                       | cyber-doks.             | ...                                            | tavle & gruppe & selvstudie |
-| 16/1  13m    | Opgave i Den generiske algoritme     | ...                     | program                                 1t       | tavle & gruppe & selvstudie |
-| 29/1  14m    | Opgave i Neuroevolution              | ...                     | program                                  1t       | tavle & gruppe & selvstudie |
+| 16/1  13m    | Opgave i Den genetiske algoritme     | opgavetekst             | program                                 1t       | tavle & gruppe & selvstudie |
+| 29/1  14m    | Opgave i Neuroevolution              | opgavetekst             | program                                  1t       | tavle & gruppe & selvstudie |
 | 20/2  90m    | Eksamensprojekt                      | eksamens-site           | projektbesk.     program        rapport      30t       | projekt                     |
+
+-------------------------------------
 
 # Materialer:
 
@@ -99,7 +101,9 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 - ***spiludviklings-projektet*** : [spiludviklingsprojektet_opgaven.pdf](https://digitaltdesignlyngby.github.io/spiludviklingsprojektet2022/spiludviklingsprojektet_opgaven.pdf)
 - ***database-pp*** : [Powerpoint om datatabasedesign og andet materiale](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/database_22_23)
 - ***sharepoint*** : [materialer og kode til databaser](https://teccph-my.sharepoint.com/personal/kkm_tec_dk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkkm%5Ftec%5Fdk%2FDocuments%2FDDU&ga=1)
+- ***opgave i datavisualisering*** : [opgavetekst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/data_visualisering)
 - ***cyber-doks*** : [diverse dokumenter om cybersikkerhed](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/cybersikkerhed_22_23)
+- ***opgave i genetisk algoritme og neuro evolution*** : [opgavetelst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/kunstig_intelligens)
 - ***systime2*** : [Bogen digital design og udvikling fra Systime, kap. interaktionsdesign, rapport, proukttest og produktbeskrivelse](https://ddu.systime.dk/)
 - ***eksmanes-site*** : [informations website om eksamensprojektet](https://digitaltdesignlyngbyeksamen.github.io/)
 
