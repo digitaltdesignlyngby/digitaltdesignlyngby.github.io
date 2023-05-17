@@ -76,18 +76,18 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
 
-|                 |                 Emne                 |                                  Materiale                                 |                   Aflevering                   |        Arbejdsformer        |
-|:---------------:|:------------------------------------:|:--------------------------------------------------------------------------:|:----------------------------------------------:|:---------------------------:|
+|                 | Emne                                 | Materiale                                                                  | Aflevering                                     | Arbejdsformer               |
+|-----------------|--------------------------------------|----------------------------------------------------------------------------|------------------------------------------------|-----------------------------|
 | 8/8 18moduler   | Intro & Vectors                      | Kapitel 1 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
 |                 | Forces                               | Kapitel 2 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
 |                 | Oscillations                         | Kapitel 3 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
 |                 | Particle Systems                     | Kapitel 4 i Nature of Code                                                 | ...                                            | tavle & gruppe & selvstudie |
-| 14/8 14moduler  | Projektforberedelse                  | ddu-systime projektstyringsvideoer                                         | projektbeskrivelse & prototype 5timer          | tavle & gruppe & selvstudie |
+| 14/8 14moduler  | Projektforberedelse                  | ddu-systime:prototyper, projektstyringsvideoer:vs,github&trello            | projektbeskrivelse & prototype 5timer          | tavle & gruppe & selvstudie |
 | 29/8 30moduler  | Spiludviklingprojekt (SO6)           |                                                                            | github repo. & video-demo 10timer              | projekt                     |
-| 19/9 20moduler  | Opgave i databaser & Sikkerhed       | powerpoint-database, diverse-sharepoint                                    | program & projektboard 3timer                  | tavle & gruppe & selvstudie |
+| 19/9 20moduler  | Opgave i databaser & Sikkerhed       | powerpoint:databaseintro, diverse-sharepoint:link                          | program & projektboard 3timer                  | tavle & gruppe & selvstudie |
 | 31/10 14moduler | Opgave i datavisualisering           |                                                                            | program 2timer                                 | tavle & gruppe & selvstudie |
-| 11/11 40moduler | Mini eksamensprojekt, ca. 40 moduler | ddu-systime                                                                | projektbeskrivelse & program & rapport 6timer  | projekt                     |
-| 2/1 14moduler   | Cybersikkerhed                       | cybersikkerheds-doks.                                                      | ...                                            | tavle & gruppe & selvstudie |
+| 11/11 40moduler | Mini eksamensprojekt, ca. 40 moduler | ddu-systime: rapport, interaktionsdesign, produkttest & projektbeskrivelse | projektbeskrivelse & program & rapport 6timer  | projekt                     |
+| 2/1 14moduler   | Cybersikkerhed                       | ...                                                                        | ...                                            | tavle & gruppe & selvstudie |
 | 16/1 13moduler  | Opgave i Den generiske algoritme     | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
 | 29/1 14moduler  | Opgave i Neuroevolution              | ...                                                                        | program 1time                                  | tavle & gruppe & selvstudie |
 | 20/2 90moduler  | Eksamensprojekt                      | eksamens-website                                                           | projektbeskrivelse & program & rapport 30timer | projekt                     |
