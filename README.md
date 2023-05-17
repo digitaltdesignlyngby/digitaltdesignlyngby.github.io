@@ -76,21 +76,22 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
 
-|Emne              |	Materiale                   |	Aflevering |
-|:------------------|:-----------------------------|:-----------|
-|Intro & Vectors	  |  Kapitel 1 i Nature of Code | ...|
-|Forces	          |  Kapitel 2 i Nature of Code.| ...|
-|Oscillations	    | Kapitel 3 i Nature of Code | ...|
-|Particle Systems	|  Kapitel 4 i Nature of Code | ...|
-|                                                    |||
-|Spiludviklingprojekt (SO6) | ... | ...|
-|Opgave i databaser & Sikkerhed | ... | ...|
-|Opgave i datavisualisering | ... | ...|
-|Cybersikkerhed | ... | ... |
-|Mini eksamensprojekt, ca. 40 moduler | ... | ...|
-|Opgave i Den generiske algoritme | ... | ...|
-|Opgave i Neuroevolution | ... | ...|
-|Eksamensprojekt, ca. 100 moduler | ... | ...|
+|                   | Emne                                 | Materiale                                                                                                                                                                                        | Aflevering                                      |   |   |   |
+|-------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|---|---|---|
+| 8/8 - 18 moduler  | Intro & Vectors                      | Kapitel 1 i Nature of Code                                                                                                                                                                       | ...                                             |   |   |   |
+|                   | Forces                               | Kapitel 2 i Nature of Code.                                                                                                                                                                      | ...                                             |   |   |   |
+|                   | Oscillations                         | Kapitel 3 i Nature of Code                                                                                                                                                                       | ...                                             |   |   |   |
+|                   | Particle Systems                     | Kapitel 4 i Nature of Code                                                                                                                                                                       | ...                                             |   |   |   |
+| 14/8 - 14 moduler | Projektforberedelse                  | ddu bog systime, kapitel : prototyper  projektstyringsvideoer med VS, GitHub og Trello: https://digitaltdesignlyngby.github.io/spiludviklingsprojektet2022/spiludviklingsprojektet_opgaven.pdf   | projektbeskrivelse & prototype 5 timer          |   |   |   |
+| 29/8 - 30 moduler | Spiludviklingprojekt (SO6)           |                                                                                                                                                                                                  | github repo. & video-demo 10 timer              |   |   |   |
+| 19/9 - 20 moduler | Opgave i databaser & Sikkerhed       | powerpoint databaseintro  diverse matrialer på sharepoint: https://teccph-my.sharepoint.com/personal/kkm_tec_dk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkkm%5Ftec%5Fdk%2FDocuments%2FDDU&ga=1 | program & projektboard 3 timer                  |   |   |   |
+| 31/10- 14 moduler | Opgave i datavisualisering           |                                                                                                                                                                                                  | program 2 timer                                 |   |   |   |
+| 11/11- 40 moduler | Mini eksamensprojekt, ca. 40 moduler | ddu bog systime, kapitel :  rapport,  interaktionsdesign,  produkttest,  projektbeskrivelse                                                                                                      | projektbeskrivelse & program & rapport 6 timer  |   |   |   |
+| 2/1  - 14 moduler | Cybersikkerhed                       | ...                                                                                                                                                                                              | ...                                             |   |   |   |
+| 16/1 - 13 moduler | Opgave i Den generiske algoritme     | ...                                                                                                                                                                                              | program 1 time                                  |   |   |   |
+| 29/1 - 14 moduler | Opgave i Neuroevolution              | ...                                                                                                                                                                                              | program 1 time                                  |   |   |   |
+| 20/2 - 90 moduler | Eksamensprojekt                      | https://digitaltdesignlyngbyeksamen.github.io/                                                                                                                                                   | projektbeskrivelse & program & rapport 30 timer |   |   |   |
+
 
 -------------------------------------
 
