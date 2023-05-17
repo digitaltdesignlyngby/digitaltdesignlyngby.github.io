@@ -96,12 +96,13 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 
 # Materialer:
 
-- ***NOC*** : Bogen Nature of Code, af Daniel Shiffman
+- ***NOC*** : [Bogen Nature of Code, af Daniel Shiffman](https://natureofcode.com/)
 - ***systime1*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
 - ***spiludviklings-projektet*** : [spiludviklingsprojektet_opgaven.pdf](https://digitaltdesignlyngby.github.io/spiludviklingsprojektet2022/spiludviklingsprojektet_opgaven.pdf)
 - ***database-pp*** : [Powerpoint om datatabasedesign og andet materiale](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/database_22_23)
 - ***sharepoint*** : [materialer og kode til databaser](https://teccph-my.sharepoint.com/personal/kkm_tec_dk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkkm%5Ftec%5Fdk%2FDocuments%2FDDU&ga=1)
 - ***opgave i datavisualisering*** : [opgavetekst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/data_visualisering)
+- ***mini eksamensprojektet*** : [om projektarbejdet](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/blob/master/projektarbejdet/Elevversion%20-%20projektarbejdets%20forberedelsesfaser.pdf)
 - ***cyber-doks*** : [diverse dokumenter om cybersikkerhed](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/cybersikkerhed_22_23)
 - ***opgave i genetisk algoritme og neuro evolution*** : [opgavetelst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/kunstig_intelligens)
 - ***systime2*** : [Bogen digital design og udvikling fra Systime, kap. interaktionsdesign, rapport, proukttest og produktbeskrivelse](https://ddu.systime.dk/)
