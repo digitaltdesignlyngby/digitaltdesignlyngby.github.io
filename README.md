@@ -82,15 +82,15 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der
 |              | Forces                               | Kapitel 2 i NOC         | ...                                            | tavle & gruppe & selvstudie |
 |              | Oscillations                         | Kapitel 3 i NOC         | ...                                            | tavle & gruppe & selvstudie |
 |              | Particle Systems                     | Kapitel 4 i NOC         | ...                                            | tavle & gruppe & selvstudie |
-| 14/8  14m    | Projektforberedelse                  | systime-1  videoer      | projektbesk. & prototype 5t                    | tavle & gruppe & selvstudie |
-| 29/8  30m    | Spiludviklingprojekt (SO6)           |                         | github repo. & video-demo 10t                  | projekt                     |
-| 19/9  20m    | Opgave i databaser & Sikkerhed       | database-pp  sharepoint | program & kanbanboard 3t                       | tavle & gruppe & selvstudie |
-|31/10  14m    | Opgave i datavisualisering           |                         | program 2t                                     | tavle & gruppe & selvstudie |
-|11/11  40m    | Mini eksamensprojekt                 | systime-2               | projektbesk. & program & rapport 6t            | projekt                     |
+| 14/8  14m    | Projektforberedelse                  | systime-1  videoer      | projektbesk.   prototype              5t       | tavle & gruppe & selvstudie |
+| 29/8  30m    | Spiludviklingprojekt (SO6)           |                         | github repo.   video-demo            10t       | projekt                     |
+| 19/9  20m    | Opgave i databaser & Sikkerhed       | database-pp  sharepoint | program        kanbanboard            3t       | tavle & gruppe & selvstudie |
+|31/10  14m    | Opgave i datavisualisering           |                         | program                               2t       | tavle & gruppe & selvstudie |
+|11/11  40m    | Mini eksamensprojekt                 | systime-2               | projektbesk.   program      rapport   6t       | projekt                     |
 | 2/1   14m    | Cybersikkerhed                       | cyber-doks.             | ...                                            | tavle & gruppe & selvstudie |
-| 16/1  13m    | Opgave i Den generiske algoritme     | ...                     | program 1t                                     | tavle & gruppe & selvstudie |
-| 29/1  14m    | Opgave i Neuroevolution              | ...                     | program 1t                                     | tavle & gruppe & selvstudie |
-| 20/2  90m    | Eksamensprojekt                      | eksamens-site           | projektbesk. & program & rapport 30t           | projekt                     |
+| 16/1  13m    | Opgave i Den generiske algoritme     | ...                     | program                               1t       | tavle & gruppe & selvstudie |
+| 29/1  14m    | Opgave i Neuroevolution              | ...                     | program                               1t       | tavle & gruppe & selvstudie |
+| 20/2  90m    | Eksamensprojekt                      | eksamens-site           | projektbesk.   program      rapport  30t       | projekt                     |
 
 -------------------------------------
 
