@@ -140,6 +140,8 @@ Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan fore
 - Download Processing
 - SignUp GitHub
 - Download GitHub Desktop
+- Download MAMP og WAMP server
+- Download SQLiteStudio
 
 -------------------------------------
 
