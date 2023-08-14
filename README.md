@@ -74,10 +74,10 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
 |uge & moduler | emne                                 | materiale               | aflevering & elevtimer                         | arbejdsformer                    |
 |--------------|--------------------------------------|-------------------------|------------------------------------------------|----------------------------------|
-| 33 4m        | opstart & kodning                    | "from zero"             |                                                | aula & selvstudie                |
+| 33 4m        | opstart & kodning                    | "from zero"             |                                                | aula & selv                      |
 | 34-35 10m    | kodning                              |                         |                                                |                                  |
 | 36-37 10m    | engine                               |                         |                                                | aula                             |
-| 38 30m       | 2D-spil på github-pages              |                         | produkt & video? 15 elevtimer?                 | aula                             |
+| 38 30m       | 2Dspil & github-pages                |                         | spil & video & 15?                             | aula                             |
 | 39+40 10m    | projektstyring                       | "ddu-systime"           |                                                | aula                             |
 | 41 12m       |                                      |                         |                                                |                                  |
 | 42           | ***efterårsferie***                  |                         |                                                |                                  |
@@ -89,16 +89,16 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 51 6m        |                                      |                         |                                                |                                  |
 | 52           | ***juleferie***                      |                         |                                                |                                  |
 | 1            | ***juleferie***                      |                         |                                                |                                  |
-| 2-3 14m      | 3d skydespil + sikkerhed + Lego      |                         |                                                |                                  |
+| 2-3 14m      | 3d & sikkerhed & lego                |                         |                                                |                                  |
 | 4 4m         | ***sop eksamen***                    |                         |                                                |                                  |
 | 5            | ***terminsprøver***                  |                         |                                                |                                  |
 | 6 7m         |                                      |                         |                                                |                                  |
 | 7            | ***vinterferie***                    |                         |                                                |                                  |
-| 8-12 40m     | eksamensprojekt              |                         |                                                |                                  |
+| 8-12 40m     | eksamensprojekt                      |                         |                                                |                                  |
 | 13           | ***påske***                          |                         |                                                |                                  |
-| 14-15 16m    | eksamensprojekt                                     |                         |                                                |                                  |
+| 14-15 16m    | eksamensprojekt                      |                         |                                                |                                  |
 | 16 30m       | teknikfagsuge                        |                         |                                                |                                  |
-| 17 4m        | onsdag inden aflevering torsdag       |                         | 90 timer                                       |                                  |
+| 17 4m        | aflevering torsdag                   |                         | 90 timer                                       |                                  |
 
 
 
