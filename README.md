@@ -84,20 +84,15 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 43-44 12m    | databaser                            |                         |                                                |                                  |
 | 45-46 13m    | grafik/interaktionsdesign            |                         |                                                | aula                             |
 | 47-48 19m    | minieksamensprojekt                  |                         | produkt & video ?                              |                                  |
-| 49           | ***sop***                            |                         |                                                |                                  |
-| 50           | ***sop***                            |                         |                                                |                                  |
+| 49-50        | ***sop***                            |                         |                                                |                                  |
 | 51 6m        |                                      |                         |                                                |                                  |
-| 52           | ***juleferie***                      |                         |                                                |                                  |
-| 1            | ***juleferie***                      |                         |                                                |                                  |
+| 52-1         | ***juleferie***                      |                         |                                                |                                  |
 | 2-3 14m      | 3d & sikkerhed & lego                |                         |                                                |                                  |
 | 4 4m         | ***sop eksamen***                    |                         |                                                |                                  |
 | 5            | ***terminsprøver***                  |                         |                                                |                                  |
 | 6 7m         |                                      |                         |                                                |                                  |
 | 7            | ***vinterferie***                    |                         |                                                |                                  |
-| 8-12 40m     | eksamensprojekt                      |                         |                                                |                                  |
-| 13           | ***påske***                          |                         |                                                |                                  |
-| 14-15 16m    | eksamensprojekt                      |                         |                                                |                                  |
-| 16 30m       | teknikfagsuge                        |                         |                                                |                                  |
+| 8-16 86m     | eksamensprojekt                      |                         |                                                |                                  |
 | 17 4m        | aflevering torsdag                   |                         | 90 timer                                       |                                  |
 
 
