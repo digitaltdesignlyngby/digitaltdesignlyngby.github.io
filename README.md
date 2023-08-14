@@ -78,7 +78,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 34-35| kodning                              | 10m                     |                                    |              |
 | 36-37| engine                               | 10m                     |                                    | aula         |
 | 38   | 2D-spil v.1                          | 30m/15et                | produkt                            | aula         |
-| 39+40| projektstyring                       | 10m                     |                                    | aula         |
+| 39-40| projektstyring                       | 10m                     |                                    | aula         |
 | 41   | 2D-spil v.2                          | 12m                     | plan                               |              |
 | 42   | ***efterårsferie***                  |                         |                                    |              |
 | 43-44| databaser                            | 12m                     |                                    |              |
@@ -95,8 +95,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 8-16 | eksamensprojekt                      | 86m                     |                                    | aula         |
 | 17   | aflevering torsdag                   | 4m/90et                 | produkt+rapport                    |              |
 
-[^1]: tryk på titlen for emnet for at se foløbsplan
-[^2]: "m" står for moduler og "et" står for elevtimer
+[1]: tryk på titlen for emnet for at se foløbsplan      
+[2]: "m" står for moduler og "et" står for elevtimer
 
 -------------------------------------
 
