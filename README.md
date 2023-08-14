@@ -72,7 +72,7 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
-| uge  | emne[^1]                             | timer[^2]               | aflevering                         | andet        |
+| uge  | emne[1]                              | timer[2]                | aflevering                         | andet        |
 |------|--------------------------------------|-------------------------|------------------------------------|--------------|
 | 33   | opstart & kodning                    | 4m                      |                                    | d.16/8 i aula|
 | 34-35| kodning                              | 10m                     |                                    |              |
