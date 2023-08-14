@@ -72,28 +72,28 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
-|uge & moduler | emne                                 | materiale               | aflevering                         | elevtimer | oplæg                            |
-|--------------|--------------------------------------|-------------------------|------------------------------------|-----------|----------------------------------|
-| 33 4m        | opstart & kodning                    | "from zero"             |                                    |           | aula                             |
-| 34-35 10m    | kodning                              |                         |                                    |           |                                  |
-| 36-37 10m    | engine                               |                         |                                    |           | aula                             |
-| 38 30m       | 2D-spil v.1                          |                         | produkt                            | 15        | aula                             |
-| 39+40 10m    | projektstyring                       | "ddu-systime"           |                                    |           | aula                             |
-| 41 12m       | 2D-spil v.2                          |                         | plan                               |           |                                  |
-| 42           | ***efterårsferie***                  |                         |                                    |           |                                  |
-| 43-44 12m    | databaser                            |                         |                                    |           |                                  |
-| 45-46 13m    | grafik                               |                         |                                    |           | aula                             |
-| 47-48 19m    | minieksamensprojekt                  |                         | rapport                            |           | aula                             |
-| 49-50        | ***sop***                            |                         |                                    |           |                                  |
-| 51 6m        |                                      |                         |                                    |           |                                  |
-| 52-1         | ***juleferie***                      |                         |                                    |           |                                  |
-| 2-3 14m      | 3d & sikkerhed & lego                |                         |                                    |           | aula                             |
-| 4 4m         | ***sop eksamen***                    |                         |                                    |           |                                  |
-| 5            | ***terminsprøver***                  |                         |                                    |           |                                  |
-| 6 7m         |                                      |                         |                                    |           |                                  |
-| 7            | ***vinterferie***                    |                         |                                    |           |                                  |
-| 8-16 86m     | eksamensprojekt                      |                         |                                    |           | aula                             |
-| 17 4m        | aflevering torsdag                   |                         | produkt & rapport                  |           |                                  |
+| uge          | emne (**klik på emnet**)             | materiale               | aflevering                         | andet        |
+|--------------|--------------------------------------|-------------------------|------------------------------------|--------------|
+| 33 4m        | opstart & kodning                    | "from zero"             |                                    | aula d.16/8  |
+| 34-35 10m    | kodning                              |                         |                                    |              |
+| 36-37 10m    | engine                               |                         |                                    | aula         |
+| 38 30m       | 2D-spil v.1                          |                         | produkt (15 e.timer)               | aula         |
+| 39+40 10m    | projektstyring                       | "ddu-systime"           |                                    | aula         |
+| 41 12m       | 2D-spil v.2                          |                         | plan                               |              |
+| 42           | ***efterårsferie***                  |                         |                                    |              |
+| 43-44 12m    | databaser                            |                         |                                    |              |
+| 45-46 13m    | grafik                               |                         |                                    | aula         |
+| 47-48 19m    | minieksamensprojekt                  |                         | rapport                            | aula         |
+| 49-50        | ***sop***                            |                         |                                    |              |
+| 51 6m        |                                      |                         |                                    |              |
+| 52-1         | ***juleferie***                      |                         |                                    |              |
+| 2-3 14m      | 3d & sikkerhed & lego                |                         |                                    | aula         |
+| 4 4m         | ***sop eksamen***                    |                         |                                    |              |
+| 5            | ***terminsprøver***                  |                         |                                    |              |
+| 6 7m         |                                      |                         |                                    |              |
+| 7            | ***vinterferie***                    |                         |                                    |              |
+| 8-16 86m     | eksamensprojekt                      |                         |                                    | aula         |
+| 17 4m        | aflevering torsdag                   |                         | produkt & rapport  (90 e.timer)    |              |
 
 
 
