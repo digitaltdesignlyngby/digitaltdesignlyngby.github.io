@@ -1,5 +1,4 @@
-# Velkommen til DDU
-*Digitalt design og udvikling teknikfag - Lyngby - HCØ HTX*
+*Velkommen til DDU - Digitalt design og udvikling teknikfag - Lyngby - HCØ HTX*
 
 # Hvad er DDU
 Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwareudvikling i den størst mulige skala man kan møde på en dansk gymnasial uddannelse. Faget er hovedsageligt projektorienteret og problembaseret, men der forekommer kortere forløb med fokus på faglighed. Projekter laves i grupper fra 2 til 4 personer, hvis andet ikke er aftalt. Projekterne kan tidsmæssigt strække sig fra 10 undervisningstimer og helt op til 90 undervisningstimer. Viden og færdigheder tilegnes igennem selvstændigt studie og problemløsning. Underviserne giver feedback og rådgiver løbende med fokus på det udførte arbejde. God arbejdsdiciplin og studiekompetencer er derfor et must for at opnå et godt resultat.
@@ -7,19 +6,19 @@ Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwar
 -------------------------------------
 
 # Temaer
-### Fordybelsesområde : Projektstyring
-Fordybelsesområdet er Projektstyring indenfor professionel softwareudvikling. Dette er det meget vigtigt tema i faget.
+### Projektstyring
+***Fordybelsesområdet*** er Projektstyring indenfor professionel softwareudvikling. Dette er det meget vigtigt tema i faget.
 
 ### Valgtema 1: Spiludvikling
-Det første valgtema, som skolen har valgt er Spiludvikling.
+***Første valgtema***, som skolen har valgt er Spiludvikling.
 Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. 3.5 , da det er en god opensource engine der kan køre på stort set alle enheder.
 
 ### Valgtema 2: Datamodeller
-Det andet valgtema, som skolen har valgt er Datamodeller
+***Andet valgtema***, som skolen har valgt er Datamodeller
 Vi har fokus på relationelle databaser og typiske anvendelsesområder som login systemer.
 
 ### Nøgletemaer
-Flere nøgletemaerne indgår automatisk og eksisterer ofte ikke som selvstændige forløb. Nøgletemaerne er følgende:
+***Nøgletemaerne*** indgår ofte automatisk og eksisterer ofte ikke som selvstændige forløb. Nøgletemaerne er følgende:
 datasikkerhed, it-værktøjer, interaktionsdesign, prototyper, produkttestning og automatisering.
 
 -------------------------------------
@@ -71,47 +70,35 @@ Faget anvender følgende metoder og værktøjer:
 
 # Projekter og forløb
 
-Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
+Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
 |uge & moduler | emne                                 | materiale               | aflevering & elevtimer                         | arbejdsformer                    |
 |--------------|--------------------------------------|-------------------------|------------------------------------------------|----------------------------------|
 | 33 4m        | opstart & kodning                    | "from zero"             |                                                | aula & selvstudie                |
-| 34 6m        | kodning                              |                         |                                                |                                  |
-| 35 4m        | kodning                              |                         |                                                |                                  |
-| 36 6m        | engine                               |                         |                                                | aula                             |
-| 37 4m        | engine                               |                         |                                                |                                  |
+| 34-35 10m    | kodning                              |                         |                                                |                                  |
+| 36-37 10m    | engine                               |                         |                                                | aula                             |
 | 38 30m       | 2D-spil på github-pages              |                         | produkt & video? 15 elevtimer?                 | aula                             |
-| 39 6m        | projektstyring                       | "ddu-systime"           |                                                | aula                             |
-| 40 4m        |                                      |                         |                                                |                                  |
+| 39+40 10m    | projektstyring                       | "ddu-systime"           |                                                | aula                             |
 | 41 12m       |                                      |                         |                                                |                                  |
 | 42           | ***efterårsferie***                  |                         |                                                |                                  |
-| 43 6m        | databaser                            |                         |                                                |                                  |
-| 44 6m        |                                      |                         |                                                |                                  |
-| 45 6m        | grafik/interaktionsdesign            |                         |                                                | aula                             |
-| 46 7m        |                                      |                         |                                                |                                  |
-| 47 6m        | minieksamensprojekt                  |                         | produkt & video ?                              |                                  |
-| 48 13m       |                                      |                         |                                                |                                  |
+| 43-44 12m    | databaser                            |                         |                                                |                                  |
+| 45-46 13m    | grafik/interaktionsdesign            |                         |                                                | aula                             |
+| 47-48 19m    | minieksamensprojekt                  |                         | produkt & video ?                              |                                  |
 | 49           | ***sop***                            |                         |                                                |                                  |
 | 50           | ***sop***                            |                         |                                                |                                  |
 | 51 6m        |                                      |                         |                                                |                                  |
 | 52           | ***juleferie***                      |                         |                                                |                                  |
 | 1            | ***juleferie***                      |                         |                                                |                                  |
-| 2            | 3d skydespil + sikkerhed + Lego      |                         |                                                |                                  |
-| 3            |                                      |                         |                                                |                                  |
+| 2-3 14m      | 3d skydespil + sikkerhed + Lego      |                         |                                                |                                  |
 | 4 4m         | ***sop eksamen***                    |                         |                                                |                                  |
 | 5            | ***terminsprøver***                  |                         |                                                |                                  |
 | 6 7m         |                                      |                         |                                                |                                  |
 | 7            | ***vinterferie***                    |                         |                                                |                                  |
-| 8 8m         | opstart eksamensprojekt              |                         |                                                |                                  |
-| 9 8m         |                                      |                         |                                                |                                  |
-| 10 8m        |                                      |                         |                                                |                                  |
-| 11 8m        |                                      |                         |                                                |                                  |
-| 12 8m        |                                      |                         |                                                |                                  |
+| 8-12 40m     | eksamensprojekt              |                         |                                                |                                  |
 | 13           | ***påske***                          |                         |                                                |                                  |
-| 14 8m        |                                      |                         |                                                |                                  |
-| 15 8m        |                                      |                         |                                                |                                  |
+| 14-15 16m    | eksamensprojekt                                     |                         |                                                |                                  |
 | 16 30m       | teknikfagsuge                        |                         |                                                |                                  |
-| 17 4m       | onsdag inden aflevering torsdag       |                         | 90 timer                                       |                                  |
+| 17 4m        | onsdag inden aflevering torsdag       |                         | 90 timer                                       |                                  |
 
 
 
