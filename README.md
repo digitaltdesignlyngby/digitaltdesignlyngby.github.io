@@ -7,19 +7,16 @@ Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwar
 -------------------------------------
 
 # Temaer
-### Projektstyring
-Fordybelsesområdet er Projektstyring indenfor professionel softwareudvikling. Dette er det vigtigste tema i faget.
+### Fordybelsesområde : Projektstyring
+Fordybelsesområdet er Projektstyring indenfor professionel softwareudvikling. Dette er det meget vigtigt tema i faget.
 
-### Spiludvikling
+### Valgtema 1: Spiludvikling
 Det første valgtema, som skolen har valgt er Spiludvikling.
-Temaet spiludvikling fokusere på det man ofte kalder "Physic Engine", dvs. simulering af den virkelige verden, og dette vil selvfølgelig præge de typer spil, der fokuseres på.
+Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. 3.5 , da det er en god opensource engine der kan køre på stort set alle enheder.
 
-### Datamodeller
+### Valgtema 2: Datamodeller
 Det andet valgtema, som skolen har valgt er Datamodeller
-Vi har fokus på relationelle databaser og hvordan man bruger dem i simple login systemer.
-
-### Intelligente systemer
-Temaet intelligente systemer, skal betragtes som en introduktion til to metoder; genetiske algoritmer og neuro evolution. Der er blevet lagt vægt på at alle kan være med, og faget bevæger sig derfor uden om den tunge matematiske del man vil møde på universitetet.
+Vi har fokus på relationelle databaser og typiske anvendelsesområder som login systemer.
 
 ### Nøgletemaer
 Flere nøgletemaerne indgår automatisk og eksisterer ofte ikke som selvstændige forløb. Nøgletemaerne er følgende:
@@ -76,37 +73,56 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb. I forløb skal der ikke afleveres et slutprodukt imodsætning til projekter. Vores nuværende lærebøger er 'Nature of Code' og 'Digital design og udvikling - Systime', men vi anbefaler bogen 'Software Development - Head first' til projektstyring. Der skal tages forbehold for ændringer.
 
-|dato & moduler| emne                                 | materiale               | aflevering & elevtimer                         | arbejdsformer               |
-|--------------|--------------------------------------|-------------------------|------------------------------------------------|-----------------------------|
-| 8/8  18m     | Intro & Vectors                      | Kapitel 1 i NOC         | ...                                            | tavle & gruppe & selvstudie |
-|              | Forces                               | Kapitel 2 i NOC         | ...                                            | tavle & gruppe & selvstudie |
-|              | Oscillations                         | Kapitel 3 i NOC         | ...                                            | tavle & gruppe & selvstudie |
-|              | Particle Systems                     | Kapitel 4 i NOC         | ...                                            | tavle & gruppe & selvstudie |
-| 14/8  14m    | Projektforberedelse                  | systime-1  videoer      | projektbesk.     prototype               5t       | tavle & gruppe & selvstudie |
-| 29/8  30m    | Spiludviklingprojekt (SO6)           | opgavetekst             | githubrepo.   videodemo                10t       | projekt                     |
-| 19/9  20m    | Opgave i databaser & Sikkerhed       | database-pp  sharepoint | program        kanbanboard              3t       | tavle & gruppe & selvstudie |
-|31/10  14m    | Opgave i datavisualisering           | opgavetekst             | program                                 2t       | tavle & gruppe & selvstudie |
-|11/11  40m    | Mini eksamensprojekt                 | systime-2               | projektbesk.   program        rapport     6t       | projekt                     |
-| 2/1   14m    | Cybersikkerhed                       | cyber-doks.             | ...                                            | tavle & gruppe & selvstudie |
-| 16/1  13m    | Opgave i Den genetiske algoritme     | opgavetekst             | program                                 1t       | tavle & gruppe & selvstudie |
-| 29/1  14m    | Opgave i Neuroevolution              | opgavetekst             | program                                  1t       | tavle & gruppe & selvstudie |
-| 20/2  90m    | Eksamensprojekt                      | eksamens-site           | projektbesk.     program        rapport      30t       | projekt                     |
+|uge & moduler | emne                                 | materiale               | aflevering & elevtimer                         | arbejdsformer                    |
+|--------------|--------------------------------------|-------------------------|------------------------------------------------|----------------------------------|
+| 33 4m        | opstart & kodning                    | "from zero"             |                                                | aula & selvstudie                |
+| 34 6m        | kodning                              |                         |                                                |                                  |
+| 35 4m        | kodning                              |                         |                                                |                                  |
+| 36 6m        | engine                               |                         |                                                | aula                             |
+| 37 4m        | engine                               |                         |                                                |                                  |
+| 38 30m       | 2D-spil på github-pages              |                         | produkt & video? 15 elevtimer?                 | aula                             |
+| 39 6m        | projektstyring                       | "ddu-systime"           |                                                | aula                             |
+| 40 4m        |                                      |                         |                                                |                                  |
+| 41 12m       |                                      |                         |                                                |                                  |
+| 42           | ***efterårsferie***                  |                         |                                                |                                  |
+| 43 6m        | databaser                            |                         |                                                |                                  |
+| 44 6m        |                                      |                         |                                                |                                  |
+| 45 6m        | grafik/interaktionsdesign            |                         |                                                | aula                             |
+| 46 7m        |                                      |                         |                                                |                                  |
+| 47 6m        | minieksamensprojekt                  |                         | produkt & video ?                              |                                  |
+| 48 13m       |                                      |                         |                                                |                                  |
+| 49           | ***sop***                            |                         |                                                |                                  |
+| 50           | ***sop***                            |                         |                                                |                                  |
+| 51 6m        |                                      |                         |                                                |                                  |
+| 52           | ***juleferie***                      |                         |                                                |                                  |
+| 1            | ***juleferie***                      |                         |                                                |                                  |
+| 2            | 3d skydespil + sikkerhed + Lego      |                         |                                                |                                  |
+| 3            |                                      |                         |                                                |                                  |
+| 4 4m         | ***sop eksamen***                    |                         |                                                |                                  |
+| 5            | ***terminsprøver***                  |                         |                                                |                                  |
+| 6 7m         |                                      |                         |                                                |                                  |
+| 7            | ***vinterferie***                    |                         |                                                |                                  |
+| 8 8m         | opstart eksamensprojekt              |                         |                                                |                                  |
+| 9 8m         |                                      |                         |                                                |                                  |
+| 10 8m        |                                      |                         |                                                |                                  |
+| 11 8m        |                                      |                         |                                                |                                  |
+| 12 8m        |                                      |                         |                                                |                                  |
+| 13           | ***påske***                          |                         |                                                |                                  |
+| 14 8m        |                                      |                         |                                                |                                  |
+| 15 8m        |                                      |                         |                                                |                                  |
+| 16 30m       | teknikfagsuge                        |                         |                                                |                                  |
+| 17 4m       | onsdag inden aflevering torsdag       |                         | 90 timer                                       |                                  |
+
+
 
 -------------------------------------
 
 # Materialer
 
-- ***NOC*** : [Bogen Nature of Code, af Daniel Shiffman](https://natureofcode.com/)
-- ***systime1*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
-- ***spiludviklings-projektet*** : [spiludviklingsprojektet_opgaven.pdf](https://digitaltdesignlyngby.github.io/spiludviklingsprojektet2022/spiludviklingsprojektet_opgaven.pdf)
-- ***database-pp*** : [Powerpoint om datatabasedesign og andet materiale](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/database_22_23)
-- ***sharepoint*** : [materialer og kode til databaser](https://teccph-my.sharepoint.com/personal/kkm_tec_dk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkkm%5Ftec%5Fdk%2FDocuments%2FDDU&ga=1)
-- ***opgave i datavisualisering*** : [opgavetekst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/data_visualisering)
-- ***mini eksamensprojektet*** : [om projektarbejdet](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/blob/master/projektarbejdet/Elevversion%20-%20projektarbejdets%20forberedelsesfaser.pdf)
-- ***cyber-doks*** : [diverse dokumenter om cybersikkerhed](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/cybersikkerhed_22_23)
-- ***opgave i genetisk algoritme og neuro evolution*** : [opgavetelst](https://github.com/digitaltdesignlyngby/digitaltdesignlyngby.github.io/tree/master/kunstig_intelligens)
-- ***systime2*** : [Bogen digital design og udvikling fra Systime, kap. interaktionsdesign, rapport, proukttest og produktbeskrivelse](https://ddu.systime.dk/)
-- ***eksmanes-site*** : [informations website om eksamensprojektet](https://digitaltdesignlyngbyeksamen.github.io/)
+- ***from zero*** : [Learning gdscript from zero, interaktiv bog/app](https://gdquest.github.io/learn-gdscript/)
+- ***docs 3.5*** : [Godot engine dokumentation](https://docs.godotengine.org/en/3.5/)
+- ***godot beginner*** : [Godot Game Development for Beginners, af Daniel Buckley](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)
+- ***ddu-systime*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
 
 -------------------------------------
 
@@ -137,11 +153,9 @@ Her er et forslag til opbygning af rapporten:
 
 # Værktøjer & Sprog
 Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan forekomme tilføjelser):
-- Download Processing
+- Download Godot
 - SignUp GitHub
 - Download GitHub Desktop
-- Download MAMP og WAMP server
-- Download SQLiteStudio
 
 -------------------------------------
 
