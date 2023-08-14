@@ -9,9 +9,9 @@ Hvis i ikke sidder i klassen jeres klasse, skriv da jeres lokation på vores tea
 Vi vil gå rundt og vejlede resten af dagen. Opsamling næste gang - happy coding ;-) 
 
 
-|                        | sted                    | indhold                                                          |
-|------------------------|-------------------------|------------------------------------------------------------------|
-| 4. modul               | aula:                   | Intro til faget & dagens lektie                                  |
-| 5. modul               | klasser eller grupperum | https://gdquest.github.io/learn-gdscript/ : ca. lesson 1 til 10  |
-| 6. modul               | klasser eller grupperum | https://gdquest.github.io/learn-gdscript/ : ca. lesson 10 til 20 |
-| 7. modul               | klasser eller grupperum | https://gdquest.github.io/learn-gdscript/ : ca. lesson 20 til 28 |
+| uge 33 - onsdag d.16/8 | sted                    | indhold         | læsestof                                                                                     | opgaver                                   |
+|------------------------|-------------------------|-----------------|----------------------------------------------------------------------------------------------|-------------------------------------------|
+| 4. modul               | aula                    | intro til faget |                                                                                              |                                           |
+| 5. modul               | klasser eller grupperum | arbejd selv     | https://gdquest.github.io/learn-gdscript/                                                    | lav mindst lesson 1 til 11                |
+| 6. modul               | klasser eller grupperum | arbejd selv     | https://docs.godotengine.org/en/3.5/getting_started/step_by_step/scripting_first_script.html | download Godot3.5 og byg program fra docs |
+| 7. modul               | klasser eller grupperum | arbejd selv     |                                                                                              | LAV OPGAVE ...                            |
