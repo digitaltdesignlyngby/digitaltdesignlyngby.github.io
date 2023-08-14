@@ -7,13 +7,13 @@ Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwar
 
 # Temaer
 ### Projektstyring
-***Fordybelsesområdet*** er Projektstyring indenfor professionel softwareudvikling. Dette er det meget vigtigt tema i faget.
+***Fordybelsesområdet*** er projektstyring indenfor professionel softwareudvikling. Dette er det meget vigtigt tema i faget.
 
-### Valgtema 1: Spiludvikling
+### Spiludvikling
 ***Første valgtema***, som skolen har valgt er Spiludvikling.
 Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. 3.5 , da det er en god opensource engine der kan køre på stort set alle enheder.
 
-### Valgtema 2: Datamodeller
+### Datamodeller
 ***Andet valgtema***, som skolen har valgt er Datamodeller
 Vi har fokus på relationelle databaser og typiske anvendelsesområder som login systemer.
 
@@ -72,7 +72,7 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
-| uge  | emne (**klik på titel**)             | timer                   | aflever                            | andet        |
+| uge  | emne[^1]                             | timer[^2]               | aflevering                         | andet        |
 |------|--------------------------------------|-------------------------|------------------------------------|--------------|
 | 33   | opstart & kodning                    | 4m                      |                                    | d.16/8 i aula|
 | 34-35| kodning                              | 10m                     |                                    |              |
@@ -94,6 +94,9 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 7    | ***vinterferie***                    |                         |                                    |              |
 | 8-16 | eksamensprojekt                      | 86m                     |                                    | aula         |
 | 17   | aflevering torsdag                   | 4m/90et                 | produkt+rapport                    |              |
+
+[^1]: tryk på titlen for emnet for at se foløbsplan
+[^2]: "m" står for moduler og "et" står for elevtimer
 
 -------------------------------------
 
