@@ -72,30 +72,28 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
-| uge          | emne (**klik på emnet**)             | materiale               | aflevering                         | andet        |
-|--------------|--------------------------------------|-------------------------|------------------------------------|--------------|
-| 33 4m        | opstart & kodning                    | "from zero"             |                                    | aula d.16/8  |
-| 34-35 10m    | kodning                              |                         |                                    |              |
-| 36-37 10m    | engine                               |                         |                                    | aula         |
-| 38 30m       | 2D-spil v.1                          |                         | produkt (15 e.timer)               | aula         |
-| 39+40 10m    | projektstyring                       | "ddu-systime"           |                                    | aula         |
-| 41 12m       | 2D-spil v.2                          |                         | plan                               |              |
-| 42           | ***efterårsferie***                  |                         |                                    |              |
-| 43-44 12m    | databaser                            |                         |                                    |              |
-| 45-46 13m    | grafik                               |                         |                                    | aula         |
-| 47-48 19m    | minieksamensprojekt                  |                         | rapport                            | aula         |
-| 49-50        | ***sop***                            |                         |                                    |              |
-| 51 6m        |                                      |                         |                                    |              |
-| 52-1         | ***juleferie***                      |                         |                                    |              |
-| 2-3 14m      | 3d & sikkerhed & lego                |                         |                                    | aula         |
-| 4 4m         | ***sop eksamen***                    |                         |                                    |              |
-| 5            | ***terminsprøver***                  |                         |                                    |              |
-| 6 7m         |                                      |                         |                                    |              |
-| 7            | ***vinterferie***                    |                         |                                    |              |
-| 8-16 86m     | eksamensprojekt                      |                         |                                    | aula         |
-| 17 4m        | aflevering torsdag                   |                         | produkt & rapport  (90 e.timer)    |              |
-
-
+| uge  | emne (**klik på titel**)             | timer                   | aflever                            | andet        |
+|------|--------------------------------------|-------------------------|------------------------------------|--------------|
+| 33   | opstart & kodning                    | 4m                      |                                    | d.16/8 i aula|
+| 34-35| kodning                              | 10m                     |                                    |              |
+| 36-37| engine                               | 10m                     |                                    | aula         |
+| 38   | 2D-spil v.1                          | 30m/15et                | produkt                            | aula         |
+| 39+40| projektstyring                       | 10m                     |                                    | aula         |
+| 41   | 2D-spil v.2                          | 12m                     | plan                               |              |
+| 42   | ***efterårsferie***                  |                         |                                    |              |
+| 43-44| databaser                            | 12m                     |                                    |              |
+| 45-46| grafik                               | 13m                     |                                    | aula         |
+| 47-48| minieksamensprojekt                  | 19m                     | rapport                            | aula         |
+| 49-50| ***sop***                            |                         |                                    |              |
+| 51   |                                      | 6m                      |                                    |              |
+| 52-1 | ***juleferie***                      |                         |                                    |              |
+| 2-3  | 3d & sikkerhed & lego                | 14m                     |                                    | aula         |
+| 4    | ***sop eksamen***                    |                         |                                    |              |
+| 5    | ***terminsprøver***                  |                         |                                    |              |
+| 6    |                                      | 7m                      |                                    |              |
+| 7    | ***vinterferie***                    |                         |                                    |              |
+| 8-16 | eksamensprojekt                      | 86m                     |                                    | aula         |
+| 17   | aflevering torsdag                   | 4m/90et                 | produkt+rapport                    |              |
 
 -------------------------------------
 
@@ -118,9 +116,7 @@ Som minumum bør man dog stræbe efter 5 testpersoner.
 En anden person, der deler vores synspunkt, er forfatteren Morten Münster, som du kan læse mere om i følgende blogindlæg:
 https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-dag-en-bog-om-adfaerdsdesign/
 
-
 -------------------------------------
-
 
 # Rapporten
 Dokumentation er vigtigt når man laver projektarbejde - og til teknikfagseksamen spiller rapporten
@@ -129,9 +125,7 @@ Her er et forslag til opbygning af rapporten:
 
  [rapport_opbygning.md](rapport_opbygning.md)
 
-
 -------------------------------------
-
 
 # Værktøjer & Sprog
 Nedenfor ses en liste over links til værktøjer vi bruger i faget (der kan forekomme tilføjelser):
