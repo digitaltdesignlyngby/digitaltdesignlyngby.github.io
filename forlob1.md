@@ -12,6 +12,21 @@ Vi vil gå rundt og vejlede resten af dagen. Opsamling næste gang - happy codin
 | uge 33 - onsdag d.16/8 | sted                    | indhold         | læsestof                                                                                                                | opgaver                                   |
 |------------------------|-------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | 4. modul               | aula                    | intro til faget |                                                                                                                         |                                           |
-| 5. modul               | klasser eller grupperum | arbejd selv     | [from zero](https://gdquest.github.io/learn-gdscript/)                                                                  | lav mindst lesson 1 til 11                |
+| 5. modul               | klasser eller grupperum | arbejd selv     | [from zero](https://gdquest.github.io/learn-gdscript/)                                                                  | lav mindst lesson 1 til 14                |
 | 6. modul               | klasser eller grupperum | arbejd selv     | [docs 3.5 - first script](https://docs.godotengine.org/en/3.5/getting_started/step_by_step/scripting_first_script.html) | download Godot3.5 og byg program fra docs |
-| 7. modul               | klasser eller grupperum | arbejd selv     |                                                                                                                         | LAV OPGAVE ...                            |
+| 7. modul               | klasser eller grupperum | arbejd selv     |                                                                                                                         | Solsystemsopgave (se nedenfor)            |
+
+
+***Opgave: Skab dit eget Solsystem i Godot Engine***
+
+Brug Godot Engine til at oprette en solsystem-simulering:
+
+- Opret en Node2D i din scene og placer den i midten.
+- Brug _draw-metoden og draw_circle til at tegne solen (gul), Mars (rød), Jorden (blå) og Månen (hvid).
+- Anvend farven Color for at definere cirkelfarverne.
+- Brug simple vektoroperationer til at animere planeternes bevægelse over tid.
+- Husk at inkludere update() til at opdatere scenen jævnligt.
+
+Følg disse skridt og udforsk grundlæggende koncepter som _draw, draw_circle, Color, Node2D og update i Godot Engine. Se derefter den medfølgende video for et visuelt eksempel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XX6r4fkh_sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
