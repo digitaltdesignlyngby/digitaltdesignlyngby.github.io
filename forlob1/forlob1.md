@@ -5,7 +5,7 @@ I bliver præsenteret for årsplanen og kernestoffet.
 
 Oplæg i aulaen:
 - [intro første time](modul1.pdf)
-- [DDU opstart links til divs vigtige websites ver 1](opstart.pdf)     
+- [DDU opstart links til divs vigtige websites](opstart2.pdf)     
 
 Herefter starter vi op på vores første emne, kodning i GdScript.
 Vi foreslå i går sammen i grupper på 2 eller 3 personer.
