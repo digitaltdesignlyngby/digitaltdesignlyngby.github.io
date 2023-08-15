@@ -73,28 +73,28 @@ Faget anvender følgende metoder og værktøjer:
 
 Nedenfor ses nuværende rækkefølge af projekter og forløb.
 
-| uge  | emne[1]                              | timer[2]                | aflevering                         | andet        |
-|------|--------------------------------------|-------------------------|------------------------------------|--------------|
-| 33   | [opstart & kodning](forlob1.md)      | 4m                      |                                    | d.16/8 i aula|
-| 34-35| kodning                              | 10m                     |                                    |              |
-| 36-37| engine                               | 10m                     |                                    | aula         |
-| 38   | 2D-spil v.1                          | 30m/15et                | produkt                            | aula         |
-| 39-40| projektstyring                       | 10m                     |                                    | aula         |
-| 41   | 2D-spil v.2                          | 12m                     | plan                               |              |
-| 42   | ***efterårsferie***                  |                         |                                    |              |
-| 43-44| databaser                            | 12m                     |                                    |              |
-| 45-46| grafik                               | 13m                     |                                    | aula         |
-| 47-48| minieksamensprojekt                  | 19m                     | rapport                            | aula         |
-| 49-50| ***sop***                            |                         |                                    |              |
-| 51   |                                      | 6m                      |                                    |              |
-| 52-1 | ***juleferie***                      |                         |                                    |              |
-| 2-3  | 3d & sikkerhed & lego                | 14m                     |                                    | aula         |
-| 4    | ***sop eksamen***                    |                         |                                    |              |
-| 5    | ***terminsprøver***                  |                         |                                    |              |
-| 6    |                                      | 7m                      |                                    |              |
-| 7    | ***vinterferie***                    |                         |                                    |              |
-| 8-16 | eksamensprojekt                      | 86m                     |                                    | aula         |
-| 17   | aflevering torsdag                   | 4m/90et                 | produkt+rapport                    |              |
+| uge  | emne[1]                                | timer[2]                | aflevering                         | andet        |
+|------|----------------------------------------|-------------------------|------------------------------------|--------------|
+| 33   | [opstart & kodning](forlob1/forlob1.md)| 4m                      |                                    | d.16/8 i aula|
+| 34-35| kodning                                | 10m                     |                                    |              |
+| 36-37| engine                                 | 10m                     |                                    | aula         |
+| 38   | 2D-spil v.1                            | 30m/15et                | produkt                            | aula         |
+| 39-40| projektstyring                         | 10m                     |                                    | aula         |
+| 41   | 2D-spil v.2                            | 12m                     | plan                               |              |
+| 42   | ***efterårsferie***                    |                         |                                    |              |
+| 43-44| databaser                              | 12m                     |                                    |              |
+| 45-46| grafik                                 | 13m                     |                                    | aula         |
+| 47-48| minieksamensprojekt                    | 19m                     | rapport                            | aula         |
+| 49-50| ***sop***                              |                         |                                    |              |
+| 51   |                                        | 6m                      |                                    |              |
+| 52-1 | ***juleferie***                        |                         |                                    |              |
+| 2-3  | 3d & sikkerhed & lego                  | 14m                     |                                    | aula         |
+| 4    | ***sop eksamen***                      |                         |                                    |              |
+| 5    | ***terminsprøver***                    |                         |                                    |              |
+| 6    |                                        | 7m                      |                                    |              |
+| 7    | ***vinterferie***                      |                         |                                    |              |
+| 8-16 | eksamensprojekt                        | 86m                     |                                    | aula         |
+| 17   | aflevering torsdag                     | 4m/90et                 | produkt+rapport                    |              |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer
@@ -106,7 +106,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 - ***from zero*** : [Learning gdscript from zero, interaktiv bog/app](https://gdquest.github.io/learn-gdscript/)
 - ***docs 3.5*** : [Godot engine dokumentation](https://docs.godotengine.org/en/3.5/)
 - ***godot beginner*** : [Godot Game Development for Beginners, af Daniel Buckley](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)
-- ***ddu-systime*** : [Bogen digital design og udvikling fra Systime, kap. projektstyring](https://ddu.systime.dk/)
+- ***ddu-systime*** : [Bogen digital design og udvikling fra Systime](https://ddu.systime.dk/)
+- ***computerspil teori*** : [Bogen computerspil fra Systime](https://computerspil.systime.dk/)
 
 -------------------------------------
 
