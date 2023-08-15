@@ -1,4 +1,4 @@
-# Velkommen til DDU
+Velkommen til DDU
 *Digitalt design og udvikling teknikfag - Lyngby - HCØ HTX*
 
 # Hvad er DDU
