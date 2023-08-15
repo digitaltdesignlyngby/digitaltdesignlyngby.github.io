@@ -28,4 +28,4 @@ Brug Godot Engine til at oprette en solsystem-simulering:
 - Husk at inkludere update() til at opdatere scenen jævnligt.
 
 Følg disse skridt og udforsk grundlæggende koncepter som _draw, draw_circle, Color, Node2D og update i Godot Engine. Se derefter den medfølgende video for et visuelt eksempel:   
-[https://www.youtube.com/embed/XX6r4fkh_sw](https://www.youtube.com/embed/XX6r4fkh_sw)
+[youtube - solsystem gdscript](https://www.youtube.com/watch?v=XX6r4fkh_sw)
