@@ -27,6 +27,5 @@ Brug Godot Engine til at oprette en solsystem-simulering:
 - Brug simple vektoroperationer til at animere planeternes bevægelse over tid.
 - Husk at inkludere update() til at opdatere scenen jævnligt.
 
-Følg disse skridt og udforsk grundlæggende koncepter som _draw, draw_circle, Color, Node2D og update i Godot Engine. Se derefter den medfølgende video for et visuelt eksempel.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XX6r4fkh_sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Følg disse skridt og udforsk grundlæggende koncepter som _draw, draw_circle, Color, Node2D og update i Godot Engine. Se derefter den medfølgende video for et visuelt eksempel:   
+[https://www.youtube.com/embed/XX6r4fkh_sw](https://www.youtube.com/embed/XX6r4fkh_sw)
