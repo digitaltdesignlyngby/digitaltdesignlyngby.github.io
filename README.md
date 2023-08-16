@@ -76,7 +76,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | uge  | emne[1]                                | timer[2]                | aflevering                         | andet        |
 |------|----------------------------------------|-------------------------|------------------------------------|--------------|
 | 33   | [opstart & kodning](forlob1/forlob1.md)| 4m                      |                                    | d.16/8 i aula|
-| 34-35| kodning                                | 10m                     |                                    |              |
+| 34-35| [kodning](forlob2/forlob2.md)          | 10m                     |                                    |              |
 | 36-37| engine                                 | 10m                     |                                    | aula         |
 | 38   | 2D-spil v.1                            | 30m/15et                | produkt                            | aula         |
 | 39-40| projektstyring                         | 10m                     |                                    | aula         |
