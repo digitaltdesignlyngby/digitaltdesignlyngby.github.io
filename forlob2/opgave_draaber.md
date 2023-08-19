@@ -15,4 +15,5 @@ I denne opgave skal du bruge Godot og GDScript til at skabe en simpel simulation
 6. Kør spillet og se, hvordan regndråberne nu simuleres ved at falde fra toppen af skærmen og lande som cirkler på jorden, når der klikkes med musen.
 
 ***Ekstre udfordring:***
+
 Ud fra samme princip som i oventsående lav en klasse der hedder Dyr. Instanser af klassen dyr skal kunne indsættes ved at trykke et sted på skærmen. Dyret skal herefter bevæge sig selvstændigt rundt på skærmen i på en tilfældig men realistisk måde.
