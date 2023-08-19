@@ -15,5 +15,5 @@
 
 ***Forløbsplan : uge 35 - mandag d.28/8***
 
-Objektorienteret programmering ... froklaring følger 
+Objektorienteret programmering ... forklaring følger 
 
