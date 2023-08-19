@@ -14,3 +14,5 @@ I denne opgave skal du bruge Godot og GDScript til at skabe en simpel simulation
 5. Skriv kode i den overordnede scene's _input()-metode, der opretter en ny instans af "Draabe" klassen hver gang der klikkes med musen. Brug "new" til at lave en kopi af "Draabe" noden og tilføj den som child til "Node2D".
 6. Kør spillet og se, hvordan regndråberne nu simuleres ved at falde fra toppen af skærmen og lande som cirkler på jorden, når der klikkes med musen.
 
+***Ekstre udfordring:***
+Ud fra samme princip som i oventsående lav en klasse der hedder Dyr. Instanser af klassen dyr skal kunne indsættes ved at trykke et sted på skærmen. Dyret skal herefter bevæge sig selvstændigt rundt på skærmen i på en tilfældig men realistisk måde.
