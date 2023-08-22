@@ -9,7 +9,7 @@
 |                        |                   |                                                                                                                                                                                                                                        |
 | ***Onsdag 23.august*** |                   |                                                                                                                                                                                                                                        |
 | 4. modul               | intro i klasser   | indhold                                                                                                                                                                                                                                |
-| 6. modul               | arbejd selv       | [docs 3.5 - vektorer](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html#) <br/> [opgaven follower](opgave_follower.md)                                                                                            |
+| 6. modul               | arbejd selv       | [docs 3.5 - vektorer](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html#) <br/> [opgaven follower](opgave_follow.md)                                                                                            |
 | 7. modul               | arbejd selv       | [docs 3.5 - vektorer](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html#) <br/>                                                                                                                                   |
 
 
