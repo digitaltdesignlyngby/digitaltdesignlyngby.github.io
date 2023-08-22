@@ -1,4 +1,4 @@
-***follower opgaven : Lav en trekant der bevæger sig mod museklik destination***
+***Follower opgaven : lav en trekant der bevæger sig mod museklik destination***
 
 I denne opgave vil du oprette en trekant, der gradvist retter sig mod det seneste museklik. Du vil anvende vektoroperationer som angle_to og lerp for at opnå denne bevægelse.
 
