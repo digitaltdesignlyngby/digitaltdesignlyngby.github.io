@@ -8,21 +8,31 @@ Se nedenstående video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPIWGHDO89Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+-------
+
 **Del 1: Opret Trekanten**
 
 I denne første del skal du oprette trekanten og sørge for, at den oprindeligt peger mod højre.
+
+-------
 
 **Del 2: Justering af Trekantens Retning**
 
 I anden del skal du sørge for, at trekanten drejer sig mod den seneste museklik-destination.
 
+-------
+
 **Del 3: Bevægelse mod Destinationspunktet**
 
 I tredje del skal du få trekanten til at bevæge sig imod den ønskede destination ved hjælp af en vektor, der gradvist drejer i retning af destinationspunktet.
 
-***Del 4: ideer til ekstra udvidelse***
+--------
+
+**Del 4: ideer til ekstra udvidelse**
 
 lav flere follower-objekter der følger efter hinanden med en bestemt afstand, det sidste element i rækken følger efter musens position...
+
+--------
 
 Hints:
 
