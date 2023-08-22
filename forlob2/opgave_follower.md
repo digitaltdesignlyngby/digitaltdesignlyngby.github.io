@@ -1,12 +1,9 @@
-***Follower Opgaven***
-
-***Lav en trekant der bevæger sig mod museklik destination***
+***follower opgaven : Lav en trekant der bevæger sig mod museklik destination***
 
 I denne opgave vil du oprette en trekant, der gradvist retter sig mod det seneste museklik. Du vil anvende vektoroperationer som angle_to og lerp for at opnå denne bevægelse.
 
 Se nedenstående video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPIWGHDO89Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=FPIWGHDO89Y](https://www.youtube.com/watch?v=FPIWGHDO89Y)
 
 -------
 
