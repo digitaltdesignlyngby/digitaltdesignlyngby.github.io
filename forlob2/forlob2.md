@@ -19,6 +19,6 @@
 |------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ***Mandag 28.august*** |                   |                                                                                                                                                                                                                                        |
 | 4. modul               | intro i klassen   | løsning på follower opgaven                                                                                                                                                                                                            |
-| 5. modul               | arbejds selv      | [læs: nature of code , chapter 6: autonomous-agents - og lav eksemplerne i Godot med gdscript](https://natureofcode.com/book/chapter-6-autonomous-agents/)                                                                             |
+| 5. modul               | arbejds selv      | [læs: nature of code ,chap6: auto-agents](https://natureofcode.com/book/chapter-6-autonomous-agents/) <br/> Lav eksemplerne i Godot med gdscript                                                                                       |
 
 Næste gang objektorienteret programmering med gdscript ...
