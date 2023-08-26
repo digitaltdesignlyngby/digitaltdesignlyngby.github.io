@@ -15,5 +15,10 @@
 
 ***Forløbsplan : uge 35 - mandag d.28/8***
 
-Objektorienteret programmering ... forklaring følger 
+| Uge 34                 | arbejdsform       | indhold                                                                                                                                                                                                                                |
+|------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Mandag 28.august*** |                   |                                                                                                                                                                                                                                        |
+| 4. modul               | intro i klassen   | løsning på follower opgaven                                                                                                                                                                                                            |
+| 5. modul               | arbejds selv      | [læs: nature of code , chapter 6: autonomous-agents - og lav eksemplerne i Godot med gdscript](https://natureofcode.com/book/chapter-6-autonomous-agents/)                                                                             |
 
+Næste gang objektorienteret programmering med gdscript ...
