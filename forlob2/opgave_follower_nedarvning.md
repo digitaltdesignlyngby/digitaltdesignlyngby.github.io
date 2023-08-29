@@ -1,4 +1,4 @@
-# Mover (før follower) special-typer : nedarvning i gdscript (og Godot)
+***Mover (før follower) special-typer : nedarvning i gdscript (og Godot)***
 
 I denne opgave skal vi arbejde med konceptet om "Nedarvning". Vi vil oprette en "Mover"-node samt andre noder kaldet "Predator" og "Prey", som begge nedarver fra "Mover".
 
