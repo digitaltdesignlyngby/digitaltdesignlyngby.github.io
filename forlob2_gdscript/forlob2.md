@@ -23,7 +23,7 @@
 |                        |                   |                                                                                                                                                                                                                                        |
 | ***Onsdag 30.august*** |                   |                                                                                                                                                                                                                                        |
 | 4. modul               | intro i klasser   | løsning follower med acceleration og tilfældig bevægelse                                                                                                                                                                               |
-| 5. modul               | arbejd  selv      | [Nedarvnings opgave : Predator og Prey](opgave_follower_nedarvning.md)                                                                                                                                                                 |
+| 5. modul               | arbejd  selv      | [Nedarvnings opgave : Predator og Prey](opgave_follower_nedarvning.md)  <br/>  [opgave scene-skift](opgave_scene_skift.pdf)                                                                                                            |
 
 
 Næste gang objektorienteret programmering med gdscript ...
