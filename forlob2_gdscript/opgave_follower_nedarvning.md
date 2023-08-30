@@ -10,9 +10,10 @@ Opgaver:
 
 1. Opret en "MainScene" med en "hovednode" kaldet "MainNode" af typen "Node2D" og følgende under-noder: "Mover", "Predator" og "Prey".
 2. Lav "Mover"-klassen som superklassen, hvorfra "Predator" og "Prey" nedarver.
-3. Implementer en tilfældig bevægelsesmåde for "Mover", der forhindrer den i at forsvinde ud af skærmen. Du kan lade dig inspirere af kapitel 6 fra bogen "Nature of Code".
-4. Gør "Predator" og "Prey" forskellige fra "Mover" ved at ændre deres udseende. Du kan ikke overskrive "_draw" direkte som i f.eks. Processing, så du skal oprette en ny metode, f.eks. "mover_draw", som kaldes fra "_draw".
-5. Implementer funktionalitet til at indsætte instanser af "Predator" ved tryk på "A" og instanser af "Prey" ved tryk på "B".
+3. Definér variabler, som er indkapslet i de 3 klasser, og som er beskrivende for de objekter, som klasserne repræsenterer. Anvend eventuelt denne video om indkapsling [https://www.youtube.com/watch?v=Bnas4ZoMoJY](https://www.youtube.com/watch?v=Bnas4ZoMoJY), som et hint til opbygning af indkapslede variabler
+4. Implementer en tilfældig bevægelsesmåde for "Mover", der forhindrer den i at forsvinde ud af skærmen. Du kan lade dig inspirere af kapitel 6 fra bogen "Nature of Code".
+5. Gør "Predator" og "Prey" forskellige fra "Mover" ved at ændre deres udseende. Du kan ikke overskrive "_draw" direkte som i f.eks. Processing, så du skal oprette en ny metode, f.eks. "mover_draw", som kaldes fra "_draw".
+6. Implementer funktionalitet til at indsætte instanser af "Predator" ved tryk på "A" og instanser af "Prey" ved tryk på "B".
 
 Ekstra opgaver:
 
