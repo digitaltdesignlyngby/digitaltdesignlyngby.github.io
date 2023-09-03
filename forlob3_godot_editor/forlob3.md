@@ -1,1 +1,8 @@
-# GODOT EDITOR
+***Forløbsplan uge 36***
+
+| Uge 36                    | arbejdsform       | indhold                                                                                                                                                                                                                                |
+|---------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***Mandag 4.september***  |                   |                                                                                                                                                                                                                                        |
+| 4. modul                  | intro i klasser   |                                                                                                                                                                                                                                        |
+| 5. modul                  | arbejd selv       | [opgave i sceneskift med lyd og data](opgave_sceneskift_lyd%26data.pdf)  (lav resten...)                                                                                                                                               |
+| 6. modul                  | arbejd selv       |                                                                                                                                                                                                                                        |
