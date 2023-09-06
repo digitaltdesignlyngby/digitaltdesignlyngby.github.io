@@ -1,4 +1,4 @@
-***Forløbsplan uge 36***
+***Forløbsplan uge 36 : Træning og opgaver i physics-enigine***
 
 | Uge 36                    | arbejdsform       | indhold                                                                                                                                                                                                                                |
 |---------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,6 +11,8 @@
 | 4. modul                  | intro i klasser   |                                                                                                                                                                                                                                        |
 | hold 1                    | arbejd selv       | [opgave i sceneskift med lyd og data](opgave_sceneskift_lyd%26data.pdf)  (lav resten...)                                                                                                                                               |
 | hold 2                    | arbejd selv       | [opgave i 2d top/down og platform fysik](opgave_2dfysik_1.md)                                                                                                                                                                          |
+
+***Forløbsplan uge 37 : Læs bogen Godot Game Development for Beginners - Kapitel 1***
 
 
 | Uge 37                    | arbejdsform       | indhold                                                                                                                                                                                                                                |
