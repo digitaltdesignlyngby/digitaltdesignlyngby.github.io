@@ -13,7 +13,7 @@ Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Sp
 - [Krav til spillet](projektkrav.md)
 
 ### Github, github-desktop og github-pages:
-For at kunne bruge github og github-desktop til at hoste jeres spil, skal i både kende til github, github-desktop, web-eksport og selvfølgelig github-pages se derfor ndenstående videoer:
+For at kunne bruge github-pages til at hoste jeres spil, skal i både kende til github, github-desktop, web-eksport og selvfølgelig github-pages se derfor nedenstående videoer:
 - [video : github og github-desktop (branching er ikke et krav)](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - [video : godot og github-desktop](https://www.youtube.com/watch?v=gAXnvTdca68)
 - [video : godot eksport til web](https://youtu.be/foXI2uJMEhQ?si=wZ_b-MVo-ZMPyIir)
