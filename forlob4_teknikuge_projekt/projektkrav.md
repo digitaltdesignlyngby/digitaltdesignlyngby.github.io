@@ -1,10 +1,10 @@
-## Projekt-krav
+<h3>Projekt-krav</h3>
 Vi ønsker et spil og gameplay, som kan huse et 2D spil. F.eks. et RPG lignende spil, såsom det der kunne være Diablo!
 Vi ønsker leverancer på projektet, som skal bestå af:
 - Et Godot projekt, som indeholder jeres 2D spil, med al indhold i form af assets, scripts, nodes, scenes etc.
 - En video-præsentation af varighed 2-3 minutter, hvor i omtaler jeres spil, og eventuelle designvalg til spillet, som i især ønsker at sætte fokus på.
 
-## Selve spillet SKAL indholde følgende:
+### Selve spillet SKAL indholde følgende:
 - En playable karakter, eller det som i dokumentet her bliver kaldt – spilleren
 - 3 til x antal "fjende objekter", som f.eks. som hver især er deres egen type fjende, såsom: Goblin, Skeleton, CrabPeople etc.
 - En "health" bar
@@ -12,7 +12,7 @@ Vi ønsker leverancer på projektet, som skal bestå af:
 - TileMaps, som giver flere baggrundselementer til banen, såsom græs, grus, lava, vand etc. I vælger selvfølgelig selv, hvad diverse tiles skal bestå af.
 - Game over kriterie der skal til for at opnå Game Over status.
 
-## Spilet kan indeholde følgende (forslag):
+### Spilet kan indeholde følgende (forslag):
 - BONUS: Objekter, som kan indgå i en Inventory, og som eventuelt kan ”equip’es” af den playable karakter.
 - En combat scenarie skal udspille sig i spillet, hvor en spiller kan bekrige en fjende. Vælg en af 2 følgende muligheder:
     - LET: Animér spilleren med et våben, som kan slå ud efter en fjende. Ved fjende og spiller kollision, så mister spilleren x antal liv af sin health bar. Ved ramt mål af våben mod fjende, så mister fjenden liv på sin health bar.
