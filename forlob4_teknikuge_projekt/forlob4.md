@@ -1,6 +1,6 @@
 <h1>2D spilprojektet - teknikugen</h1>
 
-Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Spillet skal være et 2D-spil browser-spil og i skal derfor uploade spillet til github-pages.      
+Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Spillet skal være et 2D-browser-spil og i skal derfor uploade spillet til github-pages.      
 
 ![spiluge.jfif](spiluge.jfif)
 
