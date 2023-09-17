@@ -1,15 +1,13 @@
 <h2>2D spilprojektet - teknikugen</h2>
 
+Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Spillet skal være et 2D-spil browser-spil og i skal derfor uploade spillet til github-pages.      
 
 ![spiluge.jfif](spiluge.jfif)
 
-
-Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Spillet skal være et 2D-spil browser-spil og i skal derfor uploade spillet til github-pages.      
-
 ### Kravene til afleveringen er:
-- Et link til jeres web-spil
-- En 3 minutters video, hvor i omtaler jeres spil
-- Højest 4 personer pr. gruppe (helst 3 eller mindre)
+- ***Et link til jeres web-spil***
+- ***En ca. 3 minutters video, hvor i præsenterer jeres spil***
+- ***Højest 4 personer pr. gruppe (helst 3 eller mindre)***
 
 ### Kravene til selve spille kan i læse her: 
 - [tekstfil : krav til jers spil projekt](projektkrav.md)
