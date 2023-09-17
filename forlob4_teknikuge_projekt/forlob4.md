@@ -1,17 +1,18 @@
-### 2D spilprojektet - teknikugen
+<h2>2D spilprojektet - teknikugen</h2>
 
 ![spiluge.jfif](spiluge.jfif)
 
 Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Spillet skal være et 2D-spil browser-spil og i skal derfor uploade spillet til github-pages.      
 
-Kravene til afleveringen er:
+### Kravene til afleveringen er:
 - Et link til jeres web-spil
 - En 3 minutters video, hvor i omtaler jeres spil
 - Højest 4 personer pr. gruppe (helst 3 eller mindre)
 
-Kravene til selve spille kan i læse her: 
+### Kravene til selve spille kan i læse her: 
 - [tekstfil : krav til jers spil projekt](projektkrav.md)
 
+### Github, github-desktop og github-pages
 For at kunne bruge github og github-desktop til at hoste jeres spil, skal i både kende til github, github-desktop, web-eksport og selvfølgelig github-pages se derfor ndenstående videoer:
 - [video : github og github-desktop (branching er ikke et krav)](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - [video : godot og github-desktop](https://www.youtube.com/watch?v=gAXnvTdca68)
