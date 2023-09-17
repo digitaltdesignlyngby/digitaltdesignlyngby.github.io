@@ -10,7 +10,7 @@ Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Sp
 - ***Højest 4 personer pr. gruppe (helst 3 eller mindre)***
 
 ### Kravene til selve spille kan i læse her: 
-- [tekstfil : krav til jers spil projekt](projektkrav.md)
+- [Krav til spillet](projektkrav.md)
 
 ### Github, github-desktop og github-pages:
 For at kunne bruge github og github-desktop til at hoste jeres spil, skal i både kende til github, github-desktop, web-eksport og selvfølgelig github-pages se derfor ndenstående videoer:
