@@ -1,4 +1,4 @@
-<h3>Projekt-krav</h3>
+<h2>Projekt-krav</h2>
 Vi ønsker et spil og gameplay, som kan huse et 2D spil. F.eks. et RPG lignende spil, såsom det der kunne være Diablo!
 Vi ønsker leverancer på projektet, som skal bestå af:
 - Et Godot projekt, som indeholder jeres 2D spil, med al indhold i form af assets, scripts, nodes, scenes etc.
