@@ -7,7 +7,7 @@ Velkommen til teknikugen. I denne uge skal i lave jeres første spil-projekt. Sp
 ### Kravene til afleveringen er:
 - ***Et link til jeres web-spil***
 - ***En ca. 3 minutters video, hvor i præsenterer jeres spil***
-- ***Højest 4 personer pr. gruppe (helst 3 eller mindre)***
+- ***Højest 4 personer pr. gruppe***
 
 ### Kravene til selve spille kan i læse her: 
 - [Krav til spillet](projektkrav.md)
