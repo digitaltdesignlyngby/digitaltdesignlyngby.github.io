@@ -1,19 +1,20 @@
-<h1>Projektstyring og spilprojekt version 2</h1>
+<h1>2D-spil v.2 - med projektstyring</h1>
 
-I de næste tre uger skal i projektstyrer et softwareudviklingsprojekt.
+I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsprojekt.
 
-## Beskivelse af projektet
-Selve projektet er opdelt i følgende dele: 
-- ***planlægning:*** udviklingen af selve spilet planlægges og udviklingsarbejdet opdeles i tidsestimerede delopgaver, også kaldet tasks og hele udviklingsprocessen monitoreres vha. et burndown-chart og et projektbord/kanbanbord.
-- ***1. sprint - prototypen:*** I udvikler en papir-prototype der brugertestes
-- ***2. sprint - softwareudvikling:*** Efter at have korrigeret tasks så de opfylder tager højde for prototypetesten  projektudviklingen opdeles i estimerede delopgaver, kaldet tasks, og hele udviklingsprocessen monitoreres vha. et såkaldt burndown-chart og et projektbord også kaldet et kanbanbord. ( softwareudviklingen er normalt opdelt i flere sprints)
-- ***afleveringen*** : "aflevering af software der virker til tiden"
+## Beskivelse af projektets faser
+Projektet er opdelt i følgende dele: 
+- ***planlægning:*** udviklingen af selve spillet planlægges: opdel arbejde tidsestimerede delopgaver (tasks), giv medlemmer roller, klargør burndown-chart og projektbord/kanbanbord.
+- ***1. sprint - prototypen:*** i udvikler en papir-prototype og dertilhørende brugertest
+- ***Opdatering af tasks:*** med udgangspunkt i prototypetesten opdaters backlog
+- ***2. sprint - softwareudvikling:*** Softwareudviklingen går igang, og projektbord og burndown-chart opdateres løbende
+- ***afleveringen*** : god softwareudvikling er : "aflevering. af software der virker, til tiden"
 
-## Materialer
+## Materialer om projektstyring
 [matrialer : bøger og slides](materialeplan.md)
 
-## Forløbsplan
-| uge 39 /uge 40/ uge 41    | emne                               | moduler        | 
+## Forløbsplan for uge 39, 40 og 41
+|                           | emne                               | moduler        | 
 |---------------------------|------------------------------------|----------------|
 | ***Mandag 25.september*** | om projektstyring aula / læsning   | 3 moduler      |
 |                           |                                    |                |
@@ -30,6 +31,6 @@ Selve projektet er opdelt i følgende dele:
 | ***onsdag 11.oktober***   | Aflevering før kl.15:30            | 1 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling 
-- video 
+- vide-gennemgang af projektfaser
 - godot-projekt
 - eksekvertbart spil  

@@ -79,7 +79,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 34-35| [kodning](forlob2_gdscript/forlob2.md)                         | 10m                     |                                    |              |
 | 36-37| [engine](forlob3_godot_editor/forlob3.md)                      | 10m                     |                                    | aula         |
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | aula         |
-| 39-41| [Projektstyring 2D-spil v.2](forlob5_projektstyring/forlob5.md)| 10m                     |                                    | aula         |
+| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 10m               |                                    | aula         |
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43-44| databaser                                                      | 12m                     |                                    |              |
 | 45-46| grafik                                                         | 13m                     |                                    | aula         |

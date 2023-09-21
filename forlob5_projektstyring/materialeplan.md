@@ -1,4 +1,4 @@
-<h2>Matrialer der skal læses:</h2>
+<h2>Materialer om projektstyring</h2>
 
 ### Vigtigste kapitel fra Systime-bogen:
 - [DDU projektstyringsmetoden](https://ddu.systime.dk/?id=271)    
