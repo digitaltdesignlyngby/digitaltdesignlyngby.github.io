@@ -4,7 +4,7 @@ I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsproj
 
 ## Beskivelse af projektets faser
 
-mProjektet er opdelt i følgende dele:
+Projektet er opdelt i følgende dele:
 
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ***planlægning:***                   | udviklingen af selve spillet planlægges: opdel arbejde tidsestimerede delopgaver (tasks), giv medlemmer roller, klargør burndown-chart og projektbord/kanbanbord. |
