@@ -4,14 +4,15 @@ I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsproj
 
 ## Beskivelse af projektets faser
 Projektet er opdelt i følgende dele: 
-- ***planlægning:*** udviklingen af selve spillet planlægges: opdel arbejde tidsestimerede delopgaver (tasks), giv medlemmer roller, klargør burndown-chart og projektbord/kanbanbord.
-- ***1. sprint - prototypen:*** i udvikler en papir-prototype og dertilhørende brugertest
-- ***Opdatering af tasks:*** med udgangspunkt i prototypetesten opdaters backlog
-- ***2. sprint - softwareudvikling:*** Softwareudviklingen går igang, og projektbord og burndown-chart opdateres løbende
-- ***afleveringen*** : god softwareudvikling er : "aflevering. af software der virker, til tiden"
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ***planlægning:***                   | udviklingen af selve spillet planlægges: opdel arbejde tidsestimerede delopgaver (tasks), giv medlemmer roller, klargør burndown-chart og projektbord/kanbanbord. |
+| ***1. sprint - prototypen:***        | i udvikler en papir-prototype og dertilhørende brugertest                                                                                                         |
+| ***Opdatering af tasks:***           | med udgangspunkt i prototypetesten opdaters backlog                                                                                                               |
+| ***2. sprint - softwareudvikling:*** | Softwareudviklingen går igang, og projektbord og burndown-chart opdateres løbende                                                                                 |
+ ***afleveringen:***                   | god softwareudvikling er : "aflevering. af software der virker, til tiden"                                                                                        |
 
 ## Materialer om projektstyring
-[matrialer : bøger og slides](materialeplan.md)
+[matrialer og bøger](materialeplan.md)
 
 ## Forløbsplan for uge 39, 40 og 41
 |                           | emne                               | moduler        | 
