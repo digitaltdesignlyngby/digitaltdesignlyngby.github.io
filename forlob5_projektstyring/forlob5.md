@@ -1,5 +1,40 @@
 <h1>Projektstyring og spilprojekt version 2</h1>
 
+
+
+## Forløbsplan
+
+| Uge 39                    | arbejdsform    | indhold        |
+|---------------------------|----------------|----------------|
+| ***Mandag 25.september*** |                |                |
+| 4. modul                  | intro i aula   | slides         |
+| 5. modul                  |                | læs            |
+| 6. modul                  |                |                |
+| ***Onsdag 28.september*** |                |                |
+| 4. modul                  |                | planlægning    |
+| 5. modul                  |                | planlægning    |
+| 6. modul                  |                | planlægning    |
+
+
+| Uge 40                    | arbejdsform    | indhold                                  |
+|---------------------------|----------------|----------------|
+| ***Onsdag 4.oktober***    |                |                |
+| 4. modul                  | intro klasser  | prototype+test |
+| 5. modul                  |                | sprint         |
+
+
+| Uge 41                    | arbejdsform    | indhold        |
+|---------------------------|----------------|----------------|
+| ***Mandag 9.oktober***    |                |                |
+| 4. modul                  | intro klasser  |                |
+| 5. modul                  |                | sprint         |
+| 6. modul                  |                | sprint         |
+| ***onsdag 11.oktober***   |                |                |
+| 4. modul                  | intro i klasser|                |
+| 5. modul                  |                | sprint         |
+| 6. modul                  |                | test           |
+
+
 ## Slides til præsentation:
 
 
@@ -18,26 +53,3 @@ vigtigste emner/fagtermer: iterationer, tasks, userstories, estimat, burndown
 
 ## Afleveringsopgaven projektstyret spiludvikling 
 
-## Forløbsplan uge 39, 40 og 41
--
-| Uge 39                    | arbejdsform       | indhold       |
-|---------------------------|-------------------|---------------|
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  | intro i aula      |               |
-| 4. modul                  | intro i aula      |               |
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  |                   |               |
-
-| Uge 40                    | arbejdsform       | indhold       |
-|---------------------------|-------------------|---------------|
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  | intro i klasser   |               |
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  | intro i klasser   |               |
-
-| Uge 41                    | arbejdsform       | indhold       |
-|---------------------------|-------------------|---------------|
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  | intro i klasser   |               |
-| ***Mandag 4.september***  |                   |               |
-| 4. modul                  | intro i klasser   |               |
