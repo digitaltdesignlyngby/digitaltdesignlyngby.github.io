@@ -1,8 +1,8 @@
 <h1>2D-spil v.2 - med projektstyring</h1>
 
 I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.   
-Spillet skal enten være en videreudvikling af det spil i lavede i projektugen eller et helt nyt spil.      
-Grupperne skal være på minimum 3 personer. 
+- Spillet skal enten være en videreudvikling af det spil i lavede i projektugen eller et helt nyt spil.      
+- Grupperne skal være på minimum 3 personer. 
 
 ## Materialer om projektstyring
 - [slides projektstyring](slides_projektstyring.pdf)    
