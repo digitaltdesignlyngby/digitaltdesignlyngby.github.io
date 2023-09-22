@@ -19,7 +19,7 @@ vigtigste emner/fagtermer: iterationer, tasks, userstories, estimat, burndown
 - [Kapitel 1 : Great software development](HFSD_Chp1.pdf)
 - [Kapitel 4 : User stories and tasks](HFSD_Chp4.pdf)
 
-## Projectboard værktøj
+## Projektstyrings værktøjer
 - [Video : anvendelse af github til kanbanboard og tasks](https://youtu.be/kS5j8DJZLX8?si=-ITcXVOF9GVKweyh&t=748)
 - [Link til online værktøjet Trello](https://trello.com/)
 
