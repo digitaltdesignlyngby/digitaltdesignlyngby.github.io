@@ -38,8 +38,8 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 | ***Mandag 25.september*** | intro aula & læsning               | 3 moduler      |
 | ***Onsdag 28.september*** | sprint 1 : se ovenfor              | 2 moduler      |
 | ***Onsdag 4.oktober***    | sprint 2 : se ovenfor              | 2 moduler      |
-| ***Mandag 9.oktober***    |                                    | 3 moduler      |
-| ***Tirsdag 10.oktober***  |                                    | 6 moduler      |
+| ***Mandag 9.oktober***    | sprint 2 : se ovenfor              | 3 moduler      |
+| ***Tirsdag 10.oktober***  | sprint 2 : se ovenfor              | 6 moduler      |
 | ***onsdag 11.oktober***   | aflevering                         | 2 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling - onsdag d.11 oktober
