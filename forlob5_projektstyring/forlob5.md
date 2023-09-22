@@ -13,15 +13,16 @@ I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.
 ## Udviklingsfaser med projektstyring
 
 Projektet er opdelt i følgende dele:
-| fase                                 | indhold                                                                                                                         |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| ***1. sprint - prototypen:***        | lav ***papir-prototype*** med ***brugertest***                                                                                  |
-| ***planlæg sprint 2:***              | opret ***user-stories***, ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***.            |
-| ***2. sprint - softwareudvikling:*** |  ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                                     |
-| *planlæg sprint x*                   | *kun muligt i længere projekter*                                                                                                |                                    
-| *x. sprint*                          | *kun muligt i længere projekter*                                                                                                |
-| *brugertest x*                       | *kun muligt i længere projekter*                                                                                                |                                     
-| ***afleveringen:***                  | god softwareudvikling er : "aflevering. af software der virker, til tiden"                                                      |
+| fase                                | indhold                                                                                                                         |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| ***1.sprint - udvikling***          | ***papir-prototype*** og ***vælg målgruppe***                                                                                   |
+| ***1.sprint - test***               | ***brugertest***                                                                                                                |
+| ***1-sprint - planlæg næste***      | opret ***user-stories***, ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***             |                                    
+| ***2. sprint - softwareudvikling*** |  ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                                     |
+| *2. sprint - test*                  | *ikke muligt i dette projekt*                                                                                                   |                                    
+| *2- sprint - planlæg næste*         | *ikke muligt i dette projekt*                                                                                                   |
+| *osv.*                              | *ikke muligt i dette projekt*                                                                                                   |                                     
+| ***afleveringen:***                 | god softwareudvikling er : "aflevering. af software der virker, til tiden"                                                      |
 
 ## Forløbsplan for uge 39, 40 og 41
 
