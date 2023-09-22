@@ -16,9 +16,9 @@ Projektet er opdelt i følgende dele:
 | ***1. sprint - prototypen:***        | lav ***papir-prototype*** med ***brugertest***                                                                                  |
 | ***planlæg sprint 2:***              | opret ***user-stories***, ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***.            |
 | ***2. sprint - softwareudvikling:*** |  ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                                     |
-| *planlæg sprint x*                   | *kun muligt i længere projekt*                                                                                                  |                                    
-| *x. sprint*                          | *kun muligt i længere projekt*                                                                                                  |
-| *brugertest x*                       | *kun muligt i længere projekt*                                                                                                  |                                     
+| *planlæg sprint x*                   | *kun muligt i længere projekter*                                                                                                |                                    
+| *x. sprint*                          | *kun muligt i længere projekter*                                                                                                |
+| *brugertest x*                       | *kun muligt i længere projekter*                                                                                                |                                     
 | ***afleveringen:***                  | god softwareudvikling er : "aflevering. af software der virker, til tiden"                                                      |
 
 ## Forløbsplan for uge 39, 40 og 41
@@ -40,6 +40,6 @@ Projektet er opdelt i følgende dele:
 | ***onsdag 11.oktober***   | aflevering før kl.15:30            | 1 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling 
-- vide-gennemgang af tasks, burn-down, projektboard og evaluering 
-- godot-projekt
+- video-gennemgang af tasks, burn-down, projektboard og evaluering 
+- godot-projektet
 - eksekvertbart spil  
