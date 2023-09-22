@@ -2,6 +2,8 @@
 
 I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsprojekt.
 
+![boeard](pic_board.png)
+
 ## Udviklingsfaser med projektstyring
 
 Projektet er opdelt i følgende dele:
@@ -16,8 +18,8 @@ Projektet er opdelt i følgende dele:
 | ***afleveringen:***                  | god softwareudvikling er : "aflevering. af software der virker, til tiden"                                                      |
 
 ## Materialer om projektstyring
-[slides projektstyring](slides_projektstyring.pdf)
-[matrialer og bøger](materialeplan.md)
+- [slides projektstyring](slides_projektstyring.pdf)    
+- [matrialer og bøger](materialeplan.md)
 
 ## Forløbsplan for uge 39, 40 og 41
 
