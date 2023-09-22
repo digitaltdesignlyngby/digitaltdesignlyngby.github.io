@@ -7,9 +7,9 @@ I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsproj
 Projektet er opdelt i følgende dele:
 |                                      |                                                                                                                                 |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| ***1. sprint - prototypen:***        | udvikling en ***papir-prototype*** og dertilhørende ***brugertest***                                                            |
-| ***planlæg sprint 2:***              | opret tidsestimerede delopgaver dvs. ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***. |
-| ***2. sprint - softwareudvikling:*** | udvilking af software ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                |
+| ***1. sprint - prototypen:***        | lav ***papir-prototype*** med ***brugertest***                                                                                  |
+| ***planlæg sprint 2:***              | opret  ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***.                               |
+| ***2. sprint - softwareudvikling:*** |  ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                                     |
 | *planlæg sprint x*                   | *kun muligt i længere projekt*                                                                                                  |                                    
 | *x. sprint*                          | *kun muligt i længere projekt*                                                                                                  |
 | *brugertest x*                       | *kun muligt i længere projekt*                                                                                                  |                                     
