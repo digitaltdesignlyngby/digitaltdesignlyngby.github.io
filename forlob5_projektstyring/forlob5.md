@@ -11,10 +11,10 @@ I de næste tre uger skal i øve jer i at projektstyre et softwareudviklingsproj
 ## Udviklingsfaser med projektstyring
 
 Projektet er opdelt i følgende dele:
-|                                      |                                                                                                                                 |
+| fase                                 | indhold                                                                                                                         |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | ***1. sprint - prototypen:***        | lav ***papir-prototype*** med ***brugertest***                                                                                  |
-| ***planlæg sprint 2:***              | opret  ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***.                               |
+| ***planlæg sprint 2:***              | opret ***user-stories***, ***tasks***, giv ***roller***, opret ***burndown-chart*** og ***projektbord/kanbanbord***.            |
 | ***2. sprint - softwareudvikling:*** |  ***opdater projektbord*** løbende og ***opdater burndown-chart***  løbende                                                     |
 | *planlæg sprint x*                   | *kun muligt i længere projekt*                                                                                                  |                                    
 | *x. sprint*                          | *kun muligt i længere projekt*                                                                                                  |
@@ -40,6 +40,6 @@ Projektet er opdelt i følgende dele:
 | ***onsdag 11.oktober***   | aflevering før kl.15:30            | 1 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling 
-- vide-gennemgang af projektfaser
+- vide-gennemgang af tasks, burn-down, projektboard og evaluering 
 - godot-projekt
 - eksekvertbart spil  
