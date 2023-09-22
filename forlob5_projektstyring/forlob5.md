@@ -23,7 +23,7 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 | ***1.sprint - test***               | ***prototype brugertest***                                                                            |
 | ***1.sprint - planlæg næste***      | ***user-stories***, ***tasks***, ***roller***, ***burndown-chart*** og ***projektbord/kanbanbord***   |
 |                                     |                                                                                                       |                                    
-| ***2.sprint - udvikling***          | udvikling via. ***projektbord*** og ***burndown-chart***                                              |
+| ***2.sprint - udvikling***          | udvikling med ***projektbord*** og ***burndown-chart***                                               |
 | *2.sprint - test*                   | *ikke muligt i dette projekt*                                                                         |                                    
 | *2.sprint - planlæg næste*          | *ikke muligt i dette projekt*                                                                         |
 |                                     |                                                                                                       |
@@ -35,19 +35,12 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 
 |                           | emne                               | moduler        | 
 |---------------------------|------------------------------------|----------------|
-| ***Mandag 25.september*** | om projektstyring aula / læsning   | 3 moduler      |
-|                           |                                    |                |
-| ***Onsdag 28.september*** | sprint 1 (prototype & test)        | 1,5 moduler    |
-|                           |                                    |                |
-|                           | planlæg udvikling                  | 1,5 moduler    |
-|                           |                                    |                |
-| ***Onsdag 4.oktober***    | sprint 2 (spiludvikling & test)    | 12 moduler     |
-|                           |                                    |                |
-| ***Mandag 9.oktober***    |                                    |                |
-|                           |                                    |                |
-| ***Tirsdag 10.oktober***  | *teknik-dag*                       |                |
-|                           |                                    |                |
-| ***onsdag 11.oktober***   | aflevering før kl.15:30            | 1 modul        |
+| ***Mandag 25.september*** | intro aula & læsning               | 3 moduler      |
+| ***Onsdag 28.september*** | sprint 1 : se ovenfor              | 2 moduler      |
+| ***Onsdag 4.oktober***    | sprint 2 : se ovenfor              | 2 moduler      |
+| ***Mandag 9.oktober***    |                                    | 3 moduler      |
+| ***Tirsdag 10.oktober***  |                                    | 6 moduler      |
+| ***onsdag 11.oktober***   | aflevering                         | 2 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling - onsdag d.11 oktober
 - video-gennemgang af tasks, burn-down, projektboard og evaluering af den udførte projektstyring
