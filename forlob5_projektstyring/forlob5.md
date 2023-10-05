@@ -43,7 +43,7 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 | ***onsdag 11.oktober***   | aflevering                         | 2 modul        |
 
 ## Afleveringsopgaven projektstyret spiludvikling - onsdag d.11 oktober
-- video-gennemgang af tasks, burn-down, projektboard og evaluering af den udførte projektstyring
+- video-gennemgang af brugertest, tasks, burn-down, projektboard og evaluering af den udførte projektstyring
 - godot-projektet
 - eksekvertbart spil
 
