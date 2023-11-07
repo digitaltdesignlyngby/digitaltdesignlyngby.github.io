@@ -17,16 +17,16 @@ Udviklingen af spil hænger tæt sammen med udviklingen af den teknologi spillet
 # Genre klassificering 
 : Mange forskellige holdninger - computerspil er stadig et ungt fænomen
 
-Platform: Genren kan tage navn efter, hvilken platform spillet er skabt til, for eksempel arkadespil, massive multiplayer online-spil eller mobilspil. 
-Stemning: Genren kan tage navn efter stemningen i spillet, for eksempel horrorspil.
-Kontekst: Genren kan tage navn efter, hvilken kontekst det spilles i, for eksempel casual games og party games. 
-Mål: Genren kan tage navn efter, hvilket mål der skal opfyldes for at vinde spillet, for eksempel tower defense games og survival games. 
-Formål: Genren kan tage navn efter formålet med at spille, for eksempel education games. 
-Historien: Genren kan tage navn efter den type historie, spillet fortæller, for eksempel eventyrspil. 
-Tema: Genren kan tage navn efter spillets overordnede tema, for eksempel sportsspil eller krigsspil. 
-Regler: Genren kan tage navn efter spillets regler, for eksempel turn-based strategy eller real-time tactics. 
-Realisme: Genren kan tage navn efter, hvor realistisk spillet er, for eksempel simulation eller fantasy. 
-Perspektiv: Genren kan endda tage navn efter, hvilket perspektiv brugeren ser begivenhederne fra, som first person shooter . 
+- Platform: Genren kan tage navn efter, hvilken platform spillet er skabt til, for eksempel arkadespil, massive multiplayer online-spil eller mobilspil. 
+- Stemning: Genren kan tage navn efter stemningen i spillet, for eksempel horrorspil.
+- Kontekst: Genren kan tage navn efter, hvilken kontekst det spilles i, for eksempel casual games og party games. 
+- Mål: Genren kan tage navn efter, hvilket mål der skal opfyldes for at vinde spillet, for eksempel tower defense games og survival games. 
+- Formål: Genren kan tage navn efter formålet med at spille, for eksempel education games. 
+- Historien: Genren kan tage navn efter den type historie, spillet fortæller, for eksempel eventyrspil. 
+- Tema: Genren kan tage navn efter spillets overordnede tema, for eksempel sportsspil eller krigsspil. 
+- Regler: Genren kan tage navn efter spillets regler, for eksempel turn-based strategy eller real-time tactics. 
+- Realisme: Genren kan tage navn efter, hvor realistisk spillet er, for eksempel simulation eller fantasy. 
+- Perspektiv: Genren kan endda tage navn efter, hvilket perspektiv brugeren ser begivenhederne fra, som first person shooter . 
 
 ----------
 
@@ -121,17 +121,21 @@ hvordan fortæller man overhovedet en historie
 
 ## Bartles Spillertyper
 
-Bartles spillertyper : killers, social, explore, achiver
+Bartles spillertyper : 
+- killers, 
+- social, 
+- explore, 
+- achiver
 
 ## LeBlancs Taksonomi : 
-Sensation: Spillet som stimulation af sanser
-Fantasy: Spillet som en fantasiverden
-Narrative: Spillet som et drama
-Challenge: Spillet som en forhindringsbane
-Fellowship: Spillet som en social ramme
-Discovery: Spillet som uopdaget territorie
-Expression: Spillet som selvopdagelse
-Submission: Spillet som noget, man underkaster sig
+- Sensation: Spillet som stimulation af sanser
+- Fantasy: Spillet som en fantasiverden
+- Narrative: Spillet som et drama
+- Challenge: Spillet som en forhindringsbane
+- Fellowship: Spillet som en social ramme
+- Discovery: Spillet som uopdaget territorie
+- Expression: Spillet som selvopdagelse
+- Submission: Spillet som noget, man underkaster sig
 
 ### 2 Narrative: Berettermodellen
 
@@ -153,9 +157,42 @@ Kan bruges til : Leaderbord ikke nødvendigvis direkte ifm. multiplayer
 
 # Hvad er et spil
 
+en amerikanske spiludvikler og teoretiker Greg Costikyan har forsøgt sig med en definition. Han har fem punkter, som han mener et spil skal leve op til for at være et spil. 
+
+- Interaktivitet
+- Mål
+- Modstand
+- Struktur
+- Endogen betydning :
+
+Modstand
+Den perfekte modstand kan beskrives ved hjælp af den såkaldte flow-teori. Det er en teori, som anvendes i psykologi og som beskriver, hvordan kompleksiteten og færdighederne bør følges ad.
+
+Tre typer struktur
+Bogen Rules of Play af Katie Salen og Eric Zimmerman inddeler regler i tre forskellige typer: De operationelle, de konstitutive og de implicitte
+
+Endogen
+noget indre - dvs. ting attributter og andet der kun fungerer inde i spillet?
+
+Greg Costikyan har forsøgt sig med en definition af et spil: ***En interaktiv struktur med endogen betydning, hvor spilleren skal kæmpe gennem modstand frem mod et mål.*** 
 
 
+------
+
+# Det gode gameplay
+
+Gameplay er betegnende den måde et spil spilles. Det er altså forholdet mellem spillerens interaktion med spillet, og spillets handling og udfordringer.
+
+Lasse Pallesen – som er redaktør på denne bog – har samlet de otte følgende principper for godt gameplay. Der er tale om generelle retningslinjer, ikke regler, der skal følges i alle henseender. Et spil kan sagtens blive vellykket uden at følge alle principperne:
+
+- Meaningful play : action => outcome, epic meaning 
+- Gameplay Balance : indbygge balancerede fordele og ulemper 
+- Provide positive and negative feedback : tetris
+- Flow in Games
+- Easy to Learn – Difficult to Master
+- Rewarding the Player
+- Tedious work
+- The Importance of a Solid Core Gameplay Mechanic : En sjov spillerhandling som omdrejningspunkt...
 
 
-
-
+------
