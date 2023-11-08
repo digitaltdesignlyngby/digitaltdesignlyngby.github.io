@@ -146,3 +146,9 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 - Produktet kan starte og anvendes direkte af brugeren, uden konsultation hos en ekspert
 - Produktet er veldesignet, intuitivt og nemt at bruge
 - Produktet virker efter hensigten
+
+-------------------------------------
+
+# Teknologiværksted med ddu
+
+[DDU-værkstedet i Teknologi](teknologi_vaerksted/beskrivelse.md)
