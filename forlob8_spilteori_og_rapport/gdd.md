@@ -1,4 +1,4 @@
-## For og imod GDD:
+<h2> For og imod GDD:</h2>
 https://www.innovecsgames.com/blog/game-design-document/
 
 That’s why the techniques that were popular ten years ago gradually become outdated. This is what happened to a game design document
