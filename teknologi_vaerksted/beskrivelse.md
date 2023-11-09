@@ -19,6 +19,7 @@ Det er vigtigt, at alle ideer godkendes af både en DDU-underviser og teknologi-
 For at dokumentere det endelige produkt bør eleverne anvede:
 - flowcharts (forklaring nederst)
 - pseudokode (forklaring nederst)
+
 Dette hjælper med at strukturere og forstå koden samt sikre, at projektet opfylder kravene.
 
 ## Kode/Værktøjer:
