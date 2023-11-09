@@ -11,7 +11,7 @@ Eleverne er velkomne til at udforske og anvende teknologier, som underviserne ik
 Elever skal have en klar idé og udarbejde følgende:
 - "use case" diagrammer 
 - kravspecifikation 
-- skitser af deres website
+- skitser af brugerfladen til programmet
 
 Det er vigtigt, at alle ideer godkendes af både en DDU-underviser og teknologi-lærer, inden arbejdet påbegyndes.
 
