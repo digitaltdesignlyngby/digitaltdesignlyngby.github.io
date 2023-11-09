@@ -9,7 +9,7 @@ Eleverne er velkomne til at udforske og anvende teknologier, som underviserne ik
 
 ## Godkendelse af ide: 
 Elever skal have en klar idé og udarbejde følgende:
-- "use case" diagrammer 
+- "use case" diagrammer (forklaring nederst)
 - kravspecifikation 
 - skitser af brugerfladen til programmet
 
@@ -17,8 +17,8 @@ Det er vigtigt, at alle ideer godkendes af både en DDU-underviser og teknologi-
 
 ## Dokumentation af det endelige produkt:
 For at dokumentere det endelige produkt bør eleverne anvede:
-- flowcharts
-- pseudokode
+- flowcharts (forklaring nederst)
+- pseudokode (forklaring nederst)
 Dette hjælper med at strukturere og forstå koden samt sikre, at projektet opfylder kravene.
 
 ## Kode/Værktøjer:
@@ -32,3 +32,4 @@ Eleverne kan bruge følgende værktøjer og teknologier til projektudvikling:
 
 - [Introduktion til brug af flowcharts](flowcharts.docx)
 - [software i Teknologi_fra fagdidaktisk kursus 2018](software_tek.pdf)
+- [https://emu.dk/grundskole/teknologiforstaaelse/begrebsguide-til-teknologiforstaaelse/pseudokode](https://emu.dk/grundskole/teknologiforstaaelse/begrebsguide-til-teknologiforstaaelse/pseudokode)
