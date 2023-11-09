@@ -8,15 +8,18 @@ Selvstændig Produktudvikling: Eleverne forventes at kunne udføre produktudvikl
 Eleverne er velkomne til at udforske og anvende teknologier, som underviserne ikke er bekendte med. Dog skal de være ansvarlige for at opnå den nødvendige ekspertise og forståelse inden brugen af sådanne teknologier.
 
 ## Godkendelse af ide: 
-Elever skal have en klar idé og udarbejde en følgende:
+Elever skal have en klar idé og udarbejde følgende:
 - "use case" diagrammer 
 - kravspecifikation 
-- skitser/wireframes
+- skitser af deres website
 
 Det er vigtigt, at alle ideer godkendes af både en DDU-underviser og teknologi-lærer, inden arbejdet påbegyndes.
 
 ## Dokumentation af det endelige produkt:
-Eleverne bør bruge flowcharts og pseudokode til at dokumentere det endelige produkt. Dette hjælper med at strukturere og forstå koden samt sikre, at projektet opfylder kravene.
+For at dokumentere det endelige produkt bør eleverne anvede:
+- flowcharts
+- pseudokode
+Dette hjælper med at strukturere og forstå koden samt sikre, at projektet opfylder kravene.
 
 ## Kode/Værktøjer:
 Eleverne kan bruge følgende værktøjer og teknologier til projektudvikling:
