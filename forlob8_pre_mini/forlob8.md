@@ -15,6 +15,9 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 - spillet skal være lavet til et bestemt fag
 
 ## Præproduktions aflevering:
+
+[groupwork](groupwork.jpg)
+
 |                           |                                              |
 |---------------------------|----------------------------------------------|
 |***projektbeskrivelse***   | [tryk her for at læse om projektbeskrivelsen](projektbeskrivelse/projektbeskrivelsen.md) |
