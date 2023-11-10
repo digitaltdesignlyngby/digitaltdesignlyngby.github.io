@@ -1,3 +1,5 @@
+<h1>computerspil teori</h1>
+
 -----
 
 # Historie:

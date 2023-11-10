@@ -18,7 +18,7 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 
 ### [projektbeskivelse - tryk for at læse mere](projektbeskrivelse/projektbeskrivelsen.md)
 
-### [game design document - tryk for at læse mere]()
+### [game design document - tryk for at læse mere](gdd/gdd.md)
 
 
 
