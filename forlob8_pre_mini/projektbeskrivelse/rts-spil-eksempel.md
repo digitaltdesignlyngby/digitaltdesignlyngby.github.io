@@ -1,5 +1,5 @@
-# Eksempel på problembaseret metode i DDU
-# Lightweight - realtids strategispil på mobile enheder
+<h1> Eksempel på problembaseret metode i DDU </h1>
+<h1> Lightweight - realtids strategispil på mobile enheder</h1>
 
 Med udgangspunkt i en markedsorienteret eller direkte kommerciel problemstilling kan man stadig anvende de samme metoder som i teknologi. Se eksemplet nedenfor:
 
