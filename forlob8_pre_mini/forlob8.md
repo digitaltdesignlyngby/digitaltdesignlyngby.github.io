@@ -15,10 +15,10 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 - spillet skal være lavet til et bestemt fag
 
 ## Præproduktions aflevering:
-
-### [projektbeskivelse - tryk for at læse mere](projektbeskrivelse/projektbeskrivelsen.md)
-
-### [game design document - tryk for at læse mere](gdd/gdd.md)
+|                           |                                              |
+|---------------------------|----------------------------------------------|
+|***projektbeskrivelse***   | [tryk her for at læse om projektbeskrivelsen](projektbeskrivelse/projektbeskrivelsen.md) |
+|***game design document*** | [tryk her for at læse om gdd](gdd/gdd.md) |
 
 
 
