@@ -83,11 +83,12 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb.
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43-44| [databaser](forlob6_database/Databaseforløb_filer_samlet.zip)  | 13m                     | produkt                            | aula         |
 | 45   | [grafik](forlob7_grafik/Filer_til_Grafik.md)                   | 6m                      |                                    | aula         |
-| 47-48| minieksamensprojekt                                            | 19m                     | rapport                            | aula         |
+| 46   | [præproduktion minieks.projektet](forlob8_pre_mini/forlob8.md) | 6m                      | projektbeskrivelse & gdd           | aula         |
+| 47-48| produktion minieks.projektet                                   | 19m                     | rapport                            | aula         |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   |                                                                | 6m                      |                                    |              |
+| 51   | cybersikkerhed                                                 | 6m                      |                                    |              |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | 3d & sikkerhed & lego?                                         | 14m                     |                                    | aula         |
+| 2-3  | 3d & sikkerhed                                                 | 14m                     |                                    | aula         |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
 | 5    | ***terminsprøver***                                            |                         |                                    |              |
 | 6    |                                                                | 7m                      |                                    |              |
