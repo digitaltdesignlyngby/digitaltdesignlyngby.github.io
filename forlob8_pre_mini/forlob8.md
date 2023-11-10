@@ -10,13 +10,13 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 
 ## Kravet til minieksamensprojektet er: 
 
+![learninggames](learninggames.jpg)
+
 - i skal lave et læringsspil til gymnasiet 
 - spillet skal indeholde en mulighed for at gemme brugerens progression
 - spillet skal være lavet til et bestemt fag
 
 ## Præproduktions aflevering:
-
-![groupwork](groupwork.jpg)
 
 |                           |                                              |
 |---------------------------|----------------------------------------------|
