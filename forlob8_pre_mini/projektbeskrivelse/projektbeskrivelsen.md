@@ -1,3 +1,9 @@
+<style>
+    body{
+         background-image: url('groupwork.jpg');   
+    }
+</style>
+
 <h1> DDU projektbeskrivelsen </h1>
 
 Projektbeskrivelsen er et dynamisk dokument, der sagtens kan ændre sig undervejs, især når man arbejder iterativt som vi gør i ddu.
