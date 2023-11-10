@@ -150,6 +150,6 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 
 -------------------------------------
 
-# Teknologiværksted med ddu
+# Teknologiværksted
 
 [DDU-værkstedet i Teknologi](teknologi_vaerksted/beskrivelse.md)
