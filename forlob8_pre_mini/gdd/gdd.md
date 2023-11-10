@@ -1,8 +1,8 @@
 <h1>Game Design Document</h1>
 
 Game design document, forkortet gdd, er et dokument, der beskriver den vigtigste information om et computer spil.
-GDD kan både fungerer som et styredokument under produktionen og et aftale-dokument med en kunde.    
-Dokumentet er på samme måde som "projektbeskrivelsen" et dynamisk dokument, og det sandsynligvis ændrer sig igennem hele projektet.      
+GDD kan både fungere som et styredokument under produktionen og et aftale-dokument med en kunde.    
+Dokumentet er på samme måde som "projektbeskrivelsen" et dynamisk dokument, og det ændrer sandsynligvis sig igennem hele projektet.      
 Her er de punkter i bør have med (flere er selvfølgelig tilladt):
 
 <ul  style="background-color: #edeff6;padding:40px;"> 
@@ -15,8 +15,10 @@ Her er de punkter i bør have med (flere er selvfølgelig tilladt):
 <li><em><strong>Teknologi og platform</strong></em>: Specifikationer af de teknologier, spillet udvikles på, samt hvilke platforme spillet er designet til at fungere på (f.eks. PC, konsol, mobil).</li> 
 </ul>
 
-Det er tydeligt at GDD i mange tilfælde ved have overlap flere punkter i projektbeskrivelsen. Hvis man ikke gider skrive alt to gange kan man henvise til GDD.
-Systime har en udmærket grundbog i computerspils-teori:       
+Det er tydeligt at gdd i mange tilfælde vil have overlap med projektbeskrivelsen. Hvis man ikke gider skrive alt to gange kan man henvise til gdd.
+Systime har en god grundbog i computerspils-teori:       
+
+## Materiale om computerspil og gdd
 [bogen computerspil - systime](https://computerspil.systime.dk/)
 
 Der er flere artikler på nettet om gdd, her en der beskriver hvordan man kan anvende gdd på en mere moderne måde:      
