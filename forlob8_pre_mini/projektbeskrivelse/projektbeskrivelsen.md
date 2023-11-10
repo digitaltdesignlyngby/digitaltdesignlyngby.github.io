@@ -9,20 +9,16 @@
 Projektbeskrivelsen er et dynamisk dokument, der sagtens kan ændre sig undervejs, især når man arbejder iterativt som vi gør i ddu.
 Projektbeskrivelsen skal godkendes inden man går videre fra præproduktion til produktionsfasen.
 
-1. Indledning
-2. Problemidentifikation (*kendt fra teknologi)
-3. Problemanalyse (*kendt fra teknologi)
-4. Produktprincip (*kendt fra teknologi)
-5. Problemformulering
-6. Tekniske problemstilling
-7. Kravspecifikationer
-8. Projektafgrænsning
-
-<table style= "background-image: url('groupwork.jpg');">
-<tr>
-<td>hva så der<td>
-</tr>
-</table>
+<ol style="background-image: url('doc.jpg'); background-repeat: no-repeat;"> 
+    <li>Indledning</li> 
+    <li>Problemidentifikation (*kendt fra teknologi)</li> 
+    <li>Problemanalyse (*kendt fra teknologi)</li> 
+    <li>Produktprincip (*kendt fra teknologi)</li> 
+    <li>Problemformulering</li> 
+    <li>Tekniske problemstilling</li> 
+    <li>Kravspecifikationer</li> 
+    <li>Projektafgrænsning</li> 
+</ol>
 
 I kan læse om de forskellige punkter her i ddu´s grundbog på systimes :      
 [ddu bogen - kap "pojektbeskrivesen"](https://ddu.systime.dk/?id=224)
