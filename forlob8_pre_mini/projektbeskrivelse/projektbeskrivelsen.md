@@ -3,7 +3,7 @@
 Projektbeskrivelsen er et dynamisk dokument, der sagtens kan ændre sig undervejs, især når man arbejder iterativt som vi gør i ddu.
 Projektbeskrivelsen skal godkendes inden man går videre fra præproduktion til produktionsfasen.
 
-<ol style="font-weight: bold;padding:100px;margin:20px;background-image: url('doc.jpg'); background-repeat: no-repeat; background-size: 75% 100%;"> 
+<ol style="font-weight: bold; background-color: #edeff6; padding:40px;"> 
     <li>Indledning</li> 
     <li>Problemidentifikation (*kendt fra teknologi)</li> 
     <li>Problemanalyse (*kendt fra teknologi)</li> 
