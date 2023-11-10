@@ -1,15 +1,9 @@
-<style>
-    body{
-         background-image: url('groupwork.jpg');   
-    }
-</style>
-
 <h1> DDU projektbeskrivelsen </h1>
 
 Projektbeskrivelsen er et dynamisk dokument, der sagtens kan ændre sig undervejs, især når man arbejder iterativt som vi gør i ddu.
 Projektbeskrivelsen skal godkendes inden man går videre fra præproduktion til produktionsfasen.
 
-<ol style="background-image: url('doc.jpg'); background-repeat: no-repeat;"> 
+<ol style="padding:100px;margin:20px;background-image: url('doc.jpg'); background-repeat: no-repeat; background-size: 75% 100%;"> 
     <li>Indledning</li> 
     <li>Problemidentifikation (*kendt fra teknologi)</li> 
     <li>Problemanalyse (*kendt fra teknologi)</li> 
