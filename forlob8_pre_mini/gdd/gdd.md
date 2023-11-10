@@ -16,9 +16,9 @@ Her er de punkter i bør have med (flere er selvfølgelig tilladt):
 </ul>
 
 Det er tydeligt at gdd i mange tilfælde vil have overlap med projektbeskrivelsen. Hvis man ikke gider skrive alt to gange kan man henvise til gdd.
-Systime har en god grundbog i computerspils-teori:       
 
 ## Materiale om computerspil og gdd
+Systime har en god grundbog i computerspils-teori: 
 [bogen computerspil - systime](https://computerspil.systime.dk/)
 
 Der er flere artikler på nettet om gdd, her en der beskriver hvordan man kan anvende gdd på en mere moderne måde:      
