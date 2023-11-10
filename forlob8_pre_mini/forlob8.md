@@ -16,7 +16,7 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 
 ## Præproduktions aflevering:
 
-[groupwork](groupwork.jpg)
+![groupwork](groupwork.jpg)
 
 |                           |                                              |
 |---------------------------|----------------------------------------------|
