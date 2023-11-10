@@ -2,7 +2,7 @@
 
 Game design document, forkortet gdd, er et dokument, der beskriver den vigtigste information om et computer spil.
 GDD kan både fungere som et styredokument under produktionen og et aftale-dokument med en kunde.    
-Dokumentet er på samme måde som "projektbeskrivelsen" et dynamisk dokument, og det ændrer sandsynligvis sig igennem hele projektet.      
+Dokumentet er på samme måde som "projektbeskrivelsen" et dynamisk dokument, og det ændrer sig sandsynligvis igennem hele projektet.      
 Her er de punkter i bør have med (flere er selvfølgelig tilladt):
 
 <ul  style="background-color: #edeff6;padding:40px;"> 
