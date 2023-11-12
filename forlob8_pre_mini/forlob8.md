@@ -18,6 +18,9 @@ Præproduktionen er alt det, der foregår inden man går i gang med selve arbejd
 
 ## Præproduktions aflevering:
 
+I skal have afleveret og godkendt to dokumenter inden i kan gå i gange med produktionsfasen.    
+Disse to dokumenter bliver også en del af jeres rapport.           
+
 |                           |                                              |
 |---------------------------|----------------------------------------------|
 |***projektbeskrivelse***   | [tryk her for at læse om projektbeskrivelsen](projektbeskrivelse/projektbeskrivelsen.md) |
