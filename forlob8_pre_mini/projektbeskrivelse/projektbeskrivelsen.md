@@ -6,9 +6,9 @@ Projektbeskrivelsen skal godkendes inden man går videre fra præproduktion til 
 <ol style="font-weight: bold; background-color: #edeff6; padding:40px;"> 
     <li>Indledning</li> 
     <li>Problemidentifikation (*kendt fra teknologi)</li> 
-    <li>Problemanalyse (*kendt fra teknologi)</li> 
+    <li>Problemanalyse (*kendt fra teknologi)</li>
+    <li>Problemformulering (*kendt fra teknologi)</li> 
     <li>Produktprincip (*kendt fra teknologi)</li> 
-    <li>Problemformulering</li> 
     <li>Tekniske problemstilling</li> 
     <li>Kravspecifikationer</li> 
     <li>Projektafgrænsning</li> 
