@@ -1,11 +1,9 @@
 <h1>Produktion af minieksamensprojektet</h1>
 
-Næste fase i projektarbejdet er produktionsfasen. Produktionsfasen indeholder mange forskellig dele.
-
 ----------------------------------------------------------------------------------------
 
-## Produktionsfasen
-I kan læse om de forskellige punkter i [ddu bogen på systime](https://ddu.systime.dk/) 
+## Indhold i produktionsfasen
+I kan læse yderligere om de forskellige punkter i [ddu bogen på systime](https://ddu.systime.dk/) 
 
 - Valg af roller
 - Udarbejdelse prototyper (f.eks. en parpirprototype)
@@ -29,8 +27,8 @@ Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder f
 
 ### Vigtigt - ekstra indhold
 Følgende ekstra punkter er føjet til rapporten, sammenlignet med skabelonen i [ddu bogen på systime](https://ddu.systime.dk/):
-- Projektbeskrivelsen skal også indeholde : problemidentifikation, problemanalyse, problemformulering og produktprincip
-- Rapporten skal også indeholde et "game design document"
+- Problemidentifikation, problemanalyse, problemformulering og produktprincip
+- Et game design document
 
 ### Teknisk dokumentation
 Rapporten bør indeholde meningsfuld teknisk dokumentation af produktets opbygning. Vi foreslår:
