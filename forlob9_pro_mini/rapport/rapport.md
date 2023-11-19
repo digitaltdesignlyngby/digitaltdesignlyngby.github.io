@@ -1,25 +1,32 @@
-<h1>Hvad skal rapporten indeholde</h1>
+
+<h1>Forslag til rapportens opbygning</h1>
+
+Hvis man foretrækker at anvende en andeledes opbygning af rapporten skal man kontakte en vejleder.
 
 ----------------------
 
-## Fra ddu bogen:
-
 ### Projektbeskrivelse
-
 - Indledning
-- Problemanalyse (kan erstattes med 2. nedenfor)
-- Teknisk problemstilling (kan erstattes med 2. nedenfor)
-- Problemformulering (kan erstattes med 2. nedenfor)
+- Problemidentifikation 
+- Problemanalyse
+- Problemformulering 
+- Produktprincip 
+- Tekniske problemstilling 
 - Kravspecifikationer
-- Projektafgrænsning
+- Projektafgrænsning 
+
+### Game design document
 
 ### Procesdokumentation:
 - Idéudvikling
 - Koncept/design
 - Prototyper
-- Projektstyring
+- Projektstyring: kan underindelses i
+    - iteration 1
+    - iteration 2
+    - osv.
 - IT-sikkerhed
-- Produktion
+- Produktion og teknisk dokumentation
 - Kvalitetssikring
 
 ### Diskussion og/eller Perspektivering,
@@ -31,15 +38,3 @@
 ### Bilag
 
 ------------------------
-
-# 2 Problembaseret projektudvikling 
-
-Opfyldelse af bekendtgørelsen fra uvm...
-
-Baseret på teknologi. Men må nødvendigvis være uden det samfundsmæssige problem... 
-
-- Problemidentifikation
-- Problemanalyse
-- Produktprincip
-- Produktudformning
-- Produktionsforberedelse

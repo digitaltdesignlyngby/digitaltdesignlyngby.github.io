@@ -1,7 +1,6 @@
 <h1>Produktion af minieksamensprojektet</h1>
 
-I har nu udarbejdet en "projektbeskrivelse" og et "game design document" (som skal godkendes af underviserne).   
-Den næste fase er nu produktionsfasen af den ide i har fundet frem til. Produktionsfasen indeholder mange forskellig dele, overordnet skal i som minimum arbejde med følgende punkter:
+Næste fase i projektarbejdet er produktionsfasen. Produktionsfasen indeholder mange forskellig dele.
 
 ----------------------------------------------------------------------------------------
 
@@ -9,7 +8,7 @@ Den næste fase er nu produktionsfasen af den ide i har fundet frem til. Produkt
 I kan læse om de forskellige punkter i [ddu bogen på systime](https://ddu.systime.dk/) 
 
 - Valg af roller
-- Udarbejdelse midst en prototype (f.eks. parpirprototype)
+- Udarbejdelse prototyper (f.eks. en parpirprototype)
 - Produkttest (f.eks. brugertest af prototypen)
 - Produktudvikling
 - (Datasikkerhed)
@@ -26,13 +25,16 @@ Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder f
 ----------------------------------------------------------------------------------------
 
 ## Rapporten 
-Men undtagelse af nedenstående, er rapportens opbygning den samme som man kan læse i ddu-bogen.
 
+### Afvigelser fra ddu-bogen
+Men undtagelse af nedenstående, er rapportens opbygning den samme som man kan læse i ddu-bogen.
 - Projektbeskrivelsen skal også indeholde punkterne: ***problemidentifikation, problemanalyse, problemformulering og produktprincip***
 - Rapporten skal også indeholde et ***game design document***
 
+[se forlag til rapportens opbygning her](rapport/rapport.md)
 
-## Teknisk dokumentation
+
+### Teknisk dokumentation
 Rapporten bør indeholde meningsfuld teknisk dokumentation af produktets opbygning. Vi foreslår:
 - use-case diagrammer, hvis produktet har flere use-cases og/eller aktører (ikke sandsynligt)
 - klassediagrammer til godot-projektets opbygning af scripts, scener og noder
@@ -41,7 +43,7 @@ Rapporten bør indeholde meningsfuld teknisk dokumentation af produktets opbygni
 
 *yderligere forklaring kommer snart...* 
 
-## Rapportens omfang
+### Rapportens omfang
 Fra lovtekst, om eksamensprojektet: *På det fastsatte afleveringstidspunkt afleverer gruppen/eleven en skriftlig rapport, af et omfang svarende til 15 – 30 normalsider for en elev og et tillæg svarende til 5 – 15 normalsider yderligere pr. elev i gruppen*     
 Mini eksamensprojektet omfang er ca. 50% af eksamensprojektet, dvs.:
 - 1 personer =  7 til 14 sider

@@ -121,6 +121,7 @@ Som minumum bør man dog stræbe efter 5 testpersoner.
 En anden person, der deler vores synspunkt, er forfatteren Morten Münster, som du kan læse mere om i følgende blogindlæg:
 https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-dag-en-bog-om-adfaerdsdesign/
 
+
 -------------------------------------
 
 # Rapporten
@@ -128,7 +129,7 @@ Dokumentation er vigtigt når man laver projektarbejde - og til teknikfagseksame
 derfor en stor rolle.  
 Her er et forslag til opbygning af rapporten:
 
- [rapport_opbygning.md](rapport_opbygning.md)
+ [rapport_opbygning.md](forlob9_pro_mini/rapport/rapport.md)
 
 -------------------------------------
 
