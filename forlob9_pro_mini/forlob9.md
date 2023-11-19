@@ -16,7 +16,7 @@ I kan læse yderligere om de forskellige punkter i [ddu bogen på systime](https
 ----------------------------------------------------------------------------------------
 
 ## Om produktet
-I år indeholder minieksamensprojektets produktionsfase kun 20 moduler.    
+I år indeholder minieksamensprojektets produktionsfase kun 20 moduler og 2 elevtimer.
 Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder færre levels, spørgsmål, items end hvad der oprindelig var tiltænkt.
 
 ----------------------------------------------------------------------------------------
@@ -49,5 +49,5 @@ Mini eksamensprojektet omfang er ca. 50% af eksamensprojektet, dvs.:
 ----------------------------------------------------------------------------------------
 
 ## Aflevering af minieksamensprojektet - torsdag d.30/11 kl 23:00
-- Et eksekverbart spil enten en "exe-fil" eller link til et web-spil.
-- En rapporten
+- Eksekverbart spil - enten "exe-fil" eller link til web-spil.
+- Rapporten
