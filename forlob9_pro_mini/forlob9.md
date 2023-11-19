@@ -17,19 +17,19 @@ I kan læse om de forskellige punkter i [ddu bogen på systime](https://ddu.syst
 
 ----------------------------------------------------------------------------------------
 
-## Produktet behøver ikke være helt færdigt
+## Om produktet
 
 I år indeholder minieksamensprojektets produktionsfase kun 20 moduler.    
 Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder færre levels, spørgsmål, items end hvad der oprindelig var tiltænkt.
 
 ----------------------------------------------------------------------------------------
 
-## Rapporten 
+## Om rapporten 
 
-### Afvigelser fra ddu-bogen
-Men undtagelse af nedenstående, er rapportens opbygning den samme som man kan læse i ddu-bogen.
-- Projektbeskrivelsen skal også indeholde punkterne: ***problemidentifikation, problemanalyse, problemformulering og produktprincip***
-- Rapporten skal også indeholde et ***game design document***
+### Vigtigt - ekstra indhold
+Følgende ekstra punkter er føjet til rapporten, sammenlignet med skabelonen i [ddu bogen på systime](https://ddu.systime.dk/):
+- Projektbeskrivelsen skal også indeholde : problemidentifikation, problemanalyse, problemformulering og produktprincip
+- Rapporten skal også indeholde et "game design document"
 
 [se forlag til rapportens opbygning her](rapport/rapport.md)
 
