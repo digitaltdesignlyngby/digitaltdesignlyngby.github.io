@@ -6,7 +6,7 @@
 I kan læse yderligere om de forskellige punkter i [ddu bogen på systime](https://ddu.systime.dk/) 
 
 - Valg af roller
-- Udarbejdelse prototyper (f.eks. en parpirprototype)
+- Udarbejdelse af prototyper (f.eks. en parpirprototype)
 - Produkttest (f.eks. brugertest af prototypen)
 - Produktudvikling
 - (Datasikkerhed)
