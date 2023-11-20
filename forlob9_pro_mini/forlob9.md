@@ -5,7 +5,7 @@
 ## Indhold i produktionsfasen
 I kan læse yderligere om de forskellige punkter i [ddu bogen på systime](https://ddu.systime.dk/) 
 
-- Valg af roller
+- Valg af roller (husk alle står det ansvar for hele projektet)
 - Udarbejdelse af prototyper (f.eks. en parpirprototype)
 - Produkttest (f.eks. brugertest af prototypen)
 - Produktudvikling
@@ -23,7 +23,8 @@ Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder f
 
 ## Om rapporten 
 Husk alle valg i rapporten skal underbygges underbygges, enten med teori eller empiri.    
-[Se forlag til rapportens opbygning her](rapport/rapport.md)
+- [Se forlag til rapportens opbygning her](rapport/rapport.md)   
+- [Se ddu-bogens rapport skabelon her](https://ddu.systime.dk/?id=239)
 
 ### Vigtigt - ekstra indhold
 Følgende ekstra punkter er føjet til rapporten, sammenlignet med skabelonen i [ddu bogen på systime](https://ddu.systime.dk/):
@@ -36,6 +37,7 @@ Rapporten bør indeholde meningsfuld teknisk dokumentation af produktets opbygni
 - klassediagrammer til godot-projektets opbygning af scripts, scener og noder
 - flowdiagrammer til skærm-navigation, levels eller diverse andre tilstande
 - pseudokode til ekstra vanskelige kode-sekvenser
+
 *yderligere forklaring kommer snart...* 
 
 ### Rapportens omfang

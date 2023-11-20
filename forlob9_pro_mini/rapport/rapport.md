@@ -7,7 +7,7 @@ Husk at kende den rigtige terminologi er vigtig.
 
 ----------------------
 
-### Projektbeskrivelse
+### Projektbeskrivelse (sidste version)
 - Indledning
 - Problemidentifikation 
 - Problemanalyse
@@ -17,7 +17,7 @@ Husk at kende den rigtige terminologi er vigtig.
 - Kravspecifikationer
 - Projektafgrænsning 
 
-### Game design document
+### Game design document (sidste version)
 - Spilbeskrivelse
 - Målsætninger
 - Mekanikker
@@ -36,7 +36,14 @@ Husk at kende den rigtige terminologi er vigtig.
     - iteration 2
     - osv.
 - IT-sikkerhed
-- Produktion og teknisk dokumentation
+- ***Produktion ( dette er et meget vigtigt kapitel)*** 
+    - Beskrivelse af produktets tekniske opbygning
+    - Forklarende tegninger eller lignende
+    - Kode-nedslag eller lignende
+    - Tekniske diagrammer
+        - flowcharts
+        - klassediagrammer
+        - andet?
 - Kvalitetssikring
 
 ### Diskussion og/eller Perspektivering,
