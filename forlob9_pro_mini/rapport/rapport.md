@@ -2,6 +2,8 @@
 <h1>Forslag til rapportens opbygning</h1>
 
 Hvis man foretrækker at anvende en andeledes opbygning af rapporten skal man kontakte en vejleder.
+Husk alle valg i rapporten skal underbygges underbygges, enten med teori eller empiri.  
+Husk at kende den rigtige terminologi er vigtig.  
 
 ----------------------
 
@@ -16,6 +18,14 @@ Hvis man foretrækker at anvende en andeledes opbygning af rapporten skal man ko
 - Projektafgrænsning 
 
 ### Game design document
+- Spilbeskrivelse
+- Målsætninger
+- Mekanikker
+- Historie
+- Leveldesign
+- Brugergrænseflade
+- Grafik og lyd
+- Teknologi og platform
 
 ### Procesdokumentation:
 - Idéudvikling

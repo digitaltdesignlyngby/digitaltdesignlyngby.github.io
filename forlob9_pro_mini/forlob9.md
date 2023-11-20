@@ -22,7 +22,7 @@ Vi er derfor indforstået med, at i aflevere et produkt, der f.eks. indeholder f
 ----------------------------------------------------------------------------------------
 
 ## Om rapporten 
-
+Husk alle valg i rapporten skal underbygges underbygges, enten med teori eller empiri.    
 [Se forlag til rapportens opbygning her](rapport/rapport.md)
 
 ### Vigtigt - ekstra indhold
