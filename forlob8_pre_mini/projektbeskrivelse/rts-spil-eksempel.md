@@ -18,8 +18,10 @@ Med udgangspunkt i en markedsorienteret eller direkte kommerciel problemstilling
 - ***Redegør faktorer***: Identificering af spilelementer, der kan forenkles til en mobilplatform, vurdering af brugergrænseflader og tilpasninger til mindre skærme.
 - ***Problemtræ***: ...
 
-### Problemtræ:
+## Problemtræ:
+
 [tryk her for at se eksempel på problemtræ](rts-spil-eksempel-problemtrae.md)
+
 ----------------------------------------
 
 ## Problemformulering: 
