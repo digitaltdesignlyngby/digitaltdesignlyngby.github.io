@@ -19,9 +19,9 @@ Der er kun en scene i programmet kaldet "Shower". Som ses her:
 Klassediagrammet ses nedenfor:  
 ![klassediagram](klasse_diagram.png)
 
-Læg mærke til, at kun de noder, der indholder scripts har indhold i form af variabler og funktioner. De andre noder, der ikke indholder scripts er tomme kasser.   
+Læg mærke til, at kun de noder, der indeholder scripts har indhold i form af variabler og funktioner. De andre noder, der ikke indeholder scripts er tomme kasser.   
 Der er anvendt to typer pile.    
-Den første pil er en såkaldt "kompositions-pil", der betyder at en klasse indholder et eller flere objekt af den anden klasse. Det kan ses direkte i editoren, hvis der er en "parent-node" og en "child-node".    
+Den første pil er en såkaldt "kompositions-pil", der betyder at en klasse indeholder et eller flere objekt af den anden klasse. Det kan ses direkte i editoren, hvis der er en "parent-node" og en "child-node".    
 Den anden pil indikerer der er en "indre-klasse". Denne bruges da "bullets-scriptet" indeholder koden for en klasse kaldet "Bullet".       
 Man skal huske at det overordnede formål med et diagram er at formidle, hvordan dele ad jeres projekt eller program virker, derfor er det en god ide at lave små tekst-bokse i klassediagrammer, der forklarer funktionaliteten.
 
