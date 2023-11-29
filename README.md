@@ -127,11 +127,11 @@ https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-d
 # Rapporten og dokumentation
 Dokumentation er vigtigt når man laver projektarbejde - og til teknikfagseksamen spiller rapporten
 derfor en stor rolle.  
-Her er et forslag til opbygning af rapporten:
+Her er et forslag til opbygning af rapporten og tekniske diagrammer:
 
- [rapport_opbygning.md](forlob9_pro_mini/rapport/rapport.md)
+- [rapportens opbygning](forlob9_pro_mini/rapport/rapport.md)
+- [tekniske diagrammer](forlob9_pro_mini/diagrammer/diagrammer.md) 
 
-Tekniske diagrammer ... (kommer snart)
 -------------------------------------
 
 # Værktøjer & Sprog

@@ -38,7 +38,7 @@ Rapporten bør indeholde meningsfuld teknisk dokumentation af produktets opbygni
 - flowdiagrammer til skærm-navigation, levels eller diverse andre tilstande
 - pseudokode til ekstra vanskelige kode-sekvenser
 
-*yderligere forklaring kommer snart...* 
+[beskrivelse af tekniske diagrammer](diagrammer/diagrammer.md)
 
 ### Rapportens omfang
 Fra lovtekst, om eksamensprojektet: *På det fastsatte afleveringstidspunkt afleverer gruppen/eleven en skriftlig rapport, af et omfang svarende til 15 – 30 normalsider for en elev og et tillæg svarende til 5 – 15 normalsider yderligere pr. elev i gruppen*     
