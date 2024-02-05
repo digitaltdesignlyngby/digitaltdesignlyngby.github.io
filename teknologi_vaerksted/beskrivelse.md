@@ -18,6 +18,7 @@ Det er vigtigt, at alle ideer godkendes af både en DDU-underviser og teknologi-
 ## Dokumentation af det endelige produkt:
 For at dokumentere det endelige produkt bør eleverne anvede:
 - flowcharts (forklaring nederst)
+- sekvensdiagrammer (forklaring nederst)
 - pseudokode (forklaring nederst)
 
 Dette hjælper med at strukturere og forstå koden samt sikre, at projektet opfylder kravene.
@@ -34,3 +35,4 @@ Eleverne kan bruge følgende værktøjer og teknologier til projektudvikling:
 - [Introduktion til brug af flowcharts](flowcharts.docx)
 - [software i Teknologi_fra fagdidaktisk kursus 2018](software_tek.pdf)
 - [https://emu.dk/grundskole/teknologiforstaaelse/begrebsguide-til-teknologiforstaaelse/pseudokode](https://emu.dk/grundskole/teknologiforstaaelse/begrebsguide-til-teknologiforstaaelse/pseudokode)
+- [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)
