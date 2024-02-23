@@ -28,8 +28,8 @@ Husk at kende den rigtige terminologi er vigtig.
 - Teknologi og platform
 
 ### Procesdokumentation:
-- Idéudvikling
-- Koncept/design
+- Idéudvikling (eller i projektbeskrivelsen)
+- Koncept/design (eller i projektbeskrivelsen)
 - Prototyper
 - Projektstyring: kan underindelses i
     - iteration 1
