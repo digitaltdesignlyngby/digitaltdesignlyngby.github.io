@@ -12,7 +12,7 @@ Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwar
 
 ### Spiludvikling
 ***Første valgtema***, som skolen har valgt er Spiludvikling.
-Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. 4.2.2 , da det er en god opensource engine der kan køre på stort set alle enheder.
+Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. [4.2.2](https://godotengine.org/download/windows/) , da det er en god opensource engine der kan køre på stort set alle enheder.
 
 ### Datamodeller
 ***Andet valgtema***, som skolen har valgt er Datamodeller
@@ -98,8 +98,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 19   | aflevering 6/5 elektronisk + 7/5 udprint til administrationen  | ? m/ ca. 90et           | produkt+rapport                    |              |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
-[2]: "m" står for moduler og "et" står for elevtimer
-[3]: ikke alle forløb er opdateret i starten af skoleåret så forløbene kan/vil ændre sig
+[2]: "m" står for moduler og "et" står for elevtimer      
+[3]: ikke alle forløb er opdateret i starten af skoleåret så forløbene kan/vil ændre sig      
 
 -------------------------------------
 
