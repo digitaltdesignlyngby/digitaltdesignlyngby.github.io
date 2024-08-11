@@ -77,25 +77,25 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 |------|----------------------------------------------------------------|-------------------------|------------------------------------|--------------|
 | 33   | [opstart & kodning](forlob1/forlob1.md)                        | 4m                      |                                    | d.12/8 i aula|
 | 34-35| [kodning](forlob2_gdscript/forlob2.md)                         | 11m                     |                                    |              |
-| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 7m                      |                                    | aula opstart?|
-| 36-37| [grafik & tilemaps](forlob7_godot_editor/forlob7.md)           | 10m                     |                                    | aula opstart?|
-| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | aula opstart?|
-| 39-40| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 14m               |                                    | aula opstart?|
-| 41   | [databaser 1](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m               	      |                                    | aula opstart?|
+| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 7m                      |                                    | aula         |
+| 36-37| [grafik & tilemaps](forlob3B_godot_editor/forlob3B.md)         | 10m                     |                                    | aula         |
+| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | aula         |
+| 39-40| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 14m               |                                    | aula         |
+| 41   | [databaser 1](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m               	      |                                    | aula         |
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43   | [databaser 2](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m                      | produkt                            |              |
-| 45   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
-| 46-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m                     | produkt & rapport                  | aula opstart?|
+| 43   | [databaser 2](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m                      | produkt                            | aula         |
+| 45   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd                                   | aula         |
+| 46-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m                     | produkt & rapport                  | aula         |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | 3d & sikkerhed 1                                               | ? m                     |                                    | aula opstart?|
+| 51   | 3d & sikkerhed 1                                               | ? m                     |                                    |              |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | 3d & sikkerhed 2                                               | ? m                     |                                    |              |
+| 2-3  | 3d & sikkerhed 2                                               | ? m                     |                                    | aula         |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
 | 5    | ***terminsprøver***                                            |                         |                                    |              |
-| 6    | Ikke fastlage endnu...                                         | ? m                     |                                    |              |
+| 6    | Ikke fastlage endnu...                                         | ? m                      |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | eksamensprojekt                                                | ? m                     |                                    | aula opstart?|
-| 19   | aflevering 6/5 elektronisk + 7/5 udprint til administrationen  | ? m/ ca. 90et           | produkt+rapport                    |              |
+| 8-18 | eksamensprojekt                                                | ? m                     |                                    | aula         |
+| 19   | aflevering tirsdag d. 6/5 elektronisk                          | 4m/90et                 | produkt+rapport                    |              |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer
@@ -106,7 +106,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 # Materialer
 
 - ***from zero*** : [Learning gdscript from zero, interaktiv bog/app](https://gdquest.github.io/learn-gdscript/)
-- ***docs 4.2*** : [Godot engine dokumentation](https://docs.godotengine.org/en/4.2/)
+- ***docs 3.5*** : [Godot engine dokumentation](https://docs.godotengine.org/en/3.5/)
 - ***godot beginner*** : [Godot Game Development for Beginners, af Daniel Buckley](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)
 - ***ddu-systime*** : [Bogen digital design og udvikling fra Systime](https://ddu.systime.dk/)
 - ***computerspil teori*** : [Bogen computerspil fra Systime](https://computerspil.systime.dk/)
