@@ -77,8 +77,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 |------|----------------------------------------------------------------|-------------------------|------------------------------------|--------------|
 | 33   | [opstart & kodning](forlob1/forlob1.md)                        | 4m                      |                                    | d.12/8 i aula|
 | 34-35| [kodning](forlob2_gdscript/forlob2.md)                         | 11m                     |                                    |              |
-| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 7m                      |                                    | aula opstart?|
-| 36-37| [grafik & tilemaps](forlob7_godot_editor/forlob7.md)           | 10m                     |                                    | aula opstart?|
+| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 10m                     |                                    | aula opstart?|
+| 37   | [grafik & tilemaps](forlob7_godot_editor/underudvikling.md)    | 7m                      |                                    | aula opstart?|
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | aula opstart?|
 | 39-40| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 14m               |                                    | aula opstart?|
 | 41   | [databaser 1](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m               	      |                                    | aula opstart?|
