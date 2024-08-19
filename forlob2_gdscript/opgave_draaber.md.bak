@@ -1,7 +1,7 @@
 ***Opgave: Simuler Faldende Regndråber***
 
 Lidt vigtig info inden du går igang:
-- [https://docs.godotengine.org/en/4.2/tutorials/scripting/gdscript/gdscript_basics.html?highlight=inner#inner-classes](https://docs.godotengine.org/en/4.2/tutorials/scripting/gdscript/gdscript_basics.html#inner-classes)
+- [https://docs.godotengine.org/en/3.5/tutorials/scripting/gdscript/gdscript_basics.html?highlight=inner#inner-classes](https://docs.godotengine.org/en/3.5/tutorials/scripting/gdscript/gdscript_basics.html?highlight=inner#inner-classes)
 
 I denne opgave skal du bruge Godot og GDScript til at skabe en simpel simulation af regndråber, der falder fra toppen af skærmen og lander som små cirkler på jorden.
 
