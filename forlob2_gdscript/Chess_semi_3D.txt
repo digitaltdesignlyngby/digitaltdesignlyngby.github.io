@@ -1,0 +1,86 @@
+extends Node2D
+
+var color_black = Color(0.0, 0.0, 0.0)
+var color_white = Color(1.0, 1.0, 1.0)
+
+var p1 = Vector2(452,-950)
+var pL = Vector2(50,450)
+var pR = Vector2(850,450)
+var delta_x = 100   #(850-50)/8
+var adder = 10
+var adder_x = 5
+
+var a_b_array = PackedVector2Array()
+var y_n_array = Array()
+var y_n = pL.y + 68
+
+func _init():
+	#Create 9 Y-line-values (n dimension - is depth)
+	for n in 9:
+		y_n -= (68-4*n)
+		y_n_array.push_back(y_n)
+		a_b_array.push_back(Vector2(0,0))
+	_create_a_b_array()
+
+func _create_a_b_array():
+	
+	for n in 9:
+		#Create alpha and beta values for the 9 lines (oblique lines)
+		var a_n = (pL.y-p1.y)/(pL.x+(n*delta_x)-p1.x)
+		var b_n = pL.y - ((pL.x+(n*delta_x)) * a_n)
+		a_b_array[n] = (Vector2(a_n,b_n))
+
+
+func make_black_fields(C_L_R, n, m):
+
+	var points = PackedVector2Array()
+	var color = PackedColorArray([color_black])
+	
+	var p11 = Vector2( (y_n_array[n] - a_b_array[m].y)/a_b_array[m].x , y_n_array[n])
+	var p12 = Vector2( (y_n_array[n] - a_b_array[m+1].y)/a_b_array[m+1].x , y_n_array[n])
+	var p21 = Vector2( (y_n_array[n+1] - a_b_array[m].y)/a_b_array[m].x , y_n_array[n+1])
+	var p22 = Vector2( (y_n_array[n+1] - a_b_array[m+1].y)/a_b_array[m+1].x , y_n_array[n+1])
+	
+	if C_L_R == "C" and n<7:
+		make_black_fields("C", n+1, m+1)
+	if (C_L_R == "C" or C_L_R == "L") and n<7 and m>0:
+		make_black_fields("L", n+1, m-1)
+	if (C_L_R == "C" or C_L_R == "R") and n>0 and m<7:
+		make_black_fields("R", n-1, m+1)
+	
+	points = [p11, p21, p22, p12]
+	draw_polygon(points,color)
+
+
+func _draw():
+
+	var points = PackedVector2Array()
+	var color = PackedColorArray([color_white])
+	var points_b = PackedVector2Array()
+	var color_b = PackedColorArray([color_black])
+
+#Draw background
+	var pL0 = Vector2( (y_n_array[0] - a_b_array[0].y)/a_b_array[0].x , y_n_array[0])
+	var pL8 = Vector2( (y_n_array[8] - a_b_array[0].y)/a_b_array[0].x , y_n_array[8])
+	var pR0 = Vector2( (y_n_array[0] - a_b_array[8].y)/a_b_array[8].x , y_n_array[0])
+	var pR8 = Vector2( (y_n_array[8] - a_b_array[8].y)/a_b_array[8].x , y_n_array[8])
+
+	points = [pL0, pL8, pR8, pR0]
+	points_b = [ Vector2(points[0].x-1, points[0].y+1), Vector2(points[1].x-1, points[1].y-1), Vector2(points[2].x+1, points[2].y-1), Vector2(points[3].x+1, points[3].y+1)]
+	#Black polygone 1 pixel wider than the white
+	draw_polygon(points_b,color_b)
+	#White polygone
+	draw_polygon(points,color)
+	#Draw all the black polygones
+	make_black_fields("C",0,0)
+	
+func _process(delta):
+
+	if p1.x > 1000 or p1.x < 350:
+		adder_x *= -1
+	if p1.y > -300 or p1.y < -1000:
+		adder *= -1
+	p1.x -= adder_x
+	p1.y -= adder
+	_create_a_b_array()
+	queue_redraw()

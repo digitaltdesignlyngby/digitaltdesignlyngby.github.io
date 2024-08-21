@@ -10,7 +10,7 @@
 | ***Onsdag 21.august*** |                   |                                                                                                                                                                                                                                        |
 | 4. modul               | intro i klasser   | løsning på skakbræt-opgaven                                                                                                                                                                                                            |
 | 5. modul               | arbejd selv       | [docs 4.2 - vektorer](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html#)                                                                                                                                         |
-| 6. modul               | arbejd selv       | [opgaven follower](opgave_follower.html) <br/> [opgaven lykkehjul](opgave_lykkehjulet.pdf)                                                                                                                                             |
+| 6. modul               | arbejd selv       | [opgaven follower](opgave_follower.html) <br/> [opgaven lykkehjul](opgave_lykkehjulet_4_2.pdf)                                                                                                                                             |
 
 
 ***Forløbsplan : uge 35 - mandag d.26/8***

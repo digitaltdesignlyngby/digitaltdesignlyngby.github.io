@@ -1,0 +1,24 @@
+extends Node2D
+
+var color_black = Color(0.0, 0.0, 0.0)
+var color_gray = Color(1.0, 0.0, 0.0)
+var color_white = Color(1.0, 1.0, 1.0)
+var left_upper_corner = Vector2(100, 50)
+
+var chess_width = 400
+var chess_field = 50
+
+func _draw():
+# Draw background
+	draw_rect(   Rect2(Vector2(left_upper_corner.x, left_upper_corner.y),Vector2(chess_width,chess_width))   ,color_white,true,1.0)
+	
+	
+	for n in 9:
+		if n < 8:
+			for i in 4:
+				draw_rect(  Rect2(Vector2(   left_upper_corner.x + (1-(n % 2))*chess_field + 2*i*chess_field     , left_upper_corner.y+n*chess_field),Vector2(chess_field,chess_field))  ,color_black,true,1.0)
+
+		draw_line(Vector2(left_upper_corner.x, left_upper_corner.y + n*chess_field),Vector2(left_upper_corner.x + chess_width, left_upper_corner.y+n*chess_field),color_gray,2.0,false)
+		draw_line(Vector2(left_upper_corner.x + n*chess_field, left_upper_corner.y),Vector2(left_upper_corner.x + n*chess_field, left_upper_corner.y+chess_width),color_gray,2.0,false)
+
+
