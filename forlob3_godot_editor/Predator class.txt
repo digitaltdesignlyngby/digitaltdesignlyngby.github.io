@@ -1,0 +1,20 @@
+extends Mover
+class_name Predator # a child class to the Mover class
+
+var predName = "";
+
+func _init(predName):
+	predName = predName;
+
+func getName():
+	return predName;
+	
+# example of how this class has inherited the variable color from the Mover class
+func setColor(newColor):
+	color = newColor;
+	
+# move funciton to specific determine the movement pattern for a Predator
+func moveControl(PredPos, PreyPos):
+	# using set and get position to extract and revalue the preditor in focus.
+	# using lerp funciton to interpolate a route from current and target position.
+	PredPos.setPos((PredPos.getPos().lerp(PreyPos, 0.1)));

@@ -25,6 +25,9 @@
 | ***Onsdag 4.september*** 	|                   |                                                                                                                                                                                                                                        |
 | 4. modul                  | læs selv          |  [læs side 1 til side 49](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)                                                                                                              |
 | 5. modul                  | læs selv          |  [assets til at bygge spillet fra bogen](GodotPlatformerAssets.zip)                                                                                                                                                                    |
-| 6. modul                  | læs selv          |                                                                                                                                                                                                                                        |
+| 6. modul                  | læs selv          |  [løsning på nedarvningsopgave - main class](Main class.txt) 
+[løsning på nedarvningsopgave - mover class, eller parent class](Mover class.txt) 
+[løsning på nedarvningsopgave - predator class, child class](Predator class.txt)
+[løsning på nedarvningsopgave - prey class, child class](Prey class.txt)                                                                                                                                                                                                                                        |
 
                                                                              |

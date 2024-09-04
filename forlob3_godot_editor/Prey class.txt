@@ -1,0 +1,13 @@
+extends Mover
+class_name Prey
+
+var health = 100;
+
+func _init(newHealth):
+	health = newHealth;
+
+func getHealth():
+	return health;
+
+func setHealth(newHealth):
+	health = newHealth;

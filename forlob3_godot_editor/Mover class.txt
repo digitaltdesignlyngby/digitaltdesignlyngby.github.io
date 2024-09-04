@@ -1,0 +1,31 @@
+extends Node2D
+class_name Mover; #Mover will be the parent class to Predator and Prey classes
+
+var pos: Vector2;
+var size: Vector2;
+var color: Color;
+var move: Vector2;
+
+# method constructor is created using init function (NOT the same as the ready func).
+func _init(initPosition, initSize, initColor, initMove):
+	pos = initPosition;
+	size = initSize;
+	color = initColor;
+	move = initMove;
+	
+# getters and setters (methods) to collect specific info, or revalue a class member.
+func setPos(newPos):
+	pos = newPos;
+
+func getPos():
+	return pos;
+	
+func setSize(newSize):
+	size = newSize;
+	
+func getSize():
+	return size;
+	
+func getColor():
+	return color;
+	

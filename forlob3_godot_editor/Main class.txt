@@ -1,0 +1,38 @@
+extends Node2D
+
+var nameCounter = 0;
+# creating empty arrays of specific object types Prey and Preditor
+var preyCol = Array([], TYPE_OBJECT, "Node", Prey);
+var predatorCol = Array([], TYPE_OBJECT, "Node", Predator)
+
+func _ready():
+	# Add one prey to the scene at the ready
+	preyCol.append(Prey.new(100));
+	
+func _draw():
+	# draw prey as a circle, at the mouse position! 
+	var PreyPos = get_global_mouse_position();
+	draw_circle(PreyPos, 40, Color.WHITE);
+	
+	# for each predator, we draw a rectangle, and sets is movement to 'chase' after the prey.
+	for item in predatorCol:
+		draw_rect(Rect2(item.getPos(), item.getSize()), item.getColor(), true);
+		item.moveControl(item, PreyPos);
+	
+
+func _input(event):
+	# when an accept button is pressed (enter/space), we add a new Predator to the scene
+	if event.is_action_pressed("ui_accept"):
+		# Append new Predator to array, to have all Predators located in one collection.
+		# we use the 'new' function to instantiate a new Predator, from the Predator class.
+		predatorCol.append(Predator.new(str(nameCounter)));
+		# sets starting position, size and color for the newly created predator.
+		# we get the latest added predator to the collection using -1 as an index value!
+		predatorCol[-1].setPos(Vector2(-25,-25));
+		predatorCol[-1].setSize(Vector2(50,50));
+		predatorCol[-1].setColor(Color.ORANGE_RED);
+		nameCounter = nameCounter + 1;
+
+func _process(delta):
+	# process function updates the canvas draw with the queue_redraw function
+	queue_redraw();		
