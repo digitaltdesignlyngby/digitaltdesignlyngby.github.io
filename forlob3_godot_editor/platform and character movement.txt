@@ -1,0 +1,39 @@
+extends CharacterBody2D
+
+var SPEED = 200;
+const JUMP = 300;
+
+# physics process function is used when looking into collision detection and using
+# the physics engine in Godot! Use this to enable a steasy delta runtime for the collision
+# detection part of your game. delta is constant, and code in this method is updated on
+# every physic frame.
+func _physics_process(delta):
+	# Input object opens op for method is_action_pressed to listen for user input.
+	if Input.is_action_pressed("ui_left"):
+		# the velocity parameter is a reserved parameter for the CharacterBody2d.
+		# when a change occurs in the parameter, then the character will move!
+		velocity.x = -SPEED;
+	elif Input.is_action_pressed("ui_right"):
+		velocity.x = SPEED;
+	else:
+		# velocity zero means the character is at a 'stand still' state. 
+		velocity.x = 0;
+		
+	# the use of is_on_floor function detects, whether character is touching the floor
+	# or not. This will allow the character to jump only, when he/she is grounded.
+	if Input.is_action_pressed("ui_up") and is_on_floor():
+		velocity.y = -JUMP;
+		velocity.x = SPEED;
+	else: 
+		# if the character is not jumping, gravety is doing it's thing, and pulls
+		# the character onto the floor.
+		velocity.y = velocity.y + SPEED * delta;
+
+	# use this function to set a upwards direction, so the is_on_floor function works!
+	# this vector determines the direction of collision detection, an up vector will have
+	# the buttom of the character check for collision with the floor...	
+	set_up_direction(Vector2.UP)
+	# move_and_slide function creates the actual movement of character, when the velocity
+	# parameter has been changed. It also do all the collision detection stuff in the background
+	# so if the character bumps into a wall, this function will make sure to stop the character.
+	move_and_slide()
