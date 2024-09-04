@@ -1,0 +1,25 @@
+extends CharacterBody2D
+
+var targetPos = Vector2(0,0);
+var elapsed = 0.0;
+var follow_speed = 1;
+var threshold = 0.0001;
+var direction = 0.0;
+var vel = Vector2(0,0);
+
+func _input(event):
+	if event.is_action_pressed("ui_mouse_left"):
+		# save target position at mouse click.
+		targetPos = get_global_mouse_position();
+
+# physics process runs at every physic frames, in delta time, which is constant.
+func _physics_process(delta):
+	if Input.is_action_pressed("ui_mouse_left"):
+		# using normalized to change direction, to point to target position
+		direction = (targetPos - position).normalized();
+		# characterBody2D is equipped with a velocity parameter, which when changed
+		# can put some movement into character 
+		velocity = direction * 200;
+	# for the actual character to implement a change in position (aka movement), 
+	# we have to call the move_and_slide function, which also handles collisions.
+	move_and_slide();
