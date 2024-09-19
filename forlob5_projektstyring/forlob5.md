@@ -37,7 +37,7 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 |---------------------------|------------------------------------|----------------|
 | ***Mandag 23.september*** | intro aula & læsning (sprint 1 opstart)| 4 moduler      |
 | ***Onsdag 25.september*** | sprint 1 : se ovenfor              | 3 moduler      |
-| ***Onsdag 2.oktober***    | sprint 3 : se ovenfor              | 3 moduler      |
+| ***Onsdag 2.oktober***    | sprint 2 : se ovenfor              | 3 moduler      |
 | ***Mandag 7.oktober***    | sprint 2 : se ovenfor              | 4 moduler      |
 | ***onsdag 11.oktober***   | sprint 2 : se ovenfor samt aflevering| 3 moduler      |
 
