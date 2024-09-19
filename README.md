@@ -84,7 +84,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43-44| [databaser](forlob6_database/Databaseforløb_filer_samlet.zip)  | 10m                     | produkt                            | aula opstart?             |
 | 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
-| 46-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 24m?                    | produkt & rapport                  | aula opstart?|
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 24m?                    | produkt & rapport                  | aula opstart?|
 | 49-50| ***sop***                                                      |                         |                                    |              |
 | 51   | 3d & sikkerhed 1                                               | 9m?                     |                                    | aula opstart?|
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
