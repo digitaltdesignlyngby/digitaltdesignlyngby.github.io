@@ -80,16 +80,15 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 10m                     |                                    | aula opstart?|
 | 37   | [grafik & tilemaps](forlob7_grafik/Filer_til_Grafik.md)        | 7m                      |                                    | d. 9/9       |
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | d. 16/9      |
-| 39-40| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 14m               |                                    | aula opstart?|
-| 41   | [databaser 1](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m               	      |                                    | aula opstart?|
+| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 17m               | produkt                            | aula opstart?|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43   | [databaser 2](forlob6_database/Databaseforløb_filer_samlet.zip)| 7m                      | produkt                            |              |
-| 45   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
-| 46-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m                     | produkt & rapport                  | aula opstart?|
+| 43-44| [databaser](forlob6_database/Databaseforløb_filer_samlet.zip)  | 10m                     | produkt                            | aula opstart?             |
+| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
+| 46-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 24m?                    | produkt & rapport                  | aula opstart?|
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | 3d & sikkerhed 1                                               | ? m                     |                                    | aula opstart?|
+| 51   | 3d & sikkerhed 1                                               | 9m?                     |                                    | aula opstart?|
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | 3d & sikkerhed 2                                               | ? m                     |                                    |              |
+| 2-3  | 3d & sikkerhed 2                                               | 14m?                    |                                    |              |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
 | 5    | ***terminsprøver***                                            |                         |                                    |              |
 | 6    | Ikke fastlage endnu...                                         | ? m                     |                                    |              |
