@@ -82,7 +82,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | d. 16/9      |
 | 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 17m               | produkt                            | aula opstart?|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43-44| [databaser](forlob6_database/Databaseforløb_filer_samlet.zip)  | 10m                     | produkt                            | aula opstart?             |
+| 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            | aula opstart?             |
 | 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
 | 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 24m?                    | produkt & rapport                  | aula opstart?|
 | 49-50| ***sop***                                                      |                         |                                    |              |
