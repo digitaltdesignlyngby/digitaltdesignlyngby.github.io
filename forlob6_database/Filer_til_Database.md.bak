@@ -12,7 +12,7 @@ Start med at se [intro powerpointen](Intro til databaser DDU 24_25.pptx), og væ
 - [Intro PowerPoint](Intro til databaser DDU 24_25.pptx)
 - [Link til dokument med tutorialvideoer](Kort om GDScript koden til SQLite og MySQL test projekterne.docx)
 - [Zip med Godot testprojekt til SQLite](testprojekt til SQLite.zip)
-- [Zip med Godot testprojekt m.m. til MySQL]()
+- [Zip med Godot testprojekt m.m. til MySQL](testprojekt til MySQL.zip)
 
 
 
