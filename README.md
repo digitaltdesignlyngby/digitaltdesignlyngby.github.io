@@ -82,15 +82,15 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | d. 16/9      |
 | 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 17m               | produkt                            | aula opstart?|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            | aula opstart?             |
-| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 6m                     | projektbeskrivelse & gdd           | aula opstart?|
-| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m                     | produkt & rapport                  | aula opstart?|
+| 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            |              |
+| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 6m                     | projektbeskrivelse & gdd           | d. 30/10     |
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m                     | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | 3d & sikkerhed 1                                               | 9m                      |                                    | aula opstart?|
+| 51   | sikkerhed 1   		                                            | 9m                      |                                    | d. 16/12     |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | 3d & sikkerhed 2                                               | 12m                     |                                    |              |
+| 2-3  | grafik og modeller 3D                                          | 12m                     |                                    | d. 6/1       |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
-| 5    | Databasesikkerhed                                              |  6m                     |                                    | aula opstart?|
+| 5    | databasesikkerhed (sikkerhed 2)                                |  6m                     |                                    | d. 27/1      |
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
 | 8-18 | eksamensprojekt                                                | ? m                     |                                    | aula opstart?|
