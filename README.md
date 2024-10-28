@@ -83,15 +83,15 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 17m               | produkt                            | aula opstart?|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            | aula opstart?             |
-| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7m                     | projektbeskrivelse & gdd           | aula opstart?|
-| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 24m?                    | produkt & rapport                  | aula opstart?|
+| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 6m                     | projektbeskrivelse & gdd           | aula opstart?|
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m                     | produkt & rapport                  | aula opstart?|
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | 3d & sikkerhed 1                                               | 9m?                     |                                    | aula opstart?|
+| 51   | 3d & sikkerhed 1                                               | 9m                      |                                    | aula opstart?|
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | 3d & sikkerhed 2                                               | 14m?                    |                                    |              |
+| 2-3  | 3d & sikkerhed 2                                               | 12m                     |                                    |              |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
-| 5    | ***terminsprøver***                                            |                         |                                    |              |
-| 6    | Ikke fastlage endnu...                                         | ? m                     |                                    |              |
+| 5    | Databasesikkerhed                                              |  6m                     |                                    | aula opstart?|
+| 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
 | 8-18 | eksamensprojekt                                                | ? m                     |                                    | aula opstart?|
 | 19   | aflevering 6/5 elektronisk + 7/5 udprint til administrationen  | ? m/ ca. 90et           | produkt+rapport                    |              |
