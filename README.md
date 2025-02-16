@@ -102,9 +102,9 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 -------------------------------------
 
-# Eksamen
+# Eksamensprojekt og eksamen
 
-[Eksamen 2025](eksamen2025/eksamen2025.md)
+[Eksamensprojekt og eksamen 2025](eksamen2025/eksamen2025.md)
 
 -------------------------------------
 
