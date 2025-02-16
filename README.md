@@ -98,7 +98,11 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer      
-[3]: ikke alle forløb er opdateret i starten af skoleåret så forløbene kan/vil ændre sig      
+[3]: ikke alle forløb er opdateret i starten af skoleåret så forløbene kan/vil ændre sig  
+
+# Eksamen 
+
+[Eksamen 2025](eksamen2025/eksamen2025.md)
 
 -------------------------------------
 

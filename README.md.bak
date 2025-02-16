@@ -93,7 +93,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 5    | databasesikkerhed (sikkerhed 2)                                |  6m                     |                                    | d. 27/1      |
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | [Eksamensprojekt](eksamen2025/eksamen2025.md)                       | 84m                     |                                    | d.17/2 i aula|
+| 8-18 | [Eksamensprojekt](eksamen2025/eksamen2025.md)                  | 84m                     |                                    | d.17/2 i aula|
 | 19   | [Aflev. 6/5 Lectio + 7/5 udprint admin](eksamen2025/eksamen2025.md#Aflevering) | 6m/ ca. 40et            | produkt+rapport                    |              |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
