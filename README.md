@@ -84,7 +84,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            |              |
 | 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 6m                     | projektbeskrivelse & gdd           | d. 30/10     |
-| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m                     | produkt & rapport                  |              |
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m/7et                 | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
 | 51   | sikkerhed 1   		                                            | 9m                      |                                    | d. 16/12     |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
@@ -93,8 +93,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 5    | databasesikkerhed (sikkerhed 2)                                |  6m                     |                                    | d. 27/1      |
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | eksamensprojekt                                                | ? m                     |                                    | aula opstart?|
-| 19   | aflevering 6/5 elektronisk + 7/5 udprint til administrationen  | ? m/ ca. 90et           | produkt+rapport                    |              |
+| 8-18 | [Eksamensprojekt](eksamen2025/readme.md)                       | 84m                     |                                    | d.17/2 i aula|
+| 19   | [Aflev. 6/5 Lectio + 7/5 udprint admin](eksamen2025/readme.md#Aflevering) | 6m/ ca. 40et            | produkt+rapport                    |              |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer      

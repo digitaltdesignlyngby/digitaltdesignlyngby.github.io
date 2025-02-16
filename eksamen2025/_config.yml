@@ -1,0 +1,33 @@
+remote_theme: just-the-docs/just-the-docs
+markdown: GFM
+color_scheme: dark
+#Title
+title: DDU Eksamensprojekt
+# Enable or disable heading anchors
+heading_anchors: false
+# External navigation links
+nav_external_links:
+  - title: Afleveringsfrister
+    url: https://digitaltdesignlyngbyeksamen.github.io/#afleveringsfrister
+    hide_icon: true
+  - title: Emner
+    url: https://digitaltdesignlyngbyeksamen.github.io/#emner
+    hide_icon: true
+  - title: Projektbeskrivelsen & GDD
+    url: https://digitaltdesignlyngbyeksamen.github.io/#projektbeskrivelsen-og-game-design-document
+    hide_icon: true
+  - title: Rapporten
+    url: https://digitaltdesignlyngbyeksamen.github.io/#rapporten
+    hide_icon: true
+  - title: Produktet
+    url: https://digitaltdesignlyngbyeksamen.github.io/#produktet
+    hide_icon: true
+  - title: Statusmøder
+    url: https://digitaltdesignlyngbyeksamen.github.io/#statusmder
+    hide_icon: true
+  - title: Aflevering
+    url: https://digitaltdesignlyngbyeksamen.github.io/#aflevering
+    hide_icon: true
+  - title: Eksamen
+    url: https://digitaltdesignlyngbyeksamen.github.io/#eksamen
+    hide_icon: true
