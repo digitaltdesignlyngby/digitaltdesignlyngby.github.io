@@ -1,4 +1,4 @@
-# Statusmøde 1 - Pitch (skal opdateres)
+Statusmøde 1 - Pitch (skal opdateres)
 
 |               |               |
 | ------------- | ------------- |
