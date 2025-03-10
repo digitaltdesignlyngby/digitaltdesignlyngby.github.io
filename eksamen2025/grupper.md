@@ -1,7 +1,7 @@
 Grupper under eksamensprojektet:  
   
 Hold1 elever (! 1 elev fra hold2)  
-| Gruppe nr.  | Gruppe medlemmer                                                       |
+| Gruppe nr.  | Gruppemedlemmer                                                       |
 |------|----------------------------------------------------------------|
 |1|Alex Emil Pallisgaard, L3a1 01- |
 ||Jonathan Herman Strange, L3a1 08 | 
@@ -34,7 +34,7 @@ Hold1 elever (! 1 elev fra hold2)
   
   
 Hold2 elever (!! 1 elev fra hold1)  
-| Gruppe nr.  | Gruppe medlemmer                                                       |
+| Gruppe nr.  | Gruppemedlemmer                                                       |
 |------|----------------------------------------------------------------|
 |9|Asger Munk Staugaard, L3di 03  |
 ||Gustav Emil Kaad Ostenfeld-Nielsen, L3di 11  |
