@@ -104,9 +104,11 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 # Eksamensprojekt, eksamen, grupper og statusmøder
 
-[Eksamensprojekt og eksamen 2025](eksamen2025/eksamen2025.md)
-[Grupper til eksamensprojektet](eksamen2025/grupper.md)
-[Statusmøder (uge 12, 15 og 18)](eksamen2025/moder/mode1.md)
+-[Eksamensprojekt og eksamen 2025](eksamen2025/eksamen2025.md)
+
+-[Grupper til eksamensprojektet](eksamen2025/grupper.md)
+
+-[Statusmøder (uge 12, 15 og 18)](eksamen2025/moder/mode1.md)
 
 -------------------------------------
 
