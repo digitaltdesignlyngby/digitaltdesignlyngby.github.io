@@ -1,4 +1,6 @@
-Statusmøde 1 - Pitch 
+Statusmøde 1 - Pitch (løvens hule)
+
+Til dette møde skal I fremlægge jeres projekt, som var I med i "Løvens hule" (DR program), altså gerne lidt sælgeragtigt hvor I forklarer os, med udgangspunkt i jeres dokumenter og undersøgelser og meget gerne en papirs prototype, hvad I vil lave.
 
 |               |               |
 | ------------- | ------------- |
@@ -12,15 +14,15 @@ Statusmøde 1 - Pitch
 | 09:10 - 09:25 | Gruppe 1  |  |
 | 09:25 - 09:40 | Gruppe 2  |  |
 | 09:40 - 09:55 | Gruppe 3  |  |
-| 09:55 - 10:10 | Gruppe 4  |  |
-| 10:10 - 10:25 | Gruppe 5  |  |
-| 10:25 - 10:40 | Gruppe 6  |  |
-| 10:40 - 10:55 | Gruppe 7  |  |
-| 10:55 - 11:10 | Gruppe 8  |  |
-| 11:10 - 11:25 | Gruppe 9  |  |
-| 12:10 - 12:25 | Gruppe 10 |  |
-| 12:25 - 12:40 | Gruppe 11 |  |
-| 12:40 - 12:55 | Gruppe 12 |  |
+| 10:10 - 10:25 | Gruppe 4  |  |
+| 10:25 - 10:40 | Gruppe 5  |  |
+| 10:40 - 10:55 | Gruppe 6  |  |
+| 10:55 - 11:10 | Gruppe 7  |  |
+| 11:10 - 11:25 | Gruppe 8  |  |
+| 12:10 - 12:25 | Gruppe 9  |  |
+| 12:25 - 12:40 | Gruppe 10 |  |
+| 12:40 - 12:55 | Gruppe 11 |  |
+| 12:55 - 13:10 | Gruppe 12 |  |
 
 
 |               |               |
@@ -35,9 +37,9 @@ Statusmøde 1 - Pitch
 | 09:10 - 09:25 | Gruppe 13 |  |
 | 09:25 - 09:40 | Gruppe 14 |  |
 | 09:40 - 09:55 | Gruppe 15 |  |
-| 09:55 - 10:10 | Gruppe 16 |  |
-| 10:10 - 10:25 | Gruppe 17 |  |
-| 10:25 - 10:40 | Gruppe 18 |  |
+| 10:10 - 10:25 | Gruppe 16 |  |
+| 10:25 - 10:40 | Gruppe 17 |  |
+| 10:40 - 10:55 | Gruppe 18 |  |
 
 
 
