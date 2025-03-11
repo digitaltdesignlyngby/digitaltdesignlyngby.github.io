@@ -1,6 +1,6 @@
 Statusmøde 1 - Pitch (løvens hule)
 
-Til dette møde skal I fremlægge jeres projekt, som var I med i "Løvens hule" (DR program), altså gerne lidt sælgeragtigt hvor I forklarer os, med udgangspunkt i jeres dokumenter og undersøgelser og meget gerne en papirs prototype, hvad I vil lave.
+Til dette møde skal I fremlægge jeres projekt, som var I med i "Løvens hule" (DR program). Det må meget gerne være lidt sælgeragtigt hvor I forklarer os, med udgangspunkt i jeres dokumenter (undersøgelser), hvad I vil lave, hvorfor det er et særligt produkt og helst viser os en papirs prototype.
 
 |               |               |
 | ------------- | ------------- |
