@@ -33,7 +33,7 @@ Hold1 elever (! 1 elev fra hold2)
 
   
   
-Hold2 elever (!! 1 elev fra hold1)  
+Hold2 elever (!! 3 elever fra hold1)  
 | Gruppe nr.  | Gruppemedlemmer                                                       |
 |------|----------------------------------------------------------------|
 |9|Asger Munk Staugaard, L3di 03  |
@@ -63,4 +63,6 @@ Hold2 elever (!! 1 elev fra hold1)
 ||Tristan Voetmann, L3i 21  |
 |17|William Vig Nelausen, L3i 24  |
 |18|Bertram Fagerberg Rosenørn-Dohn, L3c 08 (!!)  |
+|19|Amro Nezar El-Hajj, L3d 03 (!!)  |
+||Nicolai Luscombe Nørregaard, L3d 16 (!!)  |
 	

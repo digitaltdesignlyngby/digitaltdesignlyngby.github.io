@@ -40,6 +40,7 @@ Til dette møde skal I fremlægge jeres projekt, som var I med i "Løvens hule" 
 | 10:10 - 10:25 | Gruppe 16 |  |
 | 10:25 - 10:40 | Gruppe 17 |  |
 | 10:40 - 10:55 | Gruppe 18 |  |
+| 10:55 - 11:10 | Gruppe 19 |  |
 
 
 
