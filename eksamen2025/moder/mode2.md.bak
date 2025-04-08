@@ -20,6 +20,7 @@ Statusmøde 2 - Demo
 | 13:25 - 13:40 | Gruppe 5  |  |
 | 13:40 - 13:55 | Gruppe 18 |  |
 | 13:55 - 14:10 | Gruppe 19 |  |
+| 14:10 - 14:25 | Gruppe 10 |  |
 
 
 
@@ -39,7 +40,7 @@ Statusmøde 2 - Demo
 | 09:55 - 10:10 | Gruppe 16 |  |
 | 10:25 - 10:40 | Gruppe 17 |  |
 | 10:40 - 10:55 | Gruppe 9  |  |
-| 10:55 - 11:10 | Gruppe 10 |  |
+| Flyttet til tirsdag | Gruppe 10 |  |
 | 11:10 - 11:25 | Gruppe 11 |  |
 | 12:10 - 12:25 | Gruppe 12 |  |
 
