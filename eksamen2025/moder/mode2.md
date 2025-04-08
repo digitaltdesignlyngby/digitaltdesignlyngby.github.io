@@ -40,7 +40,7 @@ Statusmøde 2 - Demo
 | 09:55 - 10:10 | Gruppe 16 |  |
 | 10:25 - 10:40 | Gruppe 17 |  |
 | 10:40 - 10:55 | Gruppe 13 (ændret tid) |  |
-| 10:55 - 11:10 | Gruppe 12 |  |
+| 10:55 - 11:10 | Gruppe 12 (ændret tid) |  |
 | 11:10 - 11:25 | Gruppe 11 |  |
 
 
