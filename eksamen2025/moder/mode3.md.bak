@@ -1,4 +1,4 @@
-# Statusmøde 3 - The Final (skal opdateres)
+Statusmøde 3 - The Final (skal opdateres)
 
 |               |               |
 | ------------- | ------------- |
