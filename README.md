@@ -12,7 +12,7 @@ Teknikfaget "Digitalt design og udvikling", forkortet DDU, fokuserer på softwar
 
 ### Spiludvikling
 ***Første valgtema***, som skolen har valgt er Spiludvikling.
-Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. [4.2.2](https://godotengine.org/download/windows/) , da det er en god opensource engine der kan køre på stort set alle enheder.
+Temaet spiludvikling fokusere på hvordan man anvender en game-engine til at lave computerspil. Vi har valgt Godot_engine version. [4.4.1](https://godotengine.org/download/windows/) , da det er en god opensource engine der kan køre på stort set alle enheder.
 
 ### Datamodeller
 ***Andet valgtema***, som skolen har valgt er Datamodeller
@@ -75,40 +75,31 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 | uge  | emne[1]                                                        | timer[2]                | aflevering                         | andet        |
 |------|----------------------------------------------------------------|-------------------------|------------------------------------|--------------|
-| 33   | [opstart & kodning](forlob1/forlob1.md)                        | 4m                      |                                    | d.12/8 i aula|
-| 34-35| [kodning](forlob2_gdscript/forlob2.md)                         | 11m                     |                                    |              |
-| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 10m                     |                                    | aula opstart?|
-| 37   | [grafik & tilemaps](forlob7_grafik/Filer_til_Grafik.md)        | 7m                      |                                    | d. 9/9       |
-| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30m/15et                | produkt                            | d. 16/9      |
-| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 17m               | produkt                            | aula opstart?|
+| 33   | [opstart & kodning](forlob1/forlob1.md)                        | 4 m                     |                                    |              |
+| 33-34| [kodning](forlob2_gdscript/forlob2.md)                         | 10 m                    |                                    | opstart aula d. 13/8|
+| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 11 m                    |                                    | aula opstart?|
+| 37   | [grafik & tilemaps](forlob7_grafik/Filer_til_Grafik.md)        | 7 m                     |                                    | aula opstart?      |
+| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 35 m / 15 et            | produkt                            | opstart aula d. 15/9|
+| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 18 m              | produkt                            | opstart aula d. 22/9|
+| 41   | [databaser](forlob6_database/Filer_til_Database.md)            | 3 m                     |(produkt efter efterårsferien)      | opstart aula d. 8/10|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43-44| [databaser](forlob6_database/Filer_til_Database.md)            | 10m                     | produkt                            |              |
-| 44-45| [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 6m                     | projektbeskrivelse & gdd           | d. 30/10     |
-| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 20m/7et                 | produkt & rapport                  |              |
+| 43   | [databaser fortsat](forlob6_database/Filer_til_Database.md)    | 7 m                     | produkt                            |              |
+| 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | d. 30/10     |
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m / 7 et              | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | sikkerhed 1   		                                            | 9m                      |                                    | d. 16/12     |
+| 51   | sikkerhed 1   		                                            | ? m                     |                                    | d. 16/12     |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2-3  | grafik og modeller 3D                                          | 12m                     |                                    | d. 6/1       |
+| 2-3  | grafik og modeller 3D                                          | ? m                     |                                    | d. 6/1       |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
-| 5    | databasesikkerhed (sikkerhed 2)                                |  6m                     |                                    | d. 27/1      |
+| 5    | databasesikkerhed (sikkerhed 2)                                | ? m                     |                                    | d. 27/1      |
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | [Eksamensprojekt](eksamen2025/eksamen2025.md)                  | 84m                     |                                    | d.17/2 i aula|
-| 19   | [Aflev. 6/5 Lectio + 7/5 udprint admin](eksamen2025/eksamen2025.md#Aflevering) | 6m/ ca. 40et            | produkt+rapport                    |              |
+| 8-18 | [Eksamensprojekt]                                              | ? m                     |                                    | d.17/2 i aula|
+| 19   | [Aflev. 5/5 Lectio + 6/5 udprint admin] | 6 m / ca. 40 et      | produkt+rapport         |                                    |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer      
 [3]: ikke alle forløb er opdateret i starten af skoleåret så forløbene kan/vil ændre sig
-
--------------------------------------
-
-# Eksamensprojekt eksamen grupper og statusmøder
-
--[Eksamensprojekt og eksamen 2025](eksamen2025/eksamen2025.md)
-
--[Grupper til eksamensprojektet](eksamen2025/grupper.md)
-
--[Statusmøder (uge 12, 15 og 18)](eksamen2025/moder/mode3.md)
 
 -------------------------------------
 
@@ -127,7 +118,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 Når vi ser det fra et matematisk synspunkt, kan det desværre være nødvendigt at udføre et stort antal brugertests for at kunne vurdere statistisk signifikans. Dette kan være både uoverkommeligt og uhensigtsmæssigt inden for et fag som "digitalt design og udvikling". Ikke desto mindre er vores holdning til brugertests, at det altid er bedre at teste end slet ikke at teste.
 
 Årsagen hertil er, at bare en enkelt dygtig testperson kan opdage mange ting, som produktudviklere måske ikke selv ser, da de kan være påvirket af bias.
-Som minumum bør man dog stræbe efter 5 testpersoner.
+Som minumum bør man dog stræbe efter 5 testpersoner og altid forsøge at finde testpersoner som man ikke har nogen relation til. Det sidste kan være svært, men gør testen betydelig mere pålidelig ( personer man kender siger ikke altid sandheden :-) ). 
 
 En anden person, der deler vores synspunkt, er forfatteren Morten Münster, som du kan læse mere om i følgende blogindlæg:
 https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-dag-en-bog-om-adfaerdsdesign/
