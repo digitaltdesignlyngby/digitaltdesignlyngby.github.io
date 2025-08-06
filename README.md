@@ -103,6 +103,12 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 -------------------------------------
 
+# Eksamensprojekt eksamen grupper og statusmøder
+
+-Opdateres senere...
+
+-------------------------------------
+
 # Materialer
 
 - ***from zero*** : [Learning gdscript from zero, interaktiv bog/app](https://gdquest.github.io/learn-gdscript/)
@@ -157,3 +163,4 @@ Alle afleveringer er karaktergivende. Alle afleveringer bedømmes med udgangspun
 # Teknologiværksted
 
 [DDU-værkstedet i Teknologi](teknologi_vaerksted/beskrivelse.md)
+			
