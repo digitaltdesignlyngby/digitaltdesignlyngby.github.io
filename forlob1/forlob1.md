@@ -12,7 +12,7 @@ Vi foreslå i går sammen i grupper på 2 eller 3 personer.
 Hvis i ikke sidder klassen, skriv da jeres lokation på vores teams-kanalen, så vi kan finde jer...
 Vi vil gå rundt og vejlede resten af dagen. Opsamling næste gang - happy coding ;-) 
 
-| ***Mandag 11.august*** 
+***Mandag 11.august*** 
 | moduler                | sted                    | indhold         | læsestof                                                                                                                | opgaver                                   |
 |------------------------|-------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | 4. modul               | klasser                 | intro til faget |                                                                                                                         |                                           |
