@@ -1,7 +1,7 @@
 ***Opgave: Simuler Faldende Regndråber***
 
 Lidt vigtig info inden du går igang:
-- [https://docs.godotengine.org/en/4.2/tutorials/scripting/gdscript/gdscript_basics.html?highlight=inner#inner-classes](https://docs.godotengine.org/en/4.2/tutorials/scripting/gdscript/gdscript_basics.html#inner-classes)
+- [https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html?highlight=inner#inner-classes](https://docs.godotengine.org/en/4.2/tutorials/scripting/gdscript/gdscript_basics.html#inner-classes)
 
 I denne opgave skal du bruge Godot og GDScript til at skabe en simpel simulation af regndråber, der falder fra toppen af skærmen og lander som små cirkler på jorden.
 
@@ -16,4 +16,4 @@ I denne opgave skal du bruge Godot og GDScript til at skabe en simpel simulation
 
 ***Ekstre udfordring:***
 
-Ud fra samme princip som i oventsående lav en klasse der hedder Dyr. Instanser af klassen dyr skal kunne indsættes ved at trykke et sted på skærmen. Dyret skal herefter bevæge sig selvstændigt rundt på skærmen i på en tilfældig men realistisk måde.
+Ud fra samme princip som i oventsående lav en klasse der hedder Dyr. Instanser af klassen dyr skal kunne indsættes ved at trykke et sted på skærmen. Dyret skal herefter bevæge sig selvstændigt rundt på skærmen på en tilfældig men realistisk måde.
