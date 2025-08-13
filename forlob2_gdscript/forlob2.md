@@ -11,7 +11,7 @@
 
 ***Forløbsplan : uge 34 - mandag d.18/8 + onsdag d. 20/8***
 
-| Uge 35                 | arbejdsform       | indhold                                                                                                                                                                                                                                |
+| Uge 34                 | arbejdsform       | indhold                                                                                                                                                                                                                                |
 |------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ***Mandag 18.august*** |                   |                                                                                                                                                                                                                                        |
 | 4. modul               | intro i klasser   | løsning på skakbræt-opgaven  <br/> [Chess2D](Chess2D.txt)   <br/>  [Chess semi 3D billed](skak_semi_3D_2.png)   <br/>  [Chess semi 3D](Chess_semi_3D.txt)                                                                                                                                                                                                         |
