@@ -23,7 +23,7 @@
 | 2. modul               | arbejd  selv      | [læs: nature of code ,chap6: auto-agents](https://natureofcode.com/book/chapter-6-autonomous-agents/) <br/> Lav eksemplerne i Godot med gdscript                                                                                       |
 | 3. modul               | arbejd  selv      | Fortsæt med at læse, eller arbejd med at forstå opgaverne fra i mandags (se nedenfor).                                                                                                                                                               |
 
-***Godot projekte løsninger for [follower](follower.zip) og [lykkehjul](wheeloffortune.zip)***
+***Godot projekter, løsninger for [follower](follower.zip) og [lykkehjul](wheeloffortune.zip)***
 
 
 
