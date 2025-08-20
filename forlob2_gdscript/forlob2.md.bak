@@ -21,7 +21,7 @@
 | ***Onsdag 20.august*** |                   |                                                                                                                                                                                                                                        |
 | 1. modul               | intro i aula      | [løsning på follower opgaven uden CharacterBody2d](follower_without_characterBody2d.txt) <br/> [løsning på follower opgaven med CharacterBody2d](follower_with_characterBody2d.txt)                                                                                                                                                                                                          |
 | 2. modul               | arbejd  selv      | [læs: nature of code ,chap6: auto-agents](https://natureofcode.com/book/chapter-6-autonomous-agents/) <br/> Lav eksemplerne i Godot med gdscript                                                                                       |
-| 3. modul               | intro i klasser   | løsning follower med acceleration og tilfældig bevægelse                                                                                                                                                                               |
+| 3. modul               | arbejd  selv      | Fortsæt med at læse, eller arbejd med at forstå opgaverne fra i mandags.                                                                                                                                                                                |
 
 
 
