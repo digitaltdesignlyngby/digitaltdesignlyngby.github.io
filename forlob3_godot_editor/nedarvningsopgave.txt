@@ -1,0 +1,9 @@
+Nedarvningsopgave.
+
+Lav et lille spil hvor spilleren styrer et byttedyr v.h.a. musen og der
+dannes et rovdyr som automatisk forfølger byttedyret hver gang der trykkes
+på ”mellemrumstasten” eller ”enter-tasten”.
+Du kan vælge at lade byttedyret være en cirkel og rovdyrene en firkant. 
+Da både byttedyr og rovdyr kan bevæge sig, skal der laves en ”base” klasse
+som de to underklasser (byttedyr og rovdyr) nedarver fra (extender).
+I basisklassen samles al den kode som de to typer dyr har til fældes. 
