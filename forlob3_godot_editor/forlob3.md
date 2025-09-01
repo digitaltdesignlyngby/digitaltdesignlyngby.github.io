@@ -31,4 +31,4 @@
 [løsning på nedarvningsopgave - predator class, child class](Predator class.txt)
 [løsning på nedarvningsopgave - prey class, child class](Prey class.txt)                                                                                                                                                                                                                                        |
 
-                                                                             |
+                                                                             

@@ -16,6 +16,7 @@
 | 4. modul                  | intro i klasser   | Gennemgang af en løsning til 'physics engine in a 2d platformer [eksempel med 2d platformer og arbejde med character og physics engine](platform and character movement.txt)                                                                                                                                                                                                                                  |
 | 5. til 7. modul hold 1    | arbejd selv       | [opgave i sceneskift med lyd og data](opgave_sceneskift_lyd%26data.pdf)  (lav resten...)                                                                                                                                               |
 | 5. til 7. modul hold 2    | arbejd selv       | [opgave i 2d top/down og platform fysik](opgave_2dfysik_1.md)                                                                                                                                                                          |
+| 5. til 7. begge hold      | arbejd selv       | [Nedarvningsopgave](nedarvningsopgave.txt)                                                                                                                                                                          |
 
 
 ***Forløbsplan uge 36 (onsdag) : Læsning af Godot Game Development for Beginners - Kapitel 1***
