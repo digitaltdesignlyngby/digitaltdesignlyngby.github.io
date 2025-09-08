@@ -112,7 +112,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 # Materialer
 
 - ***from zero*** : [Learning gdscript from zero, interaktiv bog/app](https://gdquest.github.io/learn-gdscript/)
-- ***docs 4.2*** : [Godot engine dokumentation](https://docs.godotengine.org/en/4.2/)
+- ***docs 4.4*** : [Godot engine dokumentation](https://docs.godotengine.org/en/4.4/)
 - ***godot beginner*** : [Godot Game Development for Beginners, af Daniel Buckley](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)
 - ***ddu-systime*** : [Bogen digital design og udvikling fra Systime](https://ddu.systime.dk/)
 - ***computerspil teori*** : [Bogen computerspil fra Systime](https://computerspil.systime.dk/)
@@ -124,7 +124,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 Når vi ser det fra et matematisk synspunkt, kan det desværre være nødvendigt at udføre et stort antal brugertests for at kunne vurdere statistisk signifikans. Dette kan være både uoverkommeligt og uhensigtsmæssigt inden for et fag som "digitalt design og udvikling". Ikke desto mindre er vores holdning til brugertests, at det altid er bedre at teste end slet ikke at teste.
 
 Årsagen hertil er, at bare en enkelt dygtig testperson kan opdage mange ting, som produktudviklere måske ikke selv ser, da de kan være påvirket af bias.
-Som minumum bør man dog stræbe efter 5 testpersoner og altid forsøge at finde testpersoner som man ikke har nogen relation til. Det sidste kan være svært, men gør testen betydelig mere pålidelig ( personer man kender siger ikke altid sandheden :-) ). 
+Som minimum bør man dog stræbe efter 5 testpersoner og altid forsøge at finde testpersoner som man ikke har nogen relation til. Det sidste kan være svært, men gør testen betydelig mere pålidelig ( personer man kender siger ikke altid sandheden :-) ). 
 
 En anden person, der deler vores synspunkt, er forfatteren Morten Münster, som du kan læse mere om i følgende blogindlæg:
 https://larskjensen.dk/anmeldelse-jytte-fra-marketing-er-desvaerre-gaaet-for-i-dag-en-bog-om-adfaerdsdesign/
