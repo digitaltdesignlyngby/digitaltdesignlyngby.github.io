@@ -1,4 +1,4 @@
-<h1>Filer til DDU Grafik</h1>
+<h1>Filer til DDU Grafik og interaktivdesign</h1>
 
 I denne uge skal vi arbejde dels med grafik (GIMP) så I kan lave jeres egne spillefigurer m.m. og dels med TileMaps (Godot),
 så I bliver god til at lave nogle gode, flotte og spændende spillebaner.
@@ -9,6 +9,8 @@ Start med at se [intro powerpointen](DDU - grafik og tilemaps.pptx), og vælg de
 - [Intro PowerPoint](DDU - grafik og tilemaps.pptx)
 - [Links til videoer og øvelser med grafik GIMP](Links til videoer og øvelser med GIMP.docx)
 - [Intro og links til TileMaps](Tilemaps m links.docx)
+
+- [Powerpoint intro til interaktivdesig og relaterede begreber](Interaktivdesign.pptx)
 
 Nedenstående film er klippet op i [mindre film som I kan finde her](https://teccph-my.sharepoint.com/:f:/g/personal/kkm_tec_dk/EofuC3O3_khHmt3mOQpPQdkBfAyAxqIqAoG0EhanVah0ew?e=rpm0zo)
 - [Demo film GIMP Indstillinger](Grafik præs Indstillinger.mp4)
