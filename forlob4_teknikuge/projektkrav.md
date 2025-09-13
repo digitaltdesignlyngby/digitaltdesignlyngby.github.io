@@ -10,7 +10,7 @@ Uafhængig af hvilken type spil I laver er der grundlæggende krav som vi forven
 - Der skal ligge overvejelser bag brug af grafik (men I må godt bruge grafik fra internettet)
 - Omfanget af spillet skal passe med den tid I har til at lave det samt antal gruppemedlemmer
 
-- * Gør brug, i det omfang det er muligt, af følgende interaktivdesign principper
+(*) Gør brug, i det omfang det er muligt, af følgende interaktivdesign principper
 	- Synlighed
 	- Feedback
 	- Konsistens
