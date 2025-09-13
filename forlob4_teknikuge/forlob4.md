@@ -21,3 +21,7 @@ For at kunne bruge github-pages til at hoste jeres spil, skal I både kende til 
 
 Hvis I ønsker at arbejde sammen via github kan I se følgende video:
 - [video : samarbejde via github (I behøver ikke se hele videoen)](https://youtu.be/kS5j8DJZLX8?si=GceeoGpAWSh8sMay&t=664) 
+
+Grupper 2025:
+- [Hold1](hold1_2025.txt)
+

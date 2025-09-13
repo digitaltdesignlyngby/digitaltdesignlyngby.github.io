@@ -1,0 +1,10 @@
+1	Asger, Emilie, Kristine og Sirius
+2	Max, Oliver, Gustav og Kasper
+3	Sejr, Asal og Adam
+4	Silas, Karl, Jacek og Christian Dahl
+5	Theodor, Marcus og David Læbro
+6	Willum, Wilfred og David Gawin
+7	Eliot, Frederik, August og Christian Nielsen
+
+
+
