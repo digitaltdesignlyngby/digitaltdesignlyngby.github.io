@@ -6,6 +6,7 @@ Uafhængig af hvilken type spil I laver er der grundlæggende krav som vi forven
 
 ### Selve spillet SKAL indeholde følgende:
 - Reglerne for spillet skal fremgå tydeligt
+- Progression i spillet skal fremgå tydeligt f.eks. vha. en healthbar, pointscore m.m.
 - Spillet skal fremstå intuitivt for spilleren* 
 - Der skal ligge overvejelser bag brug af grafik (men I må godt bruge grafik fra internettet)
 - Omfanget af spillet skal passe med den tid I har til at lave det samt antal gruppemedlemmer
