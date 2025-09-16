@@ -5,8 +5,8 @@ Velkommen til teknikugen. I denne uge skal I lave jeres første spil-projekt. Sp
 ![spiluge.jfif](spiluge.jfif)
 
 ### Kravene til afleveringen er:
-- ***Et link til jeres web-spil***
-- ***En ca. 3 minutters video, hvor I præsenterer jeres spil***
+- ***En zip fil med projekt afleveret på Lectio (hvis filen er for stor så et link til ekstern lager)***
+- ***En ca. 3 minutters video, hvor I præsenterer jeres spil, aflever link også på Lectio***
 - ***Højest 4 personer pr. gruppe***
 
 ### Kravene til selve spille kan i læse her: 
