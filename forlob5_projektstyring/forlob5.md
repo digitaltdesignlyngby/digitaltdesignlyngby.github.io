@@ -4,7 +4,7 @@
 
 I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.   
 - Spillet skal enten være en videreudvikling af det spil i lavede i projektugen eller et helt nyt spil.      
-- Grupperne skal være på 2 til 4 personer. 
+- Grupperne skal være de samme som under teknikfagsugen (2D-spil v.1) 
 
 ## Materialer om projektstyring
 - [slides projektstyring](slides_projektstyring.pdf)    
@@ -35,11 +35,11 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 
 |                           | emne                               | moduler        | 
 |---------------------------|------------------------------------|----------------|
-| ***Mandag 23.september*** | intro aula & læsning (sprint 1 opstart)| 4 moduler      |
-| ***Onsdag 25.september*** | sprint 1 : se ovenfor              | 3 moduler      |
-| ***Onsdag 2.oktober***    | sprint 2 : se ovenfor              | 3 moduler      |
-| ***Mandag 7.oktober***    | sprint 2 : se ovenfor              | 4 moduler      |
-| ***onsdag 9.oktober***    | sprint 2 : se ovenfor samt aflevering| 3 moduler      |
+| ***Mandag 22.september*** | sprint 1 opstart					 | 4 moduler      |
+| ***Onsdag 24.september*** | sprint 1 : se ovenfor              | 3 moduler      |
+| ***Mandag 29.oktober***   | sprint 2 : se ovenfor              | 4 moduler      |
+| ***Onsdag 1.oktober***    | sprint 2 : se ovenfor              | 3 moduler      |
+| ***Mandag 6.oktober***    | sprint 2 : se ovenfor samt aflevering| 4 moduler      |
 
 
 ## Afleveringsopgaven projektstyret spiludvikling - fredag d.11 oktober
