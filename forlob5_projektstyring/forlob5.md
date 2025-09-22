@@ -42,7 +42,7 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 | ***Mandag 6.oktober***    | sprint 2 : se ovenfor samt aflevering| 4 moduler      |
 
 
-## Afleveringsopgaven projektstyret spiludvikling - fredag d.11 oktober
+## Afleveringsopgaven projektstyret spiludvikling - fredag d.10 oktober
 - video-gennemgang af brugertest, tasks, burn-down, projektboard og evaluering af den udførte projektstyring
 - godot-projektet
 - eksekvertbart spil
