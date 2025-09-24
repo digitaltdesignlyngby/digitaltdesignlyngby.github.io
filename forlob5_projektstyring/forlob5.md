@@ -9,6 +9,8 @@ I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.
 ## Materialer om projektstyring
 - [slides projektstyring](slides_projektstyring.pdf)    
 - [matrialer og bøger](materialeplan.md)
+- [User stories og Kanban board](User stories, og Kanban board eksempel.docx)
+- [Produkttest](Produkt Test.pptx)
 
 ![boeard](pic_board.png)
 
