@@ -81,10 +81,10 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 37   | [grafik, interaktivdesign & tilemaps](forlob7_grafik/Filer_til_Grafik.md) | 7 m                     |                                    | aula opstart?      |
 | 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 35 m / 15 et            | produkt                            | opstart aula d. 15/9|
 | 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 18 m              | produkt                            | opstart aula d. 22/9|
-| 41   | [databaser](forlob6_database/Filer_til_Database.md)            | 3 m                     |(produkt efter efterårsferien)      | opstart aula d. 8/10|
+| 41   | [databaser](forlob6_database/Filer_til_Database.md)            | 3 m                     |                                    | opstart i klasser|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
-| 43   | [databaser fortsat](forlob6_database/Filer_til_Database.md)    | 7 m                     | produkt                            |              |
-| 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | d. 30/10     |
+| 43   | [databaser fortsat](forlob6_database/Filer_til_Database.md)    | 7 m                     | minus produkt                      |              |
+| 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | d. 27/10     |
 | 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m / 7 et              | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
 | 51   | sikkerhed 1   		                                            | ? m                     |                                    | d. 16/12     |
