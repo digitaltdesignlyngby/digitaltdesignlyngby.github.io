@@ -9,8 +9,9 @@ Start gerne med at se [intro powerpointen](Intro til databaser DDU 25_26.pptx), 
 
 ### Link til filer: 
 - [Intro PowerPoint](Intro til databaser DDU 25_26.pptx)
-- [Link til dokument med tutorialvideoer](Kort om GDScript koden til MySQL test projektet.docx)
 - [Link til dokument med mini SQL tutorial](Mini SQL kursus.docx)
+- [Installation og introduktion til WAMP (+ MAMP)](Installation og introduktion til WAMP.docx)
+- [Link til dokument med tutorialvideoer](Kort om GDScript koden til MySQL test projektet.docx)
 - [Zip med Godot testprojekt m.m. til MySQL](testprojekt til MySQL.zip)
 - [Opgave til forbløbet](Opgave til databaseforløb 2025.docx)
 
