@@ -21,7 +21,7 @@ SQL til at lave databaseforespørgelser. Som det sidste skal vi også arbejde me
 - [Gennemgang af MyAdmin (MySQL) interface](MyAdmin_MySQL interface gennemgået.docx)
 	- [Kort om MyAdmin FILM](kort om MyAdmin.mp4)
 - [Link til dokument med mini SQL tutorial](Mini SQL kursus.docx)
-- [Link til dokument med tutorialvideoer](Kort om GDScript koden til MySQL test projektet.docx)
+- [Link til dokument med tutorialvideoer](Kort om GDScript koden til Godot_MySQL test projektet.docx)
 - [Zip med Godot testprojekt m.m. til MySQL](testprojekt til MySQL.zip)
 - [Opgave til forbløbet](Opgave til databaseforløb 2025.docx)
 
