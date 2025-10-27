@@ -84,10 +84,10 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 41   | [databaser](forlob6_database/Filer_til_Database.md)            | 3 m                     |                                    | opstart i klasser|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43   | [databaser fortsat](forlob6_database/Filer_til_Database.md)    | 7 m                     | minus produkt                      |              |
-| 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | d. 27/10     |
-| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | ? m / 7 et              | produkt & rapport                  |              |
+| 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | opstart i klasser|
+| 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 27 m / 7 et              | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | sikkerhed 1   		                                            | ? m                     |                                    | d. 16/12     |
+| 51   | sikkerhed 1   		                                            | 7 m                     |                                    | d. 15/12     |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
 | 2-3  | grafik og modeller 3D                                          | ? m                     |                                    | d. 6/1       |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
