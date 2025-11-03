@@ -116,6 +116,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 - ***godot beginner*** : [Godot Game Development for Beginners, af Daniel Buckley](https://gamedevacademy.org/wp-content/uploads/2020/07/Godot-Game-Development-for-Beginners.pdf)
 - ***ddu-systime*** : [Bogen digital design og udvikling fra Systime](https://ddu.systime.dk/)
 - ***computerspil teori*** : [Bogen computerspil fra Systime](https://computerspil.systime.dk/)
+- ***Projektarbejde - skriftlighed*** : [Projektarbejder - en bog til teknologi og teknikfag](https://projektarbejdet.systime.dk/?id=1)
 - ***design of everyday things*** : [The design of every day things, af Don Norman](Design of everyday things.pdf)
 - ***technology as Experience*** : [af John McCarthy + Peter Wright](Technology_as_Experience.pdf)
 - ***the UX Book- Process and Guidelines for Ensuring a Quality User Experience*** : [The UX Book](The UX Book- Process and Guidelines for Ensuring a Quality User Experience, Rex Hartson.pdf)
