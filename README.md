@@ -87,7 +87,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 44   | [minieksamensprojekt præproduktion](forlob8_pre_mini/forlob8.md)| 7 m                    | projektbeskrivelse & gdd           | opstart i klasser|
 | 45-48| [minieksamensprojekt produktion](forlob9_pro_mini/forlob9.md)  | 27 m / 7 et              | produkt & rapport                  |              |
 | 49-50| ***sop***                                                      |                         |                                    |              |
-| 51   | sikkerhed 1   		                                            | 7 m                     |                                    | d. 15/12     |
+| 51   | cybersikkerhed 		                                        | 7 m                     |                                    | d. 15/12     |
+| 51   | [DB sikkerhed med Godot](forlob6_database/database_sikkerhed/secure.zip) | 4 m                     |                                    | opstart i klasser|
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
 | 2-3  | grafik og modeller 3D                                          | ? m                     |                                    | d. 6/1       |
 | 4    | ***sop eksamen***                                              |                         |                                    |              |
