@@ -90,15 +90,13 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 51   | cybersikkerhed 		                                        | 7 m                     |                                    | d. 15/12     |
 | 51   | blender 3D modeller  		                                    | 4 m                     |                                    | d. 17/12     |
 | 52-1 | ***juleferie***                                                |                         |                                    |              |
-| 2    | blender 3D modeller fortsat                                    | 7 m                     |                                     | d. 5/1 + 7/1 |
+| 2    | blender 3D modeller fortsat?                                   | 7 m                     |                                    | d. 5/1 + 7/1 |
 | 3    | ***sop eksamen***                                              |                         |                                    |              |
-| 4    | blender 3D modeller fortsat                                    | 3 m                     |                                    | d. 19/1      |
-| 4    | [DB sikkerhed med Godot](forlob6_database/database_sikkerhed/secure.zip) | 4 m           |                                    | d. 21/1      |
-| 5    | DB sikkerhed med Godot fortsat                                 | 3 m                     |                                    | d. 26/1      | 
-| 5    | Introduktion til Eksamensprojekt m.m.                          | 4 m                     |                                    | Opstart Aula | 
+| 4    | blender 3D modeller fortsat?                                   | 7 m                     |                                    | d. 19/1 + 21/1|
+| 5    | [DB sikkerhed med Godot](forlob6_database/database_sikkerhed/secure.zip) | 7 m           |                                    | opstart i klasser| 
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | [Eksamensprojekt]                                              | 90 m                    |                                    | d.17/2 i aula|
+| 8-18 | [Eksamensprojekt]                                              | 90 m                     |                                    | d.17/2 i aula|
 | 19   | [Aflev. 5/5 Lectio + 6/5 udprint admin] | 6 m / ca. 40 et      | produkt+rapport         |                                    |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
