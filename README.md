@@ -98,8 +98,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 | 5    | Introduktion til Eksamensprojekt m.m.                          | 4 m                     |                                    | Opstart Aula | 
 | 6    | ***terminsprøver***                                            |                         |                                    |              |
 | 7    | ***vinterferie***                                              |                         |                                    |              |
-| 8-18 | [Eksamensprojekt]                                              | 90 m                    |                                    | d.17/2 i aula|
-| 19   | [Aflev. 5/5 Lectio + 6/5 udprint admin] | 6 m / ca. 40 et      | produkt+rapport         |                                    |
+| 8-18 | [Eksamensprojekt](eksamen2026/eksamen2026.md)                  | 87 m / ca. 50 et        |                                    | d.28/1 i klasser|
+| 19   | Aflev. 5/5 Lectio + 6/5 udprint admin                          |  3 m                    | produkt+rapport                    |                                    |
 
 [1]: tryk på titlen for emnet for at se foløbsplan      
 [2]: "m" står for moduler og "et" står for elevtimer      
@@ -109,8 +109,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 # Eksamensprojekt eksamen grupper og statusmøder
 
-[Eksamensinformation](eksamen2026/eksamen2026.md)
-[Grupper til eksamen](eksamen2026/grupper.md)
+-[Eksamensinformation](eksamen2026/eksamen2026.md)
+-[Grupper til eksamen](eksamen2026/grupper.md)
 
 -------------------------------------
 

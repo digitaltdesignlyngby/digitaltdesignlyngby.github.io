@@ -59,7 +59,7 @@ Vejlederne skal godkende jeres projektbeskrivelse inden I er berettiget til at g
 
 **5 gode råd:**   
 
-1. Anvende en problembaseret tilgang, analogt med tilgangen i teknologi dog med den forskel at i DDU er det mere tekniske problemstillinger.  
+1. Anvend en problembaseret tilgang, analogt med tilgangen i teknologi dog med den forskel at i DDU er det mere tekniske problemstillinger.  
 2. Husk at begrund alle valg ved at inddrage kilder, dokumentation, teori og/eller empiri.
 3. Vær sikker på at dokumentere projektstyringen omhyggeligt, især processen. Det skal klart fremgå, at I anvender en agil tilgang, og at der efter hver iteration gennemføres evalueringer, der påvirker indholdet af den næste iteration.
 4. Glem ikke at udarbejde teknisk dokumentation, der inkluderer billeder, forklarende illustrationer, diverse diagrammer og kodeeksempler. Beskrivelsen af produktets tekniske opbygning skal formidles på en letforståelig måde ved at starte med overordnede beskrivelser og skærmbilleder fra selve produktet. Derefter skal der gradvist inkorporeres tegninger og diagrammer af mere teknisk karakter, før man til sidst dykker ned i koden.
