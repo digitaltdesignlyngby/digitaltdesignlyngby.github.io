@@ -109,9 +109,8 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 # Eksamensprojekt eksamen grupper og statusmøder
 
--[Eksamensinformation](eksamen2026/eksamen2026.md)
-
--[Grupper til eksamen](eksamen2026/grupper.md)
+- [Eksamensinformation](eksamen2026/eksamen2026.md)
+- [Grupper til eksamen](eksamen2026/grupper.md)
 
 -------------------------------------
 
