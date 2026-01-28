@@ -27,7 +27,7 @@ Statusmøde 2 - Demo
 
 |               |               |
 | ------------- | ------------- |
-| Dato          | 13/4           |
+| Dato          | 13/4          |
 | Formål        | Prototype & Demo & Projektstyring  |
 | Beskrivelse   | Vi vil gerne se en prototype-brugerundersøgelse, demonstration af et fungerende program med væsentlige features og projektstyring, der viser hvad er der sket indtil nu og hvordan I bliver færdige til tiden |  
 | Præsentation  | 7 minutter    |
@@ -35,7 +35,6 @@ Statusmøde 2 - Demo
 
 |               |           |              |
 |---------------|-----------|--------------|
-
 | 08:50 - 09:05 | Gruppe 3  |  |
 | 09:10 - 09:25 | Gruppe 4  |  |
 | 09:25 - 09:40 | Gruppe 5  |  |
