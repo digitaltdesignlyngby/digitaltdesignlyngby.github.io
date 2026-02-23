@@ -5,7 +5,7 @@ God fornøjelse ;-) :
 
 # Afleveringsfrister
 
-## Mandag d.27/2 kl.23:00 : Projektbeskrivelse og GDD på lectio
+## Torsdag d.27/2 kl.23:00 : Projektbeskrivelse og GDD på lectio
 
 Vi bruger uge 8+9 på at danne grupper, ide-generere, første udkast af hhv. projektbeskrivelse og GDD med udgangspunkt i en af de nævnte ’projekt forslag’.  
 
