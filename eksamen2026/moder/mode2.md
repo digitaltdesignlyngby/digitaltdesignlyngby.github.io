@@ -2,7 +2,7 @@ Statusmøde 2 - Demo
 
 |               |               |
 | ------------- | ------------- |
-| Dato          | 8/4           |
+| Dato          | 13/4           |
 | Formål        | Prototype & Demo & Projektstyring  |
 | Beskrivelse   | Vi vil gerne se en prototype-brugerundersøgelse, demonstration af et fungerende program med væsentlige features og projektstyring, der viser hvad er der sket indtil nu og hvordan I bliver færdige til tiden |  
 | Præsentation  | 7 minutter    |
@@ -10,24 +10,24 @@ Statusmøde 2 - Demo
 
 |               |           |              |
 |---------------|-----------|--------------|
-| 12:20 - 12:35 | Gruppe 11 |  |
-| 12:35 - 12:50 | Gruppe 12 |  |
-| 12:50 - 13:05 | Gruppe 13 |  |
-| 13:15 - 13:30 | Gruppe 14 |  |
-| 13:30 - 13:45 | Gruppe 15 |  |
-| 13:45 - 14:00 | Gruppe 16 |  |
-| 14:10 - 14:25 | Gruppe 17 |  |
-| 14:25 - 14:40 | Gruppe 18 |  |
-| 14:40 - 14:55 | Gruppe 19 |  |
-| 15:05 - 15:20 | Gruppe 20 |  |
-| 15:20 - 15:35 | Gruppe 1  |  |
-| 15:35 - 15:50 | Gruppe 2  |  |
+| 08:30 - 08:45 | Gruppe 1  |  |
+| 08:45 - 09:00 | Gruppe 2  |  |
+| 09:00 - 09:15 | Gruppe 3  |  |
+| 09:25 - 09:40 | Gruppe 4  |  |
+| 09:40 - 09:55 | Gruppe 5  |  |
+| 09:55 - 10:10 | Gruppe 6  |  |
+| 10:20 - 10:35 | Gruppe 7  |  |
+| 10:35 - 10:50 | Gruppe 8  |  |
+| 10:50 - 11:05 | Gruppe 9  |  |
+| 11:05 - 11:20 | Gruppe 10 |  |
+| 12:10 - 12:25 | Gruppe 11 |  |
+| 12:25 - 12:40 | Gruppe 12 |  |
 
 
 
 |               |               |
 | ------------- | ------------- |
-| Dato          | 13/4          |
+| Dato          | 14/4          |
 | Formål        | Prototype & Demo & Projektstyring  |
 | Beskrivelse   | Vi vil gerne se en prototype-brugerundersøgelse, demonstration af et fungerende program med væsentlige features og projektstyring, der viser hvad er der sket indtil nu og hvordan I bliver færdige til tiden |  
 | Præsentation  | 7 minutter    |
@@ -35,14 +35,14 @@ Statusmøde 2 - Demo
 
 |               |           |              |
 |---------------|-----------|--------------|
-| 08:50 - 09:05 | Gruppe 3  |  |
-| 09:10 - 09:25 | Gruppe 4  |  |
-| 09:25 - 09:40 | Gruppe 5  |  |
-| 09:40 - 09:55 | Gruppe 6  |  |
-| 09:55 - 10:10 | Gruppe 7  |  |
-| 10:25 - 10:40 | Gruppe 8  |  |
-| 10:55 - 11:10 | Gruppe 9  |  |
-| 11:10 - 11:25 | Gruppe 10 |  |
+| 13:20 - 13:35 | Gruppe 13 |  |
+| 13:35 - 13:50 | Gruppe 14 |  |
+| 13:50 - 14:05 | Gruppe 15 |  |
+| 14:15 - 14:30 | Gruppe 16 |  |
+| 14:30 - 14:45 | Gruppe 17 |  |
+| 14:45 - 15:00 | Gruppe 18 |  |
+| 15:00 - 15:15 | Gruppe 19 |  |
+| 15:35 - 15:50 | Gruppe 20 |  |
 
 
 
