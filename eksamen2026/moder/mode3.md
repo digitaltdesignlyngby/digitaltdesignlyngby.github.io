@@ -17,8 +17,8 @@ Statusmøde 3 - The Final
 | 09:40 - 10:00 | Gruppe 13 |  |
 | 10:00 - 10:20 | Gruppe 16 |  |
 | 10:30 - 10:50 | Gruppe 12 |  |
-| 10:50 - 11:10 | Gruppe 19 |  |
-| 11:10 - 11:30 | Gruppe 17 |  |
+| 10:50 - 11:10 | Gruppe 17 |  |
+
 
 
 
@@ -43,7 +43,6 @@ Statusmøde 3 - The Final
 | 14:30 - 14:50 | Gruppe 2  |  |
 | 14:50 - 15:10 | Gruppe 3  |  |
 | 15:10 - 15:30 | Gruppe 7  |  |
-| 15:30 - 15:50 | Gruppe 18 |  |
-| 15:50 - 16:10 | Gruppe 20 |  |
+
 
 

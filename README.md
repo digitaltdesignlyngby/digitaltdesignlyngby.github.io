@@ -111,7 +111,9 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 - [Eksamensinformation](eksamen2026/eksamen2026.md)
 - [Grupper til eksamen](eksamen2026/grupper.md)
-- [oversigt over statusmøde 1](eksamen2026/moder/mode1.html)
+- [oversigt over statusmøde 1 (16+18/3)](eksamen2026/moder/mode1.html)
+- [oversigt over statusmøde 2 (13+14/4)](eksamen2026/moder/mode2.html)
+- [oversigt over statusmøde 3 (27+29/4)](eksamen2026/moder/mode3.html)
 
 -------------------------------------
 
@@ -126,6 +128,7 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 - ***design of everyday things*** : [The design of every day things, af Don Norman](Design of everyday things.pdf)
 - ***technology as Experience*** : [af John McCarthy + Peter Wright](Technology_as_Experience.pdf)
 - ***the UX Book- Process and Guidelines for Ensuring a Quality User Experience*** : [The UX Book](The UX Book- Process and Guidelines for Ensuring a Quality User Experience, Rex Hartson.pdf)
+- ***understanding the Scrum Burndown Chart*** : [af Dusan Kocurek](https://www.methodsandtools.com/archive/scrumburndown.php)
 
 -------------------------------------
 
