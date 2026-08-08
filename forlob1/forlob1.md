@@ -4,7 +4,7 @@ Vi starter med en fælles intro for alle i aula.
 I bliver præsenteret for årsplanen og kernestoffet.
 
 Oplæg i aulaen:
-- [intro første time](DDU (2026 – 2027) H.pptx)
+- [intro første time](DDU 2026_2027.pptx)
 - [DDU opstart links til divs vigtige websites](opstart3.pdf)     
 
 Herefter starter vi op på vores første emne, kodning i GdScript.
