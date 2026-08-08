@@ -1,9 +1,9 @@
 ***Forløbsplan : uge 33 - mandag d.10/8***
 
-Vi starter med en fælles intro for alle i aula. 
+Vi starter med en fælles intro. 
 I bliver præsenteret for årsplanen og kernestoffet.
 
-Oplæg i aulaen:
+Oplæg i klasser:
 - [intro første time](DDU 2026_2027.pptx)
 - [DDU opstart links til divs vigtige websites](opstart3.pdf)     
 
