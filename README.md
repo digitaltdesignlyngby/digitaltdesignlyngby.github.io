@@ -75,12 +75,12 @@ Nedenfor ses nuværende rækkefølge af projekter og forløb [3].
 
 | uge  | emne[1]                                                        | timer[2]                | aflevering                         | andet        |
 |------|----------------------------------------------------------------|-------------------------|------------------------------------|--------------|
-| 33   | [opstart & kodning](forlob1/forlob1.md)                        | 4 m                     |                                    |              |
-| 33-34| [kodning](forlob2_gdscript/forlob2.md)                         | 10 m                    |                                    | opstart aula d. 13/8|
-| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 11 m                    |                                    | aula opstart?|
-| 37   | [grafik, interaktivdesign & tilemaps](forlob7_grafik/Filer_til_Grafik.md) | 7 m                     |                                    | aula opstart?      |
-| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 35 m / 15 et            | produkt                            | opstart aula d. 15/9|
-| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 18 m              | produkt                            | opstart aula d. 22/9|
+| 33   | [opstart & kodning](forlob1/forlob1.md)                        | 3 m                     |                                    | opstart i klasser             |
+| 33-34| [kodning](forlob2_gdscript/forlob2.md)                         | 9 m                    |                                    | |
+| 35-36| [engine](forlob3_godot_editor/forlob3.md)                      | 12 m                    |                                    | |
+| 37   | [grafik, interaktivdesign & tilemaps](forlob7_grafik/Filer_til_Grafik.md) | 7 m                     |                                    | |
+| 38   | [2D-spil v.1](forlob4_teknikuge/forlob4.md)                    | 30 m / 15 et            | produkt                            | |
+| 39-41| [2D-spil v.2 - med projektstyring](forlob5_projektstyring/forlob5.md)| 18 m              | produkt                            | |
 | 41   | [databaser](forlob6_database/Filer_til_Database.md)            | 3 m                     |                                    | opstart i klasser|
 | 42   | ***efterårsferie***                                            |                         |                                    |              |
 | 43   | [databaser fortsat](forlob6_database/Filer_til_Database.md)    | 7 m                     | minus produkt                      |              |
