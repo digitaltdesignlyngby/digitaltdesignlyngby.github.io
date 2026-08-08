@@ -1,11 +1,11 @@
-***Forløbsplan : uge 33 - onsdag d.13/8***
+***Forløbsplan : uge 33 - onsdag ***
 
 | Uge 33                 | arbejdsform       | indhold                                                                                                                                                                                                                                |
 |------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ***Onsdag 13.august*** |                   |                                                                                                                                                                                                                                        |
-| 1. modul               | intro i aula      | [løsning på solsystem-opgaven](solsystem.txt) <br/> [ løsning på solsystem-opgaven med flere Nodes](https://github.com/digitaltdesignlyngby/solsystem2)                                    |
-| 2. modul               | arbejd selv       | [from zero](https://gdquest.github.io/learn-gdscript/)  (lav resten...)                                                                                                                                                                |
-| 3. modul               | arbejd selv       | [docs 4.4 - script basics](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/index.html) <br/><br/>  [små opgaver og indbyggede funktioner](opgaver_basic_4_2.pdf) <br/> [opgave i brug af inner classes](opgave_draaber.md) <br/> [opgave i modulo lyskryds](opgave_lyskryds.md)    |
+| ***Onsdag *** |                   |                                                                                                                                                                                                                                        |
+| første modul               | intro i klasser      | [løsning på solsystem-opgaven](solsystem.txt) <br/> [ løsning på solsystem-opgaven med flere Nodes](https://github.com/digitaltdesignlyngby/solsystem2)                                    |
+| andet modul               | arbejd selv       | [from zero](https://gdquest.github.io/learn-gdscript/)  (lav resten...)                                                                                                                                                                |
+| tredje modul               | arbejd selv       | [docs 4.4 - script basics](https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/index.html) <br/><br/>  [små opgaver og indbyggede funktioner](opgaver_basic_4_2.pdf) <br/> [opgave i brug af inner classes](opgave_draaber.md) <br/> [opgave i modulo lyskryds](opgave_lyskryds.md)    |
 |                        |                   |                                                                                                                                                                                                                                        |
 
 
