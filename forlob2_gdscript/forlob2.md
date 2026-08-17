@@ -21,7 +21,7 @@
 | ***Onsdag *** |                   |                                                                                                                                                                                                                                        |
 | første modul               | intro af CBR     | [løsning på follower opgaven uden CharacterBody2d](follower_without_characterBody2d.txt) <br/> [løsning på follower opgaven med CharacterBody2d](follower_with_characterBody2d.txt)                                                                                                                                                                                                          |
 | anden modul               | arbejd  selv      | [læs: nature of code ,chap6: auto-agents](https://natureofcode.com/book/chapter-6-autonomous-agents/) <br/> Lav eksemplerne i Godot med gdscript                                                                                       |
-| tredje modul               | arbejd  selv      | [opgave i sceneskift med lyd og data](opgave_sceneskift_lyd%26datapdf)                                                                                                                                                               |
+| tredje modul               | arbejd  selv      | [opgave i sceneskift med lyd og data](opgave_sceneskift_lyd%26data.pdf)                                                                                                                                                               |
 
 ***Godot projekter, løsninger for [follower](follower.zip) og [lykkehjul](wheeloffortune.zip)***
 
