@@ -23,7 +23,6 @@
 [løsning på nedarvningsopgave - mover class, eller parent class](Mover class.txt) 
 [løsning på nedarvningsopgave - predator class, child class](Predator class.txt)
 [løsning på nedarvningsopgave - prey class, child class](Prey class.txt)                                                                                                                                                                                                                                        |
-
 | ***Onsdag*** 	|                   |                                                                                                                                                                                                                                        |
 | første modul                  | intro i klasser af CBR          |  [kodestruktur blandt scener i Godot, forslag]()                                                                                                              |
 | anden modul                  | læs selv          |  følg op på mandagens modul, lav videre på spillet i bogen, eller skab noget nyt på spillet.                                                                                                                                                                    |
