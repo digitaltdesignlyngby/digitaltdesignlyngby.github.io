@@ -6,7 +6,8 @@ Det er op til jer selv, hvor meget tid I vil bruge på det enkelte emne, da I mu
 Start med at se [intro powerpointen](DDU - grafik og tilemaps.pptx), og vælg derfra hvad I vælger at kaster jer over først.
 
 ### Bemærk, der vil være oplæg i emnerne interaktivt design og Tilemaps:
-MSA giver oplæg om interaktiv design om mandagen, imens han ligeledes giver oplæg om onsdagen om Tilemaps. Der vil ikke blive givet oplæg om GIMP, men vi anbefaler klart at man tjekker videoer og guides ud om det. GIMP er blot et af mange værktøjer man kan anvende til at lave egne assets mm.
+MSA giver oplæg om interaktiv design om mandagen. I bedes om, at se følgende video om Tilemaps, fra tidstempel 20:50 og frem (gør eventuelt dette på onsdag): [Video om udvikling af spil med fokus på TileMaps] (https://www.youtube.com/watch?v=oED12Mo2018)
+Der vil ikke blive givet oplæg om GIMP, men vi anbefaler klart at man tjekker videoer og guides ud om det. GIMP er blot et af mange værktøjer man kan anvende til at lave egne assets mm.
 
 ### Link til filer: 
 - [Intro PowerPoint](DDU - grafik og tilemaps.pptx)
