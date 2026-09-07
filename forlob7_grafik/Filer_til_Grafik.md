@@ -7,6 +7,7 @@ Start med at se [intro powerpointen](DDU - grafik og tilemaps.pptx), og vælg de
 
 ### Bemærk, der vil være oplæg i emnerne interaktivt design og Tilemaps:
 MSA giver oplæg om interaktiv design om mandagen. I bedes om, at se følgende video om Tilemaps, fra tidstempel 20:50 og frem (gør eventuelt dette på onsdag): [Video om udvikling af spil med fokus på TileMaps] (https://www.youtube.com/watch?v=oED12Mo2018)
+Følgende video kan også anbefales, som viser noget om auto tiles og terrains i Godot: [Video om auto tiles og terrain i Godot] (https://www.youtube.com/watch?v=YsZgZf2P00o)
 Der vil ikke blive givet oplæg om GIMP, men vi anbefaler klart at man tjekker videoer og guides ud om det. GIMP er blot et af mange værktøjer man kan anvende til at lave egne assets mm.
 
 ### Link til filer: 
