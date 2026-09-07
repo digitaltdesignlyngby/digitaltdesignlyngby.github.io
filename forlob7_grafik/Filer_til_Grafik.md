@@ -20,5 +20,6 @@ Nedenstående film er klippet op i [mindre film som I kan finde her](https://tec
 - [Demo film GIMP Topmenu](Grafik præs TopMenu.mp4)
 - [Demo film GIMP Værktøj og lag](Grafik præs Værktøjer.mp4)
 
-
+Her er et udvalg af forslag til værktøjer, hvor man kan arbejde med sine egne assets:
+[LibreSprite](https://libresprite.github.io/#!/)
 
