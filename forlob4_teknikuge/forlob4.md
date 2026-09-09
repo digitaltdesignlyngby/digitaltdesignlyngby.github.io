@@ -22,6 +22,6 @@ For at kunne bruge github-pages til at hoste jeres spil, skal I både kende til 
 Hvis I ønsker at arbejde sammen via github kan I se følgende video:
 - [video : samarbejde via github (I behøver ikke se hele videoen)](https://youtu.be/kS5j8DJZLX8?si=GceeoGpAWSh8sMay&t=664) 
 
-Grupper 2025:
-- [Hold1](Hold1_2025.txt)
+BEMÆRK: 
+Dette er en afleveringsopgave, hvor deadline er søndag den 20/9 klokken 23:30. Hvad der ønskes afleveret står under 'krav til spillet'. I afleverer under Opgaver på lectio.
 
