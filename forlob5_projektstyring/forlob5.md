@@ -7,7 +7,8 @@ I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.
 - Grupperne skal være de samme som under teknikfagsugen (2D-spil v.1) 
 
 ## Materialer om projektstyring
-- [slides projektstyring](slides_projektstyring.pdf)    
+- [slides om projektstyring](Projektstyring i Software Udvikling.pdf)
+- [ældre slides om projektstyring, tag eventuelt et kig](slides_projektstyring.pdf)    
 - [matrialer og bøger](materialeplan.md)
 - [User stories og Kanban board](User stories, og Kanban board eksempel.docx)
 - [Produkttest](Produkt Test.pptx)
