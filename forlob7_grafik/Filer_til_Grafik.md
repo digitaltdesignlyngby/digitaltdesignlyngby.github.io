@@ -6,8 +6,8 @@ Det er op til jer selv, hvor meget tid I vil bruge på det enkelte emne, da I mu
 Start med at se [intro powerpointen](DDU - grafik og tilemaps.pptx), og vælg derfra hvad I vælger at kaster jer over først.
 
 ### Bemærk, der vil være oplæg i emnerne interaktivt design og Tilemaps:
-MSA giver oplæg om interaktiv design om mandagen. I bedes om, at se følgende video om Tilemaps, fra tidstempel 20:50 og frem (gør eventuelt dette på onsdag): [Video om udvikling af spil med fokus på TileMaps] (https://www.youtube.com/watch?v=oED12Mo2018)
-Følgende video kan også anbefales, som viser noget om auto tiles og terrains i Godot: [Video om auto tiles og terrain i Godot] (https://www.youtube.com/watch?v=YsZgZf2P00o)
+MSA giver oplæg om interaktiv design om mandagen. I bedes om, at se følgende video om Tilemaps, fra tidstempel 20:50 og frem (gør eventuelt dette på onsdag): [Video om udvikling af spil med fokus på TileMaps](https://www.youtube.com/watch?v=oED12Mo2018)
+Følgende video kan også anbefales, som viser noget om auto tiles og terrains i Godot: [Video om auto tiles og terrain i Godot](https://www.youtube.com/watch?v=YsZgZf2P00o)
 Der vil ikke blive givet oplæg om GIMP, men vi anbefaler klart at man tjekker videoer og guides ud om det. GIMP er blot et af mange værktøjer man kan anvende til at lave egne assets mm.
 
 ### Link til filer: 
@@ -15,7 +15,7 @@ Der vil ikke blive givet oplæg om GIMP, men vi anbefaler klart at man tjekker v
 - [Links til videoer og øvelser med grafik GIMP](Links til videoer og øvelser med GIMP.docx)
 - [Intro og links til TileMaps](Tilemaps m links.docx)
 
-- [Powerpoint intro til interaktivdesign og relaterede begreber](Interaktivdesign.pptx)
+- [Powerpoint intro til interaktivdesign og relaterede begreber](Interaktivdesign.pdf)
 
 Nedenstående film er klippet op i [mindre film som I kan finde her](https://teccph-my.sharepoint.com/:f:/g/personal/kkm_tec_dk/EofuC3O3_khHmt3mOQpPQdkBfAyAxqIqAoG0EhanVah0ew?e=rpm0zo)
 - [Demo film GIMP Indstillinger](Grafik præs Indstillinger.mp4)
