@@ -13,6 +13,9 @@ I de næste tre uger skal i øve jer i at projektstyre et spiludviklingsprojekt.
 - [User stories og Kanban board](User stories, og Kanban board eksempel.docx)
 - [Produkttest](Produkt Test.pptx)
 
+## Materialer om testing
+- [Slides om tests til Software udvikling](DDU testing in Game Dev.pptx)
+
 ![boeard](pic_board.png)
 
 ## Eksempel på udviklings-iterationer (sprints)
@@ -38,14 +41,15 @@ Typisk opdeling af projektets udviklingsfaser,- vær opmærksom på at indledend
 
 |                           | emne                               | moduler        | 
 |---------------------------|------------------------------------|----------------|
-| ***Mandag 22.september*** | sprint 1 opstart					 | 4 moduler      |
-| ***Onsdag 24.september*** | sprint 1 : se ovenfor              | 3 moduler      |
-| ***Mandag 29.oktober***   | sprint 2 : se ovenfor              | 4 moduler      |
-| ***Onsdag 1.oktober***    | sprint 2 : se ovenfor              | 3 moduler      |
-| ***Mandag 6.oktober***    | sprint 2 : se ovenfor samt aflevering| 4 moduler      |
+| ***Mandag 21.september*** | sprint 1 opstart					 | 4 moduler      |
+| ***Onsdag 23.september*** | sprint 1 : se ovenfor              | 3 moduler      |
+| ***Mandag 28.september***  | sprint 2 : se ovenfor- arbejd selv virtuelt derhjemme              | 4 moduler      |
+| ***Onsdag 30.september***    | sprint 2 : se ovenfor              | 3 moduler      |
+| ***Mandag 5.oktober***    | sprint 2 : se ovenfor samt aflevering| 4 moduler      |
+| ***Onsdag 7.oktober***    | sprint 2 : se ovenfor samt aflevering| 4 moduler      |
 
 
-## Afleveringsopgaven projektstyret spiludvikling - fredag d.10 oktober
+## Afleveringsopgaven projektstyret spiludvikling - fredag d.9 oktober
 - video-gennemgang af brugertest, tasks, burn-down, projektboard og evaluering af den udførte projektstyring
 - godot-projektet
 - eksekvertbart spil
