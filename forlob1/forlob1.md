@@ -1,4 +1,4 @@
-***Forløbsplan : uge 33 - mandag d.10/8***
+***Forløbsplan : uge 33 - mandag d.10/8***  ******
 
 Vi starter med en fælles intro. 
 I bliver præsenteret for årsplanen og kernestoffet.
